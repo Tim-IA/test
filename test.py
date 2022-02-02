@@ -115,7 +115,7 @@ def get_classifier(classifier):
     #st.write("Matrice de confusion", ConfusionMatrixDisplay(confusion_matrix=cm,
                                  #display_labels=['ham', 'spam']))
     st.write("Matrice de confusion", confusion_matrix(y_test, y_pred))
-    st.write('f1_score', f1_score(y_test, y_pred))
+    st.write('f1_score', round(f1_score(y_test, y_pred), 3))
     return model, parameters
           
 model, parameters = get_classifier(classifier)
