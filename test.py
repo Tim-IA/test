@@ -110,7 +110,9 @@ def get_classifier(classifier):
     st.subheader('**Paramètres et Mean test score**')
     st.write('Best Score:', round(grid.best_score_, 2))
     st.write("Coefficient de determination :", round(r2_score(y_test, y_pred), 3))
-    st.write('Precision et Rappel:', precision_recall_curve(y_test, y_pred))
+    precision, recall, thresholds = precision_recall_curve(y_test, y_pred)
+    st.write('Precision:', precision)
+    st.write('Rappel:', recall)
     cm = confusion_matrix(y_test, y_pred, labels=grid.classes_)
     #st.write("Matrice de confusion", ConfusionMatrixDisplay(confusion_matrix=cm,
                                  #display_labels=['ham', 'spam']))
@@ -119,5 +121,4 @@ def get_classifier(classifier):
     return model, parameters
           
 model, parameters = get_classifier(classifier)
-
 
