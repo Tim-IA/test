@@ -44,12 +44,7 @@ data_name=st.sidebar.selectbox("Selectionner les données", ('filtred csv', 'ori
 
 classifier=st.sidebar.selectbox("Selectionner un classifier", ("KNN", "SVM", "Random Forest"))
 
-<<<<<<< HEAD
 cv_count = st.sidebar.slider('Compter Cross-validation', 2, 5, 3)
-=======
-cv_count = st.sidebar.slider('Cross-validation count', 2, 5, 3)
-
->>>>>>> 8f93fad0f3f1c0ef84f79903a23083cd1af2be12
 
 def analyse(data_name):
     st.title(data_name)
