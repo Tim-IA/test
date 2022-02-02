@@ -107,7 +107,7 @@ def get_classifier(classifier):
     grid = GridSearchCV(pipe, parameters, cv = cv_count, return_train_score=False)
     grid.fit(X_train, y_train)
     y_pred = grid.predict(X_test)
-    st.subheader('**Paramètres et Mean test score**')
+    st.subheader('**Mean test score et Metriques**')
     st.write('Best Score:', round(grid.best_score_, 2))
     st.write("Coefficient de determination :", round(r2_score(y_test, y_pred), 3))
     precision, recall, thresholds = precision_recall_curve(y_test, y_pred)
