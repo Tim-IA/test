@@ -6,7 +6,7 @@ import plotly_express as px
 from sklearn.preprocessing import StandardScaler, RobustScaler
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, confusion_matrix, precision_recall_curve
+from sklearn.metrics import r2_score, confusion_matrix, ConfusionMatrixDisplay, precision_recall_curve
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
@@ -43,6 +43,8 @@ st.write("""#Exploration des données""")
 data_name=st.sidebar.selectbox("Selectionner les données", ('filtred csv', 'original csv'))
 
 classifier=st.sidebar.selectbox("Selectionner un classifier", ("KNN", "SVM", "Random Forest"))
+
+cv_count = st.sidebar.slider('Compter Cross-validation', 2, 5, 3)
 
 def analyse(data_name):
     st.title(data_name)
@@ -92,13 +94,18 @@ def get_classifier(classifier):
         md = st.sidebar.slider('', 2, 15, 1)
         parameters = {'model__n_estimators':range(n), 
                       'model__max_depth':range(md)}
-    grid = GridSearchCV(pipe, parameters, cv = 5)
+    grid = GridSearchCV(pipe, parameters, cv = cv_count, return_train_score=False)
     grid.fit(X_train, y_train)
     y_pred = grid.predict(X_test)
     st.subheader('**Paramètres et Mean test score**')
     st.write('Best Score:', round(grid.best_score_, 2))
     st.write("Coefficient de determination :", round(r2_score(y_test, y_pred), 3))
     st.write('Precision et Rappel:', precision_recall_curve(y_test, y_pred))
+    cm = confusion_matrix(y_test, y_pred, labels=grid.classes_)
+    #st.write("Matrice de confusion", ConfusionMatrixDisplay(confusion_matrix=cm,
+                                 #display_labels=['ham', 'spam']))
+    st.write("Matrice de confusion", confusion_matrix(y_test, y_pred))
+    
     return model, parameters
           
 model, parameters = get_classifier(classifier)
