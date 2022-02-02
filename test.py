@@ -6,7 +6,7 @@ import plotly_express as px
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, f1_score, confusion_matrix, ConfusionMatrixDisplay, precision_recall_curve
+from sklearn.metrics import r2_score, f1_score, confusion_matrix, recall_score, precision_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
@@ -110,10 +110,11 @@ def get_classifier(classifier):
     st.subheader('**Mean test score et Metriques**')
     st.write('Best Score:', round(grid.best_score_, 2))
     st.write("Coefficient de determination :", round(r2_score(y_test, y_pred), 3))
-    precision, recall, thresholds = precision_recall_curve(y_test, y_pred)
-    st.write('Precision:', precision)
-    st.write('Rappel:', recall)
-    cm = confusion_matrix(y_test, y_pred, labels=grid.classes_)
+    rappel=round(recall_score(y_test, y_pred), 3)
+    precision1=round(precision_score(y_test, y_pred), 3)
+    st.write('Precision', precision1)
+    st.write('Rappel', rappel)
+    #cm = confusion_matrix(y_test, y_pred, labels=grid.classes_)
     #st.write("Matrice de confusion", ConfusionMatrixDisplay(confusion_matrix=cm,
                                  #display_labels=['ham', 'spam']))
     st.write("Matrice de confusion", confusion_matrix(y_test, y_pred))
