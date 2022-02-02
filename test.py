@@ -19,8 +19,17 @@ url2='https://raw.githubusercontent.com/Tim-IA/test/main/spam.csv'
 orininal_csv=pd.read_csv(url2, encoding='latin-1')
 
 st.set_page_config(page_title='Réglage des hyperparamètres', layout='wide')
-st.title('spam')
 
+
+genre = st.radio(
+     "Dites Bonjour",
+     ('Bonjour', 'Quoi'))
+if genre =='Bonjour':
+    st.write('On commence notre projet')
+else:
+     st.write("Vous n'avez pas dit Bonjour.")
+     st.write('On commence notre projet')
+     
 col1, col2 =st.columns(2)
 about_expander = col1.expander('à propos',expanded=False)
 with about_expander:
@@ -36,7 +45,8 @@ with info_expander:
              **Hyperparamètres** décrivent les bases du modèle.
              **Réglage des hyperparamètres** nous permet d'avoir une vue optimale de notre modèle
              """)
-             
+ 
+st.title('spam')
 st.write("""#Exploration des données""")
 
 
