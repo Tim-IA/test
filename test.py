@@ -20,7 +20,6 @@ orininal_csv=pd.read_csv(url2, encoding='latin-1')
 
 st.set_page_config(page_title='Réglage des hyperparamètres', layout='wide')
 
-
 genre = st.radio(
      "Dites Bonjour",
      ('Bonjour', 'Quoi'))
