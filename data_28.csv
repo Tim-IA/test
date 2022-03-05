@@ -1,0 +1,828 @@
+,id,intitule,description,dateCreation,dateActualisation,romeCode,romeLibelle,appellationlibelle,typeContrat,typeContratLibelle,natureContrat,experienceExige,experienceLibelle,alternance,nombrePostes,accessibleTH,qualificationCode,qualificationLibelle,lieuTravail.libelle,lieuTravail.latitude,lieuTravail.longitude,lieuTravail.commune,entreprise.description,entreprise.entrepriseAdaptee,origineOffre.origine,origineOffre.urlOrigine,origineOffre.partenaires,dureeTravailLibelle,dureeTravailLibelleConverti,secteurActivite,secteurActiviteLibelle,qualitesProfessionnelles,offresManqueCandidats,lieuTravail.codePostal,entreprise.nom,salaire.libelle,contact.coordonnees1,contact.urlPostulation,salaire.commentaire,experienceCommentaire,formations,competences,salaire.complement1,contact.nom,contact.coordonnees2,contact.coordonnees3,agence.courriel,langues,permis
+0,0039912,Data analyst (H/F),"""Carrefour est un groupe français, acteur majeur de la distribution dans le monde. Nos principaux atouts ? Au plus près de nos clients dans les pays et territoires, nos formats et canaux de distribution s'adaptent en permanence aux besoins de ceux-ci. Nous employons plus de 321 000 collaborateurs dans le monde. Il compte aujourd'hui 12 225 magasins répartis dans plus de 30 pays. 
+La Direction DAC recherche pour son département Comptabilité Générale,  un(e) : Data Analyst  (H/F)  De formation BAC+ 3 minimum, vous disposez d'une expérience significative sur une fonction similaire de création, d'administration et de modélisation de bases de données.Vous maîtrisez les techniques de Machine Learning & de Big Data, vous êtes bilingue en Anglais et avez une appétence du milieu commercial, notamment de Grande Distribution. Vous savez être force de proposition et avez de bonnes capacités relationnelles. En qualité de Data Analyst, vous aurez en charge le traitement, l'exploitation et l'intégration des données. 
+A ce titre, vous aurez pour missions :   Recueil et extraction des sources de données pertinentes et de qualité pour traduction ensuite en données statistiques ; Traitement, exploitation et intégration des données dans un data warehouse (entrepôt de données) ; Création de dashboards, mise en place de KPIs et reporting des performances pour donner une vision cohérente des résultats aux différentes équipes ; Mise en place de process/requêtes et automatisation ; Production d'analyses métiers et de recommandations aux managers ; Gestion des outils d'analyses pour que les décideurs internes et les clients puissent suivre l'évolution de leurs produits ;
+Informations Complémentaires : 
+Contrat : CDI 
+Statut : Cadre 7
+Localisation : MONDEVILLE
+ "" ",2022-03-02T05:10:32.000Z,2022-03-03T08:59:01.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),False,1,False,9,Cadre,14 - MONDEVILLE,49.165112,-0.308315,14437, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0039912,"[{'nom': 'CARREFOURFRANCE', 'url': 'https://carrefour.taleo.net/careersection/SC_FRA_PE_ADO/jobapply.ftl?lang=fr_FR&src=JB-12360&job=003REB', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/carrefourfrance80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+1,128XSHV,Data assistant (H/F),"Dans le cadre du renforcement de nos équipes, le bureau de FITECO Argentan composé d'environ 30 collaborateurs, recherche un Data Assistant H/F.
+
+Au sein du service Data expertise-comptable, vous intégrez une équipe composée de 3 à 4 collaborateurs.
+
+En collaboration avec les Data Contrôleurs et en lien avec votre Data Superviseur, vous serez amené à gérer un portefeuille clients.
+
+Vous assurerez :
+- la saisie dématérialisée, le lettrage et le pointage des comptes,
+- les déclarations de TVA,
+- les acomptes d'IS,
+- la révision des comptes.
+
+La variété des secteurs d'activité du portefeuille clients vous permettra d'enrichir vos connaissances et d'apporter une vraie expertise.
+
+À l'aise avec la digitalisation, vous avez l'habitude d'utiliser des outils de dématérialisation.
+
+Issu d'une formation type Bac +2 Comptabilité et Gestion, vous justifiez idéalement d'une première expérience réussie sur un poste similaire.
+
+La technicité métier ne suffit pas chez FITECO. Nous recherchons un assistant comptable qui partage certaines de nos valeurs : esprit d'équipe, convivialité et surtout le service client.
+
+Nous vous proposons :
+- de rejoindre une équipe disponible pour vous accompagner,
+- de rejoindre un bureau qui ne ressemble à aucun autre,
+- de nombreux avantages (RTT, participation).
+ 
+Si vous vous reconnaissez dans ce profil alors n'hésitez plus, rejoignez-nous !
+",2022-03-01T11:48:35.000Z,2022-03-03T01:42:01.000Z,M1203,Comptabilité,Assistant / Assistante comptable,CDI,Contrat à durée indéterminée,Contrat travail,E,1 an,False,1,False,6,Employé qualifié,61 - ARGENTAN,48.730113,-0.012684,61006,,False,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128XSHV,,39H Horaires normaux,Temps plein,69,Activités comptables,"[{'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}, {'libelle': ""Sens de l'organisation"", 'description': 'Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité'}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",False,61200,FITECO,"Annuel de 22000,00 Euros sur 12 mois",https://recrute.fiteco.com/emplois/comptabilite-gestion-fr/1083-data-assistant-h-f-fr/,https://recrute.fiteco.com/emplois/comptabilite-gestion-fr/1083-data-assistant-h-f-fr/,,,,,,,,,,,
+2,9620963,"Data Analyst F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Parmi les missions qui vous seront confiées :  
+* La construction et la présentation d'études statistiques et marketing ; 
+* Le traitement et l'exploitation des données issues de nos systèmes de comptages, captation, intégration et croisement avec des données de sources externes ; 
+* Le développement d'indicateurs pertinents facilitant la prise de décision de nos clients (fréquentations, parcours clients, retours sur investissements, optimisation des espaces et parcours .) ; 
+* L'amélioration continue de nos outils de détection d'anomalies afin de garantir à nos clients des données de qualité ; 
+* Participations aux projets de développement informatiques des logiciels de contrôle et d'analyse de données clients (définition du besoin et recette) ; 
+* Proposer et mettre en œuvre les outils et méthodes d'analyse, d'exploitation des données et d'industrialisation des process.
+ 
+D'une manière générale, participer au développement de nos services data orientés clients leur apportant les indicateurs clés et l'analyse prédictive facilitant leur prise de décision en matière commerciale, marketing et de développement.
+
+Profil recherché:
+
+Exploitation de base de données 
+Excellentes capacités analytiques et bases statistiques 
+Maîtrise d'outils analytiques types SAS, R, Python . 
+Capacité à participer à des projets d'évolutions des applications clients et de migration de systèmes d'information 
+Esprit d'équipe (vous aimez partager, former, assister) 
+Force de proposition, curiosité d'esprit, 
+Bonne communication écrite et orale 
+Connaissances informatiques et bureautiques : Excel, VBA, Powerpoint, 
+Orientation client avec une bonne sensibilité marketing pour un bonne compréhension des besoins et enjeux clients (Directions et Directions marketing) et marchés 
+Collaboration étroite avec tous les services internes (Développement logiciel, SAV, Direction) 
+Et nos clients 
+Un master professionnel (ou équivalent) spécialisé en études statistiques et marketing, en data, ou une double formation informatique data et marketing. 
+Un anglais opérationnel facilitera votre progression professionnelle dans la société ou le Groupe (France et international) ",2022-02-22T12:10:33.000Z,2022-02-22T12:10:33.000Z,M1805,Études et développement informatique,Analyste réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,9,Cadre,14 - HONFLEUR,49.409689,0.22466,14333,"\nLeader français du comptage dans les centres commerciaux, Quantaflow équipe la plupart des centres commerciaux en France ainsi que des lieux prestigieux comme le Musée du Louvre ou le Forum des Halles. \nL'entreprise a développé des technologies innovantes pour compter les personnes, les flux et d'analyse des parcours clients avec une précision inégalée depuis plus de 15 ans. Son savoir-faire hardware et software lui a permis de devenir le leader incontesté du secteur en France et... ",False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9620963,"[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167691644W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,,26,Fabrication d'équipements de communication,,,,Quantaflow,,,,A négocier,,,,,,,,,,
+3,9580600,Chef·fe de projet data (H/F),"Description du poste
+
+SOYHUCE est à la recherche d'un·e chef·fe de projet data dont le rôle sera de prendre en charge le pilotage et la coordination des contributeurs des différents usages du produit de notre client.
+
+ 
+
+
+À propos
+
+Tech Lab spécialisé en algorithmes et en IA, SoyHuCe met à votre disposition son expertise avec :
+
+ * Un laboratoire d'algorithmie : Transformer vos données en informations précieuses pour répondre à vos problématiques métiers les plus complexes.
+ * Une data factory : Développer des solutions basées sur l'excellence technologique et vous accompagner à chaque étape : stocker, accéder, analyser, sécuriser et valoriser
+ * Une usine Digitale : Définir avec vous vos projets et vos objectifs digitaux pour atteindre des solutions sur-mesure
+
+ 
+
+SOYHUCE accompagne les entreprises, industries et collectivités dans leurs problématiques liées aux enjeux du numérique et leur transformation digitale.
+
+ 
+
+
+Descriptif du poste
+
+Vos missions seront : 
+
+ 
+
+ * Consolider le besoin métier, 
+ * Coordonner les différents acteurs d'un cas d'usage du produit client : métier/MOA, équipe d'intégration, MOE des différents systèmes concernés, archis, équipe de RUN/exploitation, 
+ * Conseiller les métiers, utilisateurs dans l'utilisation et le paramétrage du produit client et être force de proposition, 
+ * Identifier des fonctionnalités à intégrer au produit,
+ * Suivre la roadmap du produit du client, 
+ * Garantit le respect des budgets, des engagements en délai et qualité sur son périmètre d'activité.
+
+ 
+
+
+Profil recherché
+
+Idéalement issu d'une école d'ingénieur en informatique ou formation universitaire équivalente (Bac +5). Vous justifiez d'au moins cinq ans d'expérience en encadrement d'équipe et en gestion de projet. Une expérience significative dans le domaine Data et Décision avec l'intégration de produits sera fortement appréciée. Vous savez évoluer dans un milieu à caractère stratégique. 
+
+Bon·ne communicant·e vous savez piloter les équipes et animer les comités avec les Métiers. ",2022-02-22T03:55:20.000Z,2022-02-22T03:57:01.000Z,M1403,Études et prospectives socio-économiques,Analyste en intelligence économique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,9,Cadre,14 - CAEN,49.184571,-0.372291,14118, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9580600,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/51efb13b93be76bd4d65a93b25c086c2', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+4,9524138,Data Architecte F/H (H/F),"Envie de nous rejoindre ? Découvrez nos métiers et trouvez le vôtre !""
+La Matmut ne fait que de l'assurance ? FAUX
+
+400, c'est le nombre de collaborateurs travaillant sur les projets informatiques du Groupe Matmut. Une aubaine pour vous si vous souhaitez nous rejoindre et proposer vos idées ! Alors travaillons ensemble, en mode agile.
+
+Dans le cadre de la transformation de notre DSI, nous recrutons notre DATA ARCHITECTE (OFFICER)
+Concrètement au quotidien, vous serez chargé de :
+-Contribuer à la définition et à la construction de l'architecture des données
+-Participer aux instances de gouvernance de la donnée
+-Assurer un accès facile et sécurisé aux données
+-Garantir le respect de la réglementation (RGPD)
+-Assurer la veille technologique
+-Soutenir les équipes IT dans la modélisation des données
+Et si c'était vous?
+
+Les compétences attendues sur le poste :
+-Vous connaissez les solutions de stockage de données, vous avez en particulier une expérience en SGBDR (SQL Server, Oracle, ...)
+-Vous avez des connaissances en data science et deep learning et connaissez les technologies liées au big data (Python, Spark, Kafka, ...)
+-Vous maitrisez un outil d'ETL (Talend, Informatica ou autre outil)
+-Vous connaissez les architectures distribuées, cloud ou micro services
+-Vous maitriser la modélisation UML
+-Vous possédez de réelles qualités relationnelle et un sens avéré de la pédagogie
+-Vous aimez les challenges, êtes curieux et passionné par les innovations technologiques
+-Vous êtes rigoureux
+-Vous aimez le travail en équipe
+La connaissance du domaine de l'assurance est un plus
+
+Vous vous reconnaissez? Alors n'attendez plus pour postuler ! ",2022-02-20T03:42:07.000Z,2022-02-20T03:42:07.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,False,1,False,,,76 - ROUEN,49.441345,1.092568,76540,"""Le Groupe Matmut recherche de nouveaux talents pour accompagner sa transformation et contribuer avec succès à ses orientations stratégiques.
+
+Et si c'était vous ? Optimiste et enthousiaste, vous avez l'envie et l'énergie d'avancer. Prêt(e) à vous investir dans une entreprise en mouvement, vous voulez inscrire votre trajectoire professionnelle dans une activité qui a du sens dans la vie quotidienne de chacun d'entre vous et contribuer à une réussite collective.
+
+ ",False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9524138,"[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=YmVjdXdlLmF1ZHJleS4xNzgwOC42NzA2QG1hdG11dC5hcGxpdHJhay5jb20', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,65,Autres assurances,,,,MATMUT,,,,,,,,,,,,,,
+5,9495839,Data analyst (H/F),"Description du poste :
+Créateur de l'hypermarché et pionnier de la consommation de masse, Carrefour reste fidèle à ses racines mais se réinvente pour permettre à chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.
+Nos atouts pour y parvenir ? Un réseau multiformat de + 5 400 magasins, la création de services et d'une offre digitale de référence, une coopération renforcée avec les acteurs du monde agricole, de la chaîne alimentaire, de la Tech...
+Et des collaborateurs passionnés, qui s'engagent, challengent leur métier et grandissent ensemble pour réussir la transition alimentaire pour tous.
+Porteuse de cette ambition, la Direction Direction de contrôle de gestion recrute un(e) :
+Data Science Analyste (H/F)
+Mission générale :
+L'utilisation de la data et le développement des capacités analytiques sont un axe majeur du plan stratégique du Groupe Carrefour à horizon 2027.
+Son activité s'intégrera dans le champ d'intervention du SET GeoData : accompagner l'accélération du développement géographique des implantations du Groupe Carrefour (tous formats et tous pays), tout en poursuivant la digitalisation des Etudes de marché.
+Vous serez amené à:
+* Proposer et tester des modèles de Machine Learning pour la prédiction du chiffre d'affaires réalisable par un nouveau point de vente,
+* Expliciter vos hypothèses, évaluer la performance et comparer les différentes versions des modèles de prédiction,
+* Déployer des modèles dans un environnement de production, avec documentation des modules utilisés,
+* Participer au développement de la solution technique pour la mise à disposition d'un outil pour les utilisateurs internes.
+Au-delà des missions définies ci-dessus, le stagiaire peut être amené à participer à notre R&D au travers de POC et sujets AdHoc. Il pourra apporter son regard et ses capacités d'analyse pour mettre en perspective des solutions innovantes face aux questions des métiers dans le nouvel environnement Carrefour Google Cloud.
+Nous comptons sur son engagement à nos côtés pour être force de proposition.
+Votre profil :
+Vous préparez un BAC +4 (Master 1 / Année de césure) ou BAC +5 (Master 2) en Ecole d'Ingénieur ou équivalent avec une spécialisation en Data Science
+Vous maîtrisez des algorithmes prédictifs de Machine Learning (hyper paramètres), notamment à partir des librairies open source de data science et êtes agile dans les méthodes de feature engineering.
+Vous maîtrisez des outils de base de données (PostgreSQL), programmation objet (python.) dans un environnement Google Cloud Platform.
+Vous avez des connaissances et une certaine pratique d'un outil d'ETL.
+Vous avez un anglais professionnel.
+Vous êtes rigoureux, curieux, autonome avec une aisance relationnelle et une capacité de travail en équipe.
+Vous avez pris part à des projets de développement collaboratifs, et la qualité et la simplicité du code vous tiennent à cœur.
+Vous savez faire de la gestion de projet et vous avez une capacité à comprendre les besoins des clients internes pour mettre en place les solutions adaptées au problème métier posé, à identifier les problématiques induites pour les traduire en solutions techniques et s'assurer d'un feedback utilisateur pérenne.
+Vous êtes motivé(e) par les problématiques opérationnelles très concrètes, que l'on peut notamment rencontrer dans l'univers de la grande distribution. Vous aimez interagir avec des professionnels d'horizons différents, vous êtes en mesure de communiquer des idées complexes à différents publics non-techniques.
+Informations complémentaires :
+Lieu : Mondeville près de Caen- 14 à quelques km de la côte normande
+Vous aurez accès aux infrastructures du campus (salle de sport, conciergerie, drive, parking.).
+Vous aurez accès à un large choix de restaurations.
+Envie de tenter l'aventure ? Envoyez-nous votre lettre de motivation et votre CV en précisant la date de début de stage souhaitée. ",2022-02-18T09:49:43.000Z,2022-02-22T13:05:37.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDD,Contrat à durée déterminée - 41 Mois,Contrat apprentissage,D,Débutant accepté,True,1,False,,,14 - MONDEVILLE,49.169445,-0.314323,14437,"En soixante ans, le groupe Carrefour est devenu un des leaders de la distribution dans le monde.
+Un réseau de 5 400 magasins exploités en propre ou en franchise en France au plus près de nos clients (plus de 12 000 dans le monde), un site e-commerce et des services connectés pour répondre à tous les modes de consommation et des collaborateurs mobilisés pour rendre accessible, partout, une alimentation de qualité à un prix abordable. Tels sont les atouts de Carrefour, engagé en... ",False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9495839,"[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-analyst-h-f-mondeville-basse-normandie-distribution-commerce-de-detail-alternance-apprentissage-20937001', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+6,9131621,Data Engineer H/F,"Vous souhaitez intégrer une communauté d'experts agiles et dynamiques ? Vous souhaitez participer au développement d'une entreprise en pleine transformation ? Rejoignez-nous !
+ 
+Leader européen des assurances et des services du quotidien, le groupe SPB co-conçoit et gère des assurances, répare, reconditionne et recycle des produits de la vie quotidienne (moyens de paiement, smartphones, high-tech, électroménager, abonnements énergie, équipements de santé et de mobilités, voyages.). SPB est une entreprise familiale indépendante fondée en 1965 qui s'adresse aux entreprises ainsi qu'aux particuliers. Sa mission est de protéger et assister les consommateurs au quotidien avec des services innovants, utiles et simples. Le groupe compte 1500 collaborateurs et est présent dans 17 pays. La société réalise un chiffre d'affaires net de 168,2 millions d'€. Pour plus d'informations, consultez www.spb.eu et www.spb.fr.
+Data Engineer H/F
+CDI- Basé au Havre (Siège Social) ou à Paris La Défense (avec déplacements réguliers au Havre)
+ 
+Au sein de la Direction des Systèmes d'Information et du Département Delivery, vous apportez votre expertise technique pour accompagner nos équipes sur la chaîne complète de nos projets, sur du Build comme du Run.
+Vos missions :
+&bull; Evaluer, conseiller et traduire les besoins métiers dans des spécifications techniques permettant la collecte, le stockage et l'exploitation de données métiers,
+&bull; Définir le framework de l'architecture data via les meilleures pratiques du marché en remplacement de ETL pour la création de la base de données et la mise en place des « pipeline » permettant d'automatiser les différentes étapes d'acquisition des données et des métadonnées, de l'extraction jusqu'au stockage,
+&bull; Participer aux travaux de validation, consolidation, mise à jour et qualité sur les données métiers pour soutenir le travail du Data Scientist,
+&bull; Surveiller et maintenir la base de données pour garantir la sécurité du système, gérer la scalabilité de l'infrastructure (horizontale et verticale) de manière transparente pour les autres acteurs, rapporter sur leur efficacité et leur exactitude,
+&bull; Rechercher et découvrir de nouvelles méthodes d'acquisition de données, mettre en place les évolutions ou les changements des normes et des standards (dictionnaire de données, modèles de données...), faire de la veille sur les technologies et langages utilisés dans le but de partager ses connaissances et aider à l'avancement des projets.
+&bull; Evaluer, conseiller et traduire les besoins métiers dans des spécifications techniques permettant la collecte, le stockage et l'exploitation de données métiers,
+&bull; Définir le framework de l'architecture data via les meilleures pratiques du marché en remplacement de ETL pour la création de la base de données et la mise en place des « pipeline » permettant d'automatiser les différentes étapes d'acquisition des données et des métadonnées, de l'extraction jusqu'au stockage,
+&bull; Participer aux travaux de validation, consolidation, mise à jour et qualité sur les données métiers pour soutenir le travail du Data Scientist,
+&bull; Surveiller et maintenir la base de données pour garantir la sécurité du système, gérer la scalabilité de l'infrastructure (horizontale et verticale) de manière transparente pour les autres acteurs, rapporter sur leur efficacité et leur exactitude,
+&bull; Rechercher et découvrir de nouvelles méthodes d'acquisition de données, mettre en place les évolutions ou les changements des normes et des standards (dictionnaire de données, modèles de données...), faire de la veille sur les technologies et langages utilisés dans le but de partager ses connaissances et aider à l'avancement des projets.
+ 
+Votre Profil :
+De formation Bac+2 à Bac+5, spécialisée Data et/ou statistiques, votre expérience professionnelle de 5 ans minimum dans un poste similaire vous a permis de devenir un véritable expert.
+Vous avez une bonne maîtrise des infrastructures serveurs, des logiciels de serveurs d'applications, des logiciels de sauvegarde/archivage et des principales technologies du Big Data.
+Vous avez également de très bonnes connaissances sur les systèmes d'exploitation, MS Windows, des environnements Cloud, des outils d'intégration et de déploiement continus.
+Enfin, vous maîtrisez les SGBDR (systèmes de gestion de bases de données relationnelles), les systèmes NoSQL, les outils ETL, et les frameworks de calcul massivement parallèle de données.
+Tous nos métiers sont ouverts aux personnes en situation de handicap.
+SPB est partenaire du dispositif F.A.R.E (Famille Accompagnement Réseau Estuaire) by CCI qui vous accompagne, vous et votre famille, dans votre mobilité professionnelle sur le territoire   ",2022-02-10T21:54:11.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Ingénieur concepteur / Ingénieure conceptrice informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),False,1,False,,,76 - LE HAVRE,49.507345,0.129995,76351, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9131621,"[{'nom': 'CARRIEREONLINE', 'url': 'http://www.carriereonline.com/offre-emploi/data-engineer-h-f/seine-maritime-76/21269557/?xtor=SEC-1321', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/carriereonline80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+7,9073458,Lead data F/H (H/F),"La direction Informatique du groupe Matmut recherche un(e) lead data afin de renforcer ses équipes dont la mission est de centraliser et d'optimiser l'accès et l'exploitation des données. 
+Au contact des métiers, grâce à votre vision "" Data "" vous saurez qualifier leurs demandes et en évaluer leur faisabilité. Vous serez le garant de la réalisation et veillerez au respect des bonnes pratiques. 
+
+Concrètement au quotidien, vous serez chargé de :
+-De représenter le périmètre Data dans les instances décisionnelles
+-De manager opérationnellement une équipe et veiller au respect de ses engagements
+-De communiquer sur les road map data
+-De suivre les sujets de bout en bout depuis l'expression des besoins par les directions métiers jusqu'à la mise en exploitation
+-Veiller à la bonne disponibilité des données et à la prise en charge des éventuels incidents (gestion du run)
+-Garantir la production de la documentation appropriée, dans un but de capitalisation des connaissances
+Et si c'était vous?
+
+-Vous disposez de qualités relationnelles indéniables et d'un fort esprit d'équipe
+-Vous maitrisez SQL, python et hadoop 
+-Vous avez déjà pratiqué la visualisation de données
+-Vous êtes autonome et adaptable rapidement
+-Vous avez déjà travaillé en méthode AGILE
+-Vous êtes curieux et faites preuve d'ouverture d'esprit
+
+Un intérêt pour les sujets d'architecture est un plus.
+
+Vous vous reconnaissez? Alors n'attendez plus pour postuler ! ",2022-02-10T12:04:26.000Z,2022-02-11T20:35:30.000Z,M1803,Direction des systèmes d'information,Chef de projet informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,False,1,False,,,76 - ROUEN,1.092568,49.441345,76540,"On vous parle de nous ? La Matmut poursuit son développement avec engagement et ambition, tout en conservant son ADN. Confiante et bienveillante envers ses salariés, elle construit avec eux des parcours professionnels motivants. Convaincue que la diversité des potentiels est une richesse, elle accompagne, forme et fait grandir tous les talents.
+ ",False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9073458,"[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=YmVjdXdlLmF1ZHJleS43OTI2OC42NzA2QG1hdG11dC5hcGxpdHJhay5jb20', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,65,Autres assurances,,,,MATMUT,"Annuel de 45000,00 Euros ï¿½ 55000,00 Euros",,,,,,,,,,,,,
+8,9024525,Développeur·se Python expérimenté·e - pôle data - Caen ou Paris - CDI (H/F),"Vous souhaitez mettre en oeuvre vos talents au sein d'une jeune entreprise innovante, où bonne ambiance et défis techniques rythment votre quotidien ?
+ 
+Dans le cadre du développement de ses activités de R&amp;D, de ses projets et de ses missions clients, SOYHUCE est à la recherche d'un·e Développeur·euse Python expérimenté·e pour consolider son équipe infrastructure et développement  Data.
+
+
+À propos
+Studio R&amp;D en algorithmie et data science, SOYHUCE accompagne les entreprises, et les collectivités dans leurs réflexions et projets numériques et métiers.
+Les solutions que conçoit et développe SOYHUCE sont centrées sur les utilisateurs, mettant l'humain au cœur des organisations.
+ 
+Nos expertises :
+
+Laboratoire d'algorithmie : Transformer vos données en informations précieuses pour répondre à vos problématiques métiers les plus complexes.
+Data factory : Développer des solutions basées sur l'excellence technologique et vous accompagner à chaque étape : stocker, accéder, analyser, sécuriser et valoriser
+Usine Digitale : Définir avec vous vos projets et vos objectifs digitaux pour atteindre des solutions sur-mesure
+
+ 
+Descriptif du poste
+Vous travaillerez conjointement avec les Data Scientists, Data Ingénieurs et le Data Architect déjà en poste et vous serez impliqué.e dans la prise de décisions liée à nos projets Data et à leurs évolutions. Vous participerez également au développement d'un pôle Data au sein de l'entreprise.
+ 
+Vos missions au quotidien : 
+ 
+
+Contribuer au développement de nos solutions et projets Data,
+Comprendre, analyser et proposer des solutions techniques répondant aux besoins des Plateformes digitales et des projets des BUs,
+Définir l'architecture logiciel en collaboration avec vos pairs
+Travailler la donnée sous toutes ses formes (stockage, élaboration de modèles, structuration, nettoyage),
+Rédiger de la documentation technique, 
+Partager votre savoir-faire entre les différents membres de l'équipe,
+Concevoir et développer des connecteurs entre les sources de données (internes et/ou externes) et la plateforme,
+Concevoir et développer des pipelines de traitements de données (batch et/ou temps réel) dans un environnement Big Data,
+Assurer une veille technologique.
+
+ 
+Compétences attendues : 
+ 
+
+Expérience forte en développement : 
+Python orienté stream (asyncio, Celery, PubSub)
+Python pour API Rest (bibliothèque Flask au minimum)
+Git
+
+Excellente connaissances en bases de données : 
+SQL
+NoSQL (orientée documents, timeseries)
+Une connaissance en data warehousing (exemple Snowflake) est un plus
+
+Compétences cloud et architecture : 
+Kubernetes, 
+Docker
+Fournisseur cloud (AWS, GCP ou Azure)
+expérience de mise en production d'une architecture stream avec python ou une architecture orientée ML
+connaissance de l'hébergement d'une architecture python sur un cloud provider (AWS étant un plus)
+
+
+ 
+Ce serait un plus :
+
+Connaissance message broker
+
+
+RabbitMQ
+Kafka ou Pulsar
+
+
+Scala 
+Expérience dans le traitement de données à grande échelle en utilisant les systèmes traditionnels et distribués tels que Hadoop ou Spark
+Sensibilité à la culture devops et au software craftsmanship
+Data Engineering
+Gestion de projets Data
+
+ 
+
+Compétences transverses :
+
+Méthodes agiles et scrum ;
+Esprit d'équipe ;
+Autonomie et rigueur ; 
+Nous sommes très attentifs au respect des bonnes pratiques, des standards et conventions.
+
+ 
+Notre stack :
+ 
+Stockage de données: PostgreSQL, ElasticSearch, CouchDB, Redis;
+Cloud: AWS, GCP, Azure, OVH;
+Message Broker: RabbitMQ, Apache Pulsar, Kafka
+Orchestrateurs: Kubernetes;
+Technologies Big Data : Spark
+Bases de données : PostgreSQL,  CouchDB, Snowflake
+Machine learning: Tensorflow, PyTorch, MXNet, Scikit-Learn;
+Recherche opérationnelle: Optaplanner, OrTools ;
+Langages: Python, Java et Scala, Shell ;
+Outils de visualisation: Apache Superset, Power BI. 
+ 
+Profil recherché
+Diplômé·e d'études supérieures dans le système d'information, le développement informatique, big data (école d'ingénieurs, école spécialisée ou équivalent universitaire), vous justifiez d'une première expérience de développeur Python ou Java, ainsi qu'une expérience en gestion de projet.
+D'un naturel curieux et créatif, vous aimez évoluer dans des environnements innovants.
+Vous êtes un·e bon·ne communiquant·e et possédez une vraie culture de services et de succès client. 
+Animé.e par votre métier et proact  ",2022-02-09T20:55:35.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Développeur / Développeuse informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,5,Employé non qualifié,14 - CAEN,49.184571,-0.372291,14118, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9024525,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/bf1101889e248069853c589a66573ad4', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+9,9024084,Développeur·se JAVA expérimenté·e - pôle data - Caen - CDI (H/F),"Description du poste
+
+Vous souhaitez mettre en oeuvre vos talents au sein d'une jeune entreprise innovante, où bonne ambiance et défis techniques rythment votre quotidien ?
+
+ 
+
+Dans le cadre du développement de ses activités de R&D, de ses projets et de ses missions clients, SOYHUCE est à la recherche d'un·e Développeur·euse Java expérimenté·e pour consolider son équipe infrastructure et développement Data.
+
+
+ 
+
+
+À propos
+
+Studio R&D en algorithmie et data science, SOYHUCE accompagne les entreprises, et les collectivités dans leurs réflexions et projets numériques et métiers.
+
+Les solutions que conçoit et développe SOYHUCE sont centrées sur les utilisateurs, mettant l'humain au cœur des organisations.
+
+ 
+
+
+Nos expertises :
+
+ * Laboratoire d'algorithmie : Transformer vos données en informations précieuses pour répondre à vos problématiques métiers les plus complexes.
+ * Data factory : Développer des solutions basées sur l'excellence technologique et vous accompagner à chaque étape : stocker, accéder, analyser, sécuriser et valoriser
+ * Usine Digitale : Définir avec vous vos projets et vos objectifs digitaux pour atteindre des solutions sur-mesure
+
+ 
+
+
+Descriptif du poste
+
+Vous travaillerez conjointement avec les Data Scientists, Data Ingénieurs et le Data Architect déjà en poste et vous serez impliqué.e dans la prise de décisions liée à nos projets Data et à leurs évolutions. Vous participerez également au développement d'un pôle Data au sein de l'entreprise.
+
+ 
+
+Vos missions au quotidien : 
+
+ 
+
+ * Contribuer au développement de nos solutions et projets Data,
+ * Comprendre, analyser et proposer des solutions techniques répondant aux besoins des Plateformes digitales et des projets des BUs,
+ * Définir l'architecture logiciel en collaboration avec vos pairs
+ * Travailler la donnée sous toutes ses formes (stockage, élaboration de modèles, structuration, nettoyage),
+ * Rédiger de la documentation technique, 
+ * Partager votre savoir-faire entre les différents membres de l'équipe,
+ * Concevoir et développer des connecteurs entre les sources de données (internes et/ou externes) et la plateforme,
+ * Concevoir et développer des pipelines de traitements de données (batch et/ou temps réel) dans un environnement Big Data,
+ * Assurer une veille technologique.
+
+ 
+
+
+Compétences attendues : 
+
+ 
+
+ * Expérience forte en développement : 
+ o maîtrise d'un framework Java (Spring par exemple)
+ o connaissance de linux et du déploiement d'un service java (Quarkus serait un plus)
+ o connaissance d'un outil de traitement orienté big data tel que Kafka ou Spark
+ * Excellente connaissances en bases de données : 
+ o SQL (PostgreSQL, MySQL)
+ o NoSQL (orientée documents, timeseries)
+ * une connaissance en data warehousing (exemple Snowflake) est un plus
+ * Compétences cloud et architecture : 
+ o Docker (orchestration via Kubernetes serait un plus)
+ o services et utilisation d'un fournisseur cloud (AWS idéalement, sinon GCP ou Azure)
+ o connaissance de l'hébergement d'une architecture JAVA sur un cloud provider (AWS étant un plus)
+
+
+
+Ce serait un plus :
+
+ * Connaissance du modèle Akka serait un plus (idéalement l'ensemble du framework play)
+ * Connaissance message broker
+ * RabbitMQ
+ * Kafka ou Pulsar
+ * Scala 
+ * Expérience dans le traitement de données à grande échelle en utilisant les systèmes traditionnels et distribués tels que Hadoop ou Spark
+ * Sensibilité à la culture devops et au software craftsmanship
+ * Data Engineering
+ * Gestion de projets Data
+
+ 
+
+
+Compétences transverses :
+
+ * Méthodes agiles et scrum ;
+ * Esprit d'équipe ;
+ * Autonomie et rigueur ; 
+ * Nous sommes très attentifs au respect des bonnes pratiques, des standards et conventions.
+
+ 
+
+
+Notre stack :
+
+ 
+
+Stockage de données: PostgreSQL, ElasticSearch, CouchDB, Redis;
+
+Cloud: AWS, GCP, Azure, OVH;
+
+Message Broker: RabbitMQ, Apache Pulsar, Kafka
+
+Orchestrateurs: Kubernetes;
+
+Technologies Big Data : Spark
+
+Bases de données : PostgreSQL, CouchDB, Snowflake
+
+Machine learning: Tensorflow, PyTorch, MXNet, Scikit-Learn;
+
+Recherche opérationnelle: Optaplanner, OrTools ;
+
+Langages: Python, Java et Scala, Shell ;
+
+Outils de visualisation: Apache Superset, Power BI.
+
+ 
+
+
+Profil recherché
+
+Diplômé·e d'études supérieures dans le système d'information, le développ  ",2022-02-09T20:54:16.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Développeur / Développeuse informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,6,Employé qualifié,14 - CAEN,49.184571,-0.372291,14118, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9024084,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/348d786b567d2f64a5035ebc26650baf', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+10,127JRFQ,Expert data paie H/F,"Au sein du CSP Paie, vous veillez à l'accessibilité, à la qualité et à la conformité de la donnée Paie et vous contribuez à la sécurisation de la paie ainsi qu'à l'automatisation du contrôle de paie par la mise en place de requête et d'outils de contrôles de masse.
+Vos missions : participer à la construction de l'architecture des données en collaboration avec l'équipe informatique DATA du Groupe / Gérer et fiabiliser les données (rédaction des spécifications techniques,collecter et intégrer les données,gérer les accès et assurer la confidentialité et l'intégration des données,veille à la qualité de la données paie...) / Exploiter la donnée collectée et les résultats paie / Créer et maintenir les outils pour faciliter les opérations de paie,contrôles et chiffrage / Produire le reporting du CSP Paie / assurer une veille technique.
+Expert dans la gestion des données, vous connaissez la macro des dispositifs de paie et de la règlementation.
+Nombreuses relations fonctionnelles avec les équipes du CSP Paie et département BI-Reporting6GTA, équipes informatiques",2022-02-01T14:30:14.000Z,2022-02-25T12:15:31.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,5 ans - Sur un poste similaire,False,1,False,6,Employé qualifié,50 - CONDE SUR VIRE,49.05311,-1.031071,50139,,False,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127JRFQ,,35H Horaires normaux,Temps plein,70,Activités des sièges sociaux,,True,50890,SOGEPS,,"419 RUE ALEXIS DE TOCQUEVILLE
+CS 21708",,Selon convention FNCL,Sur un poste similaire,"[{'codeFormation': '31008', 'domaineLibelle': 'système information', 'niveauLibelle': 'Bac+3, Bac+4 ou équivalents', 'commentaire': 'avec une spécialisation SI', 'exigence': 'E'}]","[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'E'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'E'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '118732', 'libelle': 'Réaliser une veille documentaire (collecte, analyse etc.)', 'exigence': 'E'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'E'}]",Autre,Pôle Emploi SAINT LO,50008 ST LO,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127JRFQ","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127JRFQ",,
+11,8401719,Data engineer H/F,"Bonjour, nous c'est REDLab !
+Pure Player data et passionnés d'innovation, nous concevons, développons, déployons et maintenons des solutions de valorisation de données parfaitement adaptées aux besoins métier de nos clients : industrie de pointe, pharma, banques/assurances, start-ups et éditeurs logiciels. 
+Sans effet tunnel, nous nous appuyons sur le meilleur des technologies et outils data pour leur permettre d'atteindre rapidement leurs objectifs de performance.
+ 
+Nous recherchons un Data Engineer (H/F) pour compléter notre équipe d'experts au sein d'un environnement humain et bienveillant basé sur la proximité, l'entraide et le développement des compétences,
+Lieu du poste : Rouen (76)
+Contrat : CDI Temps plein - 36h45
+Ta mission
+Ta mission consistera à définir, développer, mettre en place et maintenir les outils adéquats à l'analyse de la donnée.
+Responsabilités principales :
+ * Comprendre les enjeux et les moyens du client ;
+ * Concevoir des solutions permettant le traitement de volume importants de données via de nombreux pipelines ;
+ * Développer ou améliorer des algorithmes incorporant des règles métier dans le traitement de la donnée ;
+ * Assurer l'ingestion, la transformation et la mise à disposition des données ;
+ * Mettre en place et alimenter des DataWareHouses répondant à des contraintes big data ;
+ * Assurer la cohérence et l'intégrité des données.
+ 
+Profil rêvé 
+ 
+Plus que des compétences, nous recherchons des personnalités pour compléter notre Team d'exception ! Alors si en plus tu réponds à ces quelques critères, nous t'attendons !
+ * Tu maitrises les principaux outils de l'écosystème Hadoop : HDFS, Kafka, MapReduce, Hive, Presto, HBase ?
+ * Tu disposes de solides compétences en Shell, Scala et Spark ?
+ * Tu aimes travailler avec des bases de données SQL ?
+ * Tu as l'habitude d'évoluer avec des bonnes pratiques de développement, bases de Génie Logiciel ?
+ * Tu possèdes des connaissances en Oozie, Nifi, Yarn, Tez, Zookeeper, Pig, Zeppelin ?
+ * Tu disposes peut-être de connaissances en AWK ?
+ * Tu es proactif et tu oses prendre des initiatives ?
+ * Tu possèdes une forte capacité d'adaptation ? Les défis et le changement ne te font pas peur ?
+ * 
+Tu as l'impression qu'on parle de toi ? Alors prends le tournant d'une carrière inspirante et rejoins-nous vite !
+Choisir REDLab c'est rejoindre une entreprise à taille humaine et une ambiance de travail presque familiale que tu ne trouveras nulle part ailleurs. Nous te promettons du challenge, du talent, du fun, tous les jours !
+Bon à savoir
+ * Diversité des projets assurée
+ * Parcours de formation interne sur-mesure
+ * 10 RTT par an
+ * Mutuelle et prévoyance avantageuse
+ * Télétravail partiel possible
+ * Et aussi des afterworks, des conférences techniques et des déjeuners, en veux-tu en voilà !
+Ton parcours avant de nous rejoindre
+ * Nous t'enverrons un mail dans lequel tu pourras te connecter à la plateforme Coding Game afin de tester tes compétences.
+ * Selon le résultat, Emma te contactera afin de prévoir un entretien en visioconférence ou directement à l'agence si c'est possible.
+ * Enfin, tu auras un dernier entretien technique avec Ombeline (responsable RH) et Michael (directeur technique).
+   ",2022-01-25T19:07:57.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Ingénieur concepteur / Ingénieure conceptrice informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 6 An(s),False,1,False,,,76 - LE PETIT QUEVILLY,49.422453,1.060921,76498, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8401719,"[{'nom': 'CARRIEREONLINE', 'url': 'http://www.carriereonline.com/offre-emploi/data-engineer/seine-maritime-76/21076522/?xtor=SEC-1321', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/carriereonline80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+12,8222958,Ingénieur·e data - Caen ou Paris - CDI (H/F),"Description du poste
+
+Vous souhaitez mettre en oeuvre vos talents au sein d'une jeune entreprise innovante, où bonne ambiance et défis techniques rythment votre quotidien ?
+
+ 
+
+Dans le cadre du développement de ses activités de R&D, de ses projets et de ses missions de conseil, SOYHUCE est à la recherche d'un·e Data Engineer pour consolider son équipe infrastructure et développement Big Data.
+
+ 
+
+
+À propos
+
+Studio R&D en algorithmie et data science, SOYHUCE accompagne les entreprises, et les collectivités dans leurs réflexions et projets numériques et métiers.
+
+Les solutions que conçoit et développe SOYHUCE sont centrées sur les utilisateurs, mettant l'humain au cœur des organisations.
+
+ 
+
+
+Nos expertises :
+
+ * Laboratoire d'algorithmie : Transformer vos données en informations précieuses pour répondre à vos problématiques métiers les plus complexes.
+ * Data factory : Développer des solutions basées sur l'excellence technologique et vous accompagner à chaque étape : stocker, accéder, analyser, sécuriser et valoriser
+ * Usine Digitale : Définir avec vous vos projets et vos objectifs digitaux pour atteindre des solutions sur-mesure
+
+ 
+
+
+Descriptif du poste
+
+Vous travaillerez conjointement avec les Data Scientists, Data Ingénieurs et le Data Architect déjà en poste et vous serez impliqué.e dans la prise de décisions liée à notre solution Big Data et à son évolution. Vous participerez également à la construction d'un pôle Data au sein de l'entreprise.
+
+ 
+
+Vos missions au quotidien : 
+
+ 
+
+ * Contribuer au développement de notre offre Big Data,
+ * Comprendre, analyser et proposer des solutions techniques répondant aux besoins des Plateformes digitales et des projets des BUs,
+ * Définir l'architecture logiciel en collaboration avec vos pairs
+ * Travailler la donnée sous toutes ses formes (stockage, élaboration de modèles, structuration, nettoyage),
+ * Rédiger de la documentation technique, 
+ * Partager votre savoir-faire entre les différents membres de l'équipe,
+ * Concevoir et développer des connecteurs entre les sources de données (internes et/ou externes) et la plateforme,
+ * Concevoir et développer des pipelines de traitements de données (batch et/ou temps réel) dans un environnement Big Data,
+ * Assurer une veille technologique.
+
+ 
+
+
+Compétences attendues : 
+
+ 
+
+ * Expérience en développement : 
+ o Python, Java ou C++, Scala (notions)
+ o Spark, Pandas, DataTables
+ o Git
+ * Connaissance en bases de données : 
+ o SQL
+ o NoSQL (orientée documents, timeseries)
+ * Connaissance message broker
+ o RabbitMQ
+ o Kafka ou Pulsar
+ * Compétences cloud : 
+ o Kubernetes, 
+ o Conteneurisation
+ o Fournisseur cloud (AWS, GCP ou Azure)
+ * Expérience dans le traitement de données à grande échelle en utilisant les systèmes traditionnels et distribués tels que Hadoop ou Spark
+ * Sensibilité à la culture devops et au software craftmanship
+ * Data Analysis
+ * Data Engineering
+ * Data Visualisation 
+ * Gestion de projets Data
+ * Déploiement d'architecture cloud 
+
+ 
+
+
+Notre stack :
+
+ 
+
+Stockage de données: PostgreSQL, Cassandra, ElasticSearch, CouchDB, Redis;
+
+Cloud: AWS, GCP, Azure, OVH;
+
+Message Broker: RabbitMQ, Apache Pulsar, Kafka
+
+Orchestrateurs: Kubernetes;
+
+Technologies Big Data : Spark, Cassandra
+
+Bases de données : PostgreSQL, CouchDB
+
+Machine learning: Tensorflow, PyTorch, MXNet, Scikit-Learn;
+
+Recherche opérationnelle: Optaplanner, OrTools ;
+
+Langages: Python, Java et Scala, Shell ;
+
+Outils : Kibana, Dataiku, Power BI. 
+
+ 
+
+
+Profil recherché
+
+Diplômé·e d'études supérieures dans le système d'information, computer sciences, big data (école d'ingénieurs, école spécialisée ou équivalent universitaire), vous justifiez d'une première expérience en BI et/ou Data engineering, ainsi qu'une expérience confirmée en gestion de projet.
+
+ 
+
+Vous avez une expérience concrète sur la mise en place de pipelines complets de valorisation de données massives, de la collecte à la mise à disposition d'applications en passant par le traitement.
+
+ 
+
+D'un naturel curieux et créatif, vous aimez évoluer dans des environnements innovants.
+
+Vous êtes un·e bon·ne communiquant·e et possédez une vraie culture de services et de succès client. 
+
+Animé.e par votre métier et proactif.ve, vous aimez apprendre en permanence. L'innovation, l'acquisition de nou  ",2022-01-23T08:03:33.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Ingénieur / Ingénieure de développement informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,9,Cadre,14 - CAEN,49.184571,-0.372291,14118,,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8222958,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/4afa1f19f99eb1c71139a5a0c2881c02', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+13,8104383,Technical data analyst h/f,"Safran Nacelles est un leader mondial des nacelles d'avions et un acteur de l'après-vente avec 23 000 équipements en services et 145 000 heures de vol par jour. La société est présente sur tous les segments du marché, des avions régionaux et d'affaires aux plus grands avions de ligne.
+
+
+Au sein de notre site du Havres nous souhaitons aujourd'hui recruter un-e Technical Data Analyst F/H. Votre rôle serait de :
+
+Collecter et gérer les informations relatives aux produits en service
+
+- Extraire les événements en services et préparer les données pour leur intégration dans le Fleet Data Center
+
+- Développer et/ou mettre à jour les outils de calculs de la fiabilité des composants
+
+- Diffuser les alertes fiabilité
+
+- Développer et/ou mettre à jour les outils de calculs des coûts de maintenance opérationnels des produits en service,
+
+- Diffuser les rapport de ces coûts de maintenance opérationnels
+
+
+Assurer le support technique des contrats de services en cours
+
+- Analyser les risques opérationnels liés aux événements
+
+- Faire le reporting des problèmes techniques suivant contrat
+
+- Apporter le support technique suivant les demandes client
+
+
+Produire les livrables techniques nécessaires à l'élaboration d'offres de services aux compagnies aériennes
+
+- Préparer et tenir à jour des fichiers génériques (pool access, work scope)
+
+- Elaborer des livrables spécifiques pour des compagnies
+
+
+Identifier la création de valeur
+
+- Démontrer l'intérêt économique des offres de services (propositions de maintenance corrective et préventive)Spécificité du travailDéplacements possibles pour supporter les équipes commerciales lors des présentations d'offres de services aux clients ",2022-01-21T09:37:03.000Z,2022-02-22T19:49:28.000Z,G1302,Optimisation de produits touristiques,Analyst revenue management,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,False,1,False,,,76 - GONFREVILLE L ORCHER,49.5,0.233333,76305, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8104383,"[{'nom': 'AEROCONTACT', 'url': 'https://www.aerocontact.com/emploi-aeronautique/technical-data-analyst-hf~566724.html?fromref=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/aerocontact80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+14,8032975,Ingénieur·e data - Caen ou Paris - CDI (H/F),"Vous souhaitez mettre en oeuvre vos talents au sein d'une jeune entreprise innovante, où bonne ambiance et défis techniques rythment votre quotidien ?
+ 
+Dans le cadre du développement de ses activités de R&amp;D, de ses projets et de ses missions de conseil, SOYHUCE est à la recherche d'un·e Data Engineer pour consolider son équipe infrastructure et développement Big Data.
+ 
+À propos
+Studio R&amp;D en algorithmie et data science, SOYHUCE accompagne les entreprises, et les collectivités dans leurs réflexions et projets numériques et métiers.
+Les solutions que conçoit et développe SOYHUCE sont centrées sur les utilisateurs, mettant l'humain au cœur des organisations.
+ 
+Nos expertises :
+
+Laboratoire d'algorithmie : Transformer vos données en informations précieuses pour répondre à vos problématiques métiers les plus complexes.
+Data factory : Développer des solutions basées sur l'excellence technologique et vous accompagner à chaque étape : stocker, accéder, analyser, sécuriser et valoriser
+Usine Digitale : Définir avec vous vos projets et vos objectifs digitaux pour atteindre des solutions sur-mesure
+
+ 
+Descriptif du poste
+Vous travaillerez conjointement avec les Data Scientists, Data Ingénieurs et le Data Architect déjà en poste et vous serez impliqué.e dans la prise de décisions liée à notre solution Big Data et à son évolution. Vous participerez également à la construction d'un pôle Data au sein de l'entreprise.
+ 
+Vos missions au quotidien : 
+ 
+
+Contribuer au développement de notre offre Big Data,
+Comprendre, analyser et proposer des solutions techniques répondant aux besoins des Plateformes digitales et des projets des BUs,
+Définir l'architecture logiciel en collaboration avec vos pairs
+Travailler la donnée sous toutes ses formes (stockage, élaboration de modèles, structuration, nettoyage),
+Rédiger de la documentation technique, 
+Partager votre savoir-faire entre les différents membres de l'équipe,
+Concevoir et développer des connecteurs entre les sources de données (internes et/ou externes) et la plateforme,
+Concevoir et développer des pipelines de traitements de données (batch et/ou temps réel) dans un environnement Big Data,
+Assurer une veille technologique.
+
+ 
+Compétences attendues : 
+ 
+
+Expérience en développement : 
+Python, Java ou C++, Scala (notions)
+Spark, Pandas, DataTables
+Git
+
+Connaissance en bases de données : 
+SQL
+NoSQL (orientée documents, timeseries)
+
+Connaissance message broker
+RabbitMQ
+Kafka ou Pulsar
+
+Compétences cloud : 
+Kubernetes, 
+Conteneurisation
+Fournisseur cloud (AWS, GCP ou Azure)
+
+Expérience dans le traitement de données à grande échelle en utilisant les systèmes traditionnels et distribués tels que Hadoop ou Spark
+Sensibilité à la culture devops et au software craftmanship
+Data Analysis
+Data Engineering
+Data Visualisation 
+Gestion de projets Data
+Déploiement d'architecture cloud 
+
+ 
+Notre stack :
+ 
+Stockage de données: PostgreSQL, Cassandra, ElasticSearch, CouchDB, Redis;
+Cloud: AWS, GCP, Azure, OVH;
+Message Broker: RabbitMQ, Apache Pulsar, Kafka
+Orchestrateurs: Kubernetes;
+Technologies Big Data : Spark, Cassandra
+Bases de données : PostgreSQL,  CouchDB
+Machine learning: Tensorflow, PyTorch, MXNet, Scikit-Learn;
+Recherche opérationnelle: Optaplanner, OrTools ;
+Langages: Python, Java et Scala, Shell ;
+Outils : Kibana, Dataiku, Power BI. 
+ 
+Profil recherché
+Diplômé·e d'études supérieures dans le système d'information, computer sciences, big data (école d'ingénieurs, école spécialisée ou équivalent universitaire), vous justifiez d'une première expérience en BI et/ou Data engineering, ainsi qu'une expérience confirmée en gestion de projet.
+ 
+Vous avez une expérience concrète sur la mise en place de pipelines complets de valorisation de données massives, de la collecte à la mise à disposition d'applications en passant par le traitement.
+ 
+D'un naturel curieux et créatif, vous aimez évoluer dans des environnements innovants.
+Vous êtes un·e bon·ne communiquant·e et possédez une vraie culture de services et de succès client. 
+Animé.e par votre métier et proactif.ve, vous aimez apprendre en permanence. L'innovation, l'acquisition de nouvelles technologies et le partage sont au cœur de votre ADN tout comme le nôtre. 
+ 
+Vous êtes autonome, rigoureux, vous apprenez en permanence, l'exploration et l'acquisition de nouvelles technologies étant notre ADN. 
+ 
+Vous avez l'esprit d'équipe mais également des opinions et savoirs à fair  ",2022-01-20T04:12:51.000Z,2022-02-11T20:35:30.000Z,D1403,Relation commerciale auprès de particuliers,Conseiller(ère) commercial(e) auprès des particuliers,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,5,Employé non qualifié,14 - CAEN,49.184571,-0.372291,14118,,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8032975,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/774eb36e870723f1bbcbc275a28b7d86', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+15,6924336,Data management H/F,"INFORMATIONS GENERALES
+ORGANISATION
+Nous rejoindre, c'est intégrer une entreprise d'envergure mondiale. Mû par la recherche permanente de l'innovation et de l'excellence, pionnier et leader des technologies propres et de la mobilité durable, le Groupe entend rester à la pointe des grandes tendances qui font bouger le monde.
+
+Fort de son efficience, de son agilité et de son esprit d'équipe, le Groupe fait preuve d'exigence et d'audace pour définir la mobilité de demain.
+
+Pour réussir ces transformations, l'entreprise a besoin de tous les talents. Rejoignez-nous !
+
+REFERENCE
+2021-10423
+
+DATE DE PARUTION
+20211109
+
+DESCRIPTION DU POSTE
+SPECIALITE / EMPLOI
+Digital And Data Engineering
+Industrialisation et Integration Technique
+
+INTITULE DE POSTE
+Data management H/F
+
+DESCRIPTION DE LA MISSION
+Collecte et traitement automatisé des datas issues des moyens de production pour la maintenance préventive et prédictive et pour le management visuel des lignes de fabrication
+
+PROFIL
+ECOLE INGENIEUR OU MASTER 
+Autonomie, rigueur, sens du contact, organisation, adaptabilité et confidentialité
+
+TYPE DE CONTRAT STANDARD
+Stage
+
+LOCALISATION DU POSTE
+Pays
+Europe, France, Basse Normandie, 
+
+Ville
+DEUR
+
+ ",2021-12-26T17:38:45.000Z,2022-02-11T20:35:30.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),False,1,False,,,14 - CAEN,49.18286,-0.37068,14118, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/6924336,"[{'nom': 'CAREERBUILDER', 'url': 'https://www.lesjeudis.com/jobs/J3T2LX6B50P9FJFPK10?siteid=int_FRpoleemploi&utm_source=pole_emploi&utm_medium=aggregator&utm_campaign=organic', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/careerbuilder80.png'}]",,,,,,,,Groupe PSA,De ,,,,,,,,,,,,,
+16,0089083,MISSION TREMPLIN EMPLOI Chargé de projet digital H/F,"Poste et missions Au sein de la Direction Support et Prestations Clients, vous contribuez au projet de transformation du Service Crédits Entreprises en middle office et de digitalisation des processus. Contexte : Afin de mieux répondre aux préoccupations de ses clients, la Caisse d'Epargne Normandie (CEN) fait évoluer son Service Crédits aux Entreprises, Économie Sociale, Logement Social, SEM. vers un Middle Office. Ce projet consiste à faire les évoluer les process, les outils et le parcours client. Vos missions : - Identification des impacts, - Adaptation ou la mise en place des différents outils avec des phases de tests, validation et correction, - Adaptation et description des processus de traitement, - Identification des moments clés de contact avec les clients, - Préparation de la conduite du changement et des documents de communication.
+Diplômé d'un BAC+3/5 , vous êtes rigoureux, organisé et avez le sens du relationnel.
+Vous disposez d'une appétence dans la gestion de projet. ",2022-03-03T08:49:03.000Z,2022-03-03T08:49:03.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDD,Contrat à durée déterminée - 5 Mois,Contrat travail,E,Expérience exigée,False,1,False,,,76 - BOIS GUILLAUME,49.661629,0.928599,76108, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0089083,"[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=dGVhbS4yMjE3Ny42NzA2QGJwY2UuYXBsaXRyYWsuY29t', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,Caisse d'Epargne Nord,,,,,,,,,,,,,"[{'libelle': 'Français', 'exigence': 'E'}]",
+17,0041992,MISSION TREMPLIN EMPLOI - CHARGE(E) DE PILOTAGE PROJETS (H/F),"Poste et missions Au sein de la DIRECTION DIGITALE ET ORGANISATION, vos missions consisteront à : 1) Appui sur les procédures et imprimés : -Suivre le plan d'action défini en relation avec les Directions -Réaliser des analyses pour proposer de nouvelles actions de mises à jour des procédures et imprimés -Appuyer la mise à jour des procédures et imprimés, suivre l'amélioration de la qualité du référentiel -Suivre les KPI 2) Animation d'équipe : -Suivre la charge de l'équipe et aider à proposer des arbitrages -Appuyer la mise en place du plan de montée en compétence de l'équipe -Cadrer l'animation d'équipe sur la durée : Travailler sur les bonnes pratiques mises en place au sein de l'équipe; Aider à la diffusion de ces bonnes pratiques; Cadrer et mettre en place une veille sur l'innovation digitale bancaire et les méthodes projet 3) Cadrer et lancer un accompagnement de type « coaching projet» auprès des Directions - lancement en sept / oct 4) Accompagnement des directions sur l'utilisation de l'outil Klaxoon : Identifier les grands évènements des Directions ; Formaliser une offre d'animation permettant de promouvoir l'outil Klaxoon et la formation manager à distance réalisée par le pole Ressources et la DDO 5) Appui les Consulting Partners de l'équipe sur les projets de revue de processus
+Diplômé(e) d'un BAC+4/5 , vous êtes rigoureux(euse), organisé(e) et avez le sens du relationnel.
+ 
+ 
+Vous êtes à l'aise avec les outils digitaux et disposez d'une appétence pour la gestion de projet. ",2022-03-02T05:55:10.000Z,2022-03-02T05:55:10.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDD,Contrat à durée déterminée - 5 Mois,Contrat travail,E,Expérience exigée,False,1,False,,,76 - ROUEN,49.661629,0.928599,76540, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0041992,"[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=dGVhbS40MDEzNS42NzA2QGJwY2UuYXBsaXRyYWsuY29t', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,Caisse d'Epargne Nord,,,,,,,,,,,,,"[{'libelle': 'Français', 'exigence': 'E'}]",
+18,8619387,Datascientist (IT) (H/F),"Adsearch IT recrute pour une start-up ambitieuse basée à Rouen un datascientist
+Notre client construit et développe des modèles de Machine Learning. En agrégeant les dernières technologies multidisciplinaires, il compile et déploie des solutions logicielles uniques, sur mesure et interopérables.
+Adsearch IT recrute pour une start-up ambitieuse basée à Rouen un datascientist
+Notre client construit et développe des modèles de Machine Learning. En agrégeant les dernières technologies multidisciplinaires, il compile et déploie des solutions logicielles uniques, sur mesure et interopérables.
+Les plus : Start-up ambitieuse avec de fortes possibilités d'évolution 
+ Solutionner des problématiques d'entreprises. 
+ Polyvalence et aventure humaine !
+Vos missions 
+Analyse et audit des besoins clients. 
+Réalisation d'algorithmes 
+Elaboration de modèles prédictifs 
+Test, évolution et maintenance des modèles 
+Veille technologiques, proposition de POC.
+Votre profil :
+Compétences en mathématiques (algèbre, topologie, géométrie algébrique)
+Compétences en statistiques
+Maîtrise un ou plusieurs logiciels de calcul numérique (MatLab, Scilab, etc.)
+Compétence en intelligence artificielle (et plus particulièrement en machine learning)
+Capture de données / IoT
+Programmation (Python, Langage R)
+Base de données, ETL
+Librairie JavaScript (D3JS)
+Outils représentations graphiques (2D, 3D).
+Salaire entre 35 / 40k selon votre expérience + des possibilités d'actionnariat à terme. ",2022-01-31T20:09:07.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,9,Cadre,76 - ROUEN,49.440286,1.093912,76540, ,False,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8619387,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/c577bc5a015dd45f4783a5007e9953f4', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+19,127HFMS,Gestionnaire du suivi et pilotage de l'information (H/F),"Vos missions :
+-	Gestion des données :
+-	Élaborer des tableaux de bord et d'indicateurs sur la base de sources multiples : base de données, classeurs, logs ;
+-	Agréger des données de sources diverses ;
+-	Comprendre un besoin d'indicateurs pour le décliner techniquement de la manière la plus automatisable possible ;
+-	Synthèse des besoins fonctionnels, compréhension et modélisation des flux d'informations.
+Gestion de projet fonctionnelle :
+-	Participer à l'élaboration du cahier des charges ;
+-	Suivre les projets confiés et rendre compte de l'avancement ;
+-	Comprendre les métiers et aider à la cohérence des données ;
+-	Produire les livrables permettant l'exploitation de la solution ;
+-	Recetter la qualité de prestation.
+
+Le permis B est exigé car vous  utilisez  le véhicule de l'établissement pour intervenir sur différentes structures:  Avranches, Saint-Hilaire, Granville
+Ce contrat est sur un poste vacant . Vous joindrez une lettre de motivation à votre candidature .
+En vertu de la loi n°2021-1040 du 5 août 2021 relative à la gestion de la crise sanitaire modifiant la loi 2021-689 du 31 mai 2021 relative à la gestion de la sortie de crise sanitaire, le poste proposé est soumis à l'obligation de vaccination».
+",2022-01-31T15:30:18.000Z,2022-02-28T09:59:45.000Z,M1810,Production et exploitation de systèmes d'information,Technicien / Technicienne informatique,CDD,Contrat à durée déterminée - 12 Mois,Contrat travail,E,1 an - Souhaitée sur même type de poste,False,1,False,7,Technicien,50 - PONTORSON,48.560474,-1.469004,50410,,False,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127HFMS,,35H Horaires normaux,Temps plein,86,Activités hospitalières,"[{'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}, {'libelle': 'Sens de la communication', 'description': ""Capacité à transmettre clairement des informations, à échanger, à écouter activement, à réceptionner des informations et messages et à faire preuve d'ouverture d'esprit. Exemple : être à l'écoute, être attentif aux autres""}, {'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}]",True,50170,,,2 RUE des sablonnieres,,Selon grille FPH,Souhaitée sur même type de poste,"[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+2 ou équivalents', 'commentaire': 'DUT SID  ou STID ou BIG DATA ', 'exigence': 'E'}]","[{'code': '102176', 'libelle': 'Réaliser la maintenance de premier niveau de matériel informatique', 'exigence': 'E'}, {'code': '109968', 'libelle': ""Ordonnancer le déroulement des travaux et mettre en oeuvre les traitements d'exploitation/production des ressources informatiques"", 'exigence': 'E'}, {'code': '109969', 'libelle': ""Superviser et vérifier l'état des ressources informatiques, réaliser les sauvegardes et les archivages de données"", 'exigence': 'E'}, {'code': '109971', 'libelle': ""Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives"", 'exigence': 'E'}, {'code': '109973', 'libelle': ""Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logiques et physiques"", 'exigence': 'E'}, {'code': '119114', 'libelle': ""Traiter l'information (collecter, classer et mettre à jour)"", 'exigence': 'E'}, {'code': '121643', 'libelle': 'Effectuer une assistance technique', 'exigence': 'E'}, {'code': '122329', 'libelle': 'Planifier des interventions de maintenance', 'exigence': 'E'}, {'code': '123563', 'libelle': 'Contrôler le déroulement de travaux', 'exigence': 'E'}, {'code': '123564', 'libelle': ""Contrôler le fonctionnement d'un outil ou équipement"", 'exigence': 'E'}, {'code': '123620', 'libelle': 'Contrôler une opération de maintenance', 'exigence': 'E'}]",Autre,Pôle Emploi AVRANCHES,50300 AVRANCHES,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127HFMS","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127HFMS",,"[{'libelle': 'B - Véhicule léger', 'exigence': 'E'}]"
