@@ -1,0 +1,187 @@
+,id,intitule,description,dateCreation,dateActualisation,romeCode,romeLibelle,appellationlibelle,typeContrat,typeContratLibelle,natureContrat,experienceExige,experienceLibelle,competences,dureeTravailLibelle,dureeTravailLibelleConverti,alternance,nombrePostes,accessibleTH,qualificationCode,qualificationLibelle,secteurActivite,secteurActiviteLibelle,offresManqueCandidats,lieuTravail.libelle,lieuTravail.latitude,lieuTravail.longitude,lieuTravail.codePostal,lieuTravail.commune,entreprise.nom,entreprise.description,entreprise.url,entreprise.entrepriseAdaptee,salaire.commentaire,salaire.complement1,contact.nom,contact.coordonnees1,contact.courriel,origineOffre.origine,origineOffre.urlOrigine,formations,salaire.libelle,contact.urlPostulation,origineOffre.partenaires,qualitesProfessionnelles
+0,128BLTZ,Chef de projet et data manager (H/F),"Rattaché(e) au Responsable des Systèmes d'Informations, vous contribuez au développement et au déploiement de l'ERP de l'entreprise et assurez son bon fonctionnement dans le temps.
+
+Missions :
+
+-	Mettre sous contrôle les process liés à l'utilisation de l'ERP. 
+-	Etre l'interface fonctionnelle entre les métiers et le SI. 
+-	Assurer la collecte de l'expression des besoins, établir le cahier des charges des projets dont vous êtes en charge. 
+-	Piloter les projets d'amélioration de l'ERP. 
+-	Réconcilier les données disséminées dans le système d'information. 
+-	Veiller à ce que les données de base soient bien conformes, organisées et exploitables. 
+-	Éliminer les doublons et les informations incohérentes ou inexactes. 
+-	Mettre en place un référentiel en centralisant la gestion du cycle de vie de la donnée. 
+-	Etre le référant RGPD. 
+
+Compétences techniques : 
+	
+-	Maîtrise d'un ERP, idéalement SAGE X3.
+-	Maîtrise d'une BI, idéalement MyReport.
+-	Bonne maîtrise des méthodologies de gestion multi projets.
+-	Compréhension des enjeux business liés à la circulation de l'information. 
+-	Connaissance GDPR et des enjeux Data Privacy.
+
+Profil recherché : 
+
+-	Etre issu d'une formation supérieure en informatique. 
+-	Disposer d'au moins 3 ans d'expérience sur un poste similaire.  
+-	Etre pédagogue et disposer d'une bonne aisance relationnelle. 
+-	Etre rigoureux, organisé et disposer d'un bon esprit de synthèse. 
+-	Etre capable de convaincre et fédérer. 
+-	Une bonne aisance rédactionnelle est indispensable.
+
+Lieu de travail : AVOUDREY, DOUBS (25)
+
+
+Rémunération : En fonction du profil et de l'expérience.
+",2022-02-14T14:40:36.000Z,2022-02-15T15:58:20.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '117369', 'libelle': 'Définir les caractéristiques techniques du produit', 'exigence': 'S'}, {'code': '120588', 'libelle': ""Concevoir l'architecture d'un système d'information"", 'exigence': 'S'}, {'code': '120724', 'libelle': 'Concevoir les solutions techniques', 'exigence': 'S'}, {'code': '120913', 'libelle': 'Évaluer le résultat de ses actions', 'exigence': 'S'}, {'code': '121286', 'libelle': ""Analyser les besoins d'un projet"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,15,"Fabrication d'articles de voyage, de maroquinerie et de sellerie",False,25 - AVOUDREY,47.136555,6.437333,25690,25039,S.I.S.,"Entreprise spécialisée dans la production d'articles de maroquinerie, SIS apporte son savoir-faire et son expertise du travail du cuir à ses clients partenaires, présents sur les secteurs de la maroquinerie et de l horlogerie. L'entreprise familiale a vu son effectif passé de 300 à 1 000 collaborateurs en 9 années, pour un CA de 55 millions d euros. ",http://www.sis-fr.com,False,Selon profil,Autre,S.I.S. - M. SAUVONET Ludwig,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128BLTZ","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128BLTZ",1,https://candidat.pole-emploi.fr/offres/recherche/detail/128BLTZ,,,,,
+1,127YRLP,Data analyst (H/F),"Nous recherchons pour notre filiale
+SNCTP à Dijon (21) :
+Analyste de données H/F
+
+Explication du DATA Analyste recherché (il s'agit d'une création de poste): rattaché au Directeur de filiale et en lien avec les différents exploitants et services supports, vous devrez extraire, analyser et mettre en forme les données issues de l'activité de l'entreprise (les données du parc matériel, des chantiers, des achats, etc..)  afin d'interpréter et de trouver des pistes de progrès.
+
+Vos missions seront les suivantes : 
+-	Contrôler la pertinence des données 
+-	Extraire et analyser les informations chiffrées générées par l'activité de l'entreprise 
+-	Donner un sens et expliquer les données extraites
+-	Synthétiser les informations pour les rendre accessibles aux exploitants 
+-	Proposer des recommandations sur les bases de données à modifier 
+-	Faciliter les prises de décision de l'entreprise en assurant un rôle de consultant 
+-	Mise en place de reporting des performances pour donner une vision cohérente des résultats aux différentes équipe  
+
+Profil : 
+Idéalement issu d'une formation supérieure, vous justifiez d'une expérience significative de minimum 3 ans sur un poste similaire ou de contrôle de gestion.
+Des notions et/ou compétences dans le domaine du BTP seraient un plus. 
+Une maitrise des outils informatiques classiques d'analyse et de représentation de données (Excel, Power BI, éventuellement codage ) est exigée. 
+Elle doit être couplée à de bonnes connaissances en mathématiques de base, notamment en statistique.
+
+Vous êtes rigoureux, motivé, curieux, volontaire et avez l'esprit d'analyse et de synthèse, venez rejoindre un Groupe Familial, Indépendant et Dynamique.
+
+Durée du contrat : CDI 
+Rémunération : selon profil 
+Lieu d'embauche : Dijon (21) 
+",2022-02-11T13:59:18.000Z,2022-02-15T16:28:04.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",38H Horaires normaux,Temps plein,False,1,False,9,Cadre,43,Travaux de terrassement spécialisés ou de grande masse,False,21 - DIJON,47.331938,5.034852,21000,21231,ROGER MARTIN,"La force d'un groupe, la souplesse d'une PME  pour construire votre avenir.
+Fort d'un siècle d'expérience, le Groupe ROGER MARTIN est spécialisé dans les activités de Routes, Terrassement, Bâtiment et V.R.D.
+Notre forte culture d'entreprise résolument tournée vers les hommes nous permet de vous offrir un réel plan de carrière.",http://www.rogermartinsa.com/ressources-humaines/recrutement,False,,,ROGER MARTIN - Mme CATHERINE MIGNARD,https://apply.humansourcing.com/f/p/n/fr/gKJ/21-snctp-DATA-POLEEMPLOI,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127YRLP,"[{'codeFormation': '11016', 'domaineLibelle': 'analyse données', 'niveauLibelle': 'Bac+2 ou équivalents', 'exigence': 'E'}, {'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+2 ou équivalents', 'exigence': 'E'}]","Annuel de 35000,00 Euros à 42000,00 Euros sur 13.3 mois",https://apply.humansourcing.com/f/p/n/fr/gKJ/21-snctp-DATA-POLEEMPLOI,,
+2,9069791,Responsable du département Data (H/F),"""Filiale bancaire du groupe Carrefour, Carrefour Banque propose depuis plus de trente ans une large gamme de produits adaptés aux attentes des clients et consommateurs : Carte PASS, prêt personnel, épargne et assurances.Pour mieux servir ses clients, Carrefour Banque mise à la fois sur l'innovation et sur des partenariats avec des acteurs reconnus qui accompagnent la diversification des activités.L'utilisation de la data et le développement des capacités analytiques sont un axe majeur du plan stratégique de Carrefour Banque. Directement rattachée au Directeur des Systèmes d'Informations, le département Data est le pilier de cette transformation analytique, au service de l'ensemble des équipes métier de Carrefour Banque (Marketing, Risque de crédit, Fraude, Conformité, Commerce et E-commerce, etc) et contribue à la croissance du Chiffre d'Affaires en développant des usages pertinents de la Data sur des problématiques variées et à forte valeur ajoutée, en lien avec les ambitions du groupe. Carrefour Banque recherche pour son Département Data basée à Evry (91), un(e) : Responsable du département Data (H/F)(Head of Data) Vous serez rattaché au Directeur des Systèmes d'Informations et piloterez les activités Data dans toutes leurs composantes (Pôle Big Data & DataLab ; Pôle décisionnel ; Pôle Data gouvernance). Rattaché au DSI, vous aurez pour principales missions de : Construire et mettre en œuvre la stratégie Data de l'entreprise en accord avec les ambitions de la direction générale et des différentes directions business Piloter/Manager les équipes Data en vous appuyant sur les Product Owner des pôles Big Data, Décisionnel et Data Gouvernance Aider les lignes métiers  à identifier leurs cas d'utilisation de la donnée en fonction des capacités techniques à disposition (Socles BigData et DWH, DataLab, DataViz, + Patrimoine Data à disposition) Coordonner la gouvernance de l'activité Data, avec le DSI (COMEX), les directions business, IT et financières : instances, reportings, intégration dans les budgets des directions métiers Estimer et suivre les impacts financiers des projets, en assurant la fiabilité des mesures, et en mettant en place les outils de reportings associés Suivre l'avancement des projets - respect des plannings, satisfaction des clients internes et finaux - en mettant en place les outils et KPIs adéquats Coordonner la priorisation des projets, et piloter l'affectation des ressources (data translators, data scientists, data engineers, data analyst, etc.) Assurer la coordination des chantiers d'évolution et de maintenance « à l'état de l'art » des assets Data avec les OPS du département Architecture. Vos compétences : Etre force de proposition dans la mise en place de solution Data à fort enjeux business (ML/AI for business, .) et pousser l'idéation auprès des équipes métiers Compréhension du business et goût du commerce / Connaissance secteur banque&assurance Avoir une bonne culture Data sur les sujets de Gouvernance/Management de la donnée, du décisionnel, de l'apprentissage supervisé (ML) et des technologies Big Data en environnement Cloud Excellentes capacités analytiques, à la fois dans les domaines techniques (interactions avec les équipes data translators et data science) et business (interactions avec le Dpt Marketing, Risque de Crédit, Fraude/LCB-FT, Commerce) Excellente capacité analytiques à la valorisation des données dans les domaines d'activité fondamentaux (Marketing, Risque de crédit, Fraude/LCB-FT, Commerce) et à définir des solutions réalisant cette valeur Gestion de projets et d'équipes travaillant en mode Agile Connaissance pratique des principes budgétaires et indicateurs de gestion Très bon relationnel et capacités de synthèse écrite et orale, aptitude à expliquer et convaincre ; capacités de vulgarisation et de pédagogie Leadership, avec une attitude de travail en équipe pour conduire la mise en œuvre de bout en bout des cas d'utilisation sous la pression du temps. Solides compétences en communication et capacité à décomposer des informations complexes en points pertinents et digestes pour un public technique et non technique Rigueur, proactivité et autonomie. Votre profil : Vous disposez d'une formation Bac+5 (Université ou Grande Ecole) avec une expérience de 10 ans minimum dans le pilotage de programme orienté Data, le management d'équipe techniques et la mise en place de solutions Data à fortes valeurs métiers. Vous souhaitez rejoindre une équipe dynamique. Postulez ! "" ",2022-02-10T10:46:59.000Z,2022-03-02T05:05:35.000Z,C1108,Management de groupe et de service en assurances,Responsable de département en assurances,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,45 H ,Temps plein,False,1,False,9,Cadre,,,,89 - EVRY,48.266496,3.256026,,89162,, ,,False,,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9069791,,,,"[{'nom': 'CARREFOURBANQUE', 'url': 'https://carrefour.taleo.net/careersection/SC_FRA_PE_ADO/jobapply.ftl?lang=fr_FR&src=JB-12360&job=003VC5', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/carrefourbanque80.png'}]",
+3,8948962,"DATA ANALYST - CONFIRMÉ F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Dans le cadre de notre développement, nous recherchons un.e Data Analyst, afin de participer à nos projets Data. 
+Rattaché.e au responsable d'équipe, vous animez et conduisez les projets de mise en œuvre de solutions décisionnelles au sein des systèmes d'informations de nos clients.
+Vos missions :
+* Recueil et analyse des besoins : ateliers fonctionnels, spécifications, maquettage
+* Conception de Data Warehouse & Data Lake  
+* Développement de traitements de préparation / intégration des données
+* Mise en place de tableaux de bords et rapports dans les solutions BI & Dataviz
+
+Profil recherché:
+
+De formation supérieure en informatique ou équivalent, vous justifiez d'une expérience réussie de minimum 5 ans sur un même type de poste.
+Vous maitrisez les concepts de l'informatique décisionnelle : ETL, entrepôts de données, solutions décisionnelles et analytiques
+Vous êtes autonome sur une ou plusieurs technologies ETL (Talend, PDI, Stambia, ...) et/ou plates-formes décisionnelles (DigDash, Qlik Sense, Tableau, Power BI, ...).
+La maîtrise des bases de données et du langage SQL est indispensable. 
+Curieux.se, autonome et rigoureux.se, vous disposez d'une bonne capacité à animer des ateliers et réunions ainsi que défendre les solutions que vous aurez contribué à élaborer.
+Votre sens du service et votre aisance relationnelle participent au succès des projets et à la construction de relations client durables.
+Intégré.e à une équipe soudée et expérimentée, vous contribuez à l'énergie et la dynamique qui anime le pôle Data. ",2022-02-07T06:02:52.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Analyste réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,62,Tierce maintenance de systèmes et d'applications informatiques,,21 - GEVREY CHAMBERTIN,47.226498,4.980625,,21295,ATOL CONSEILS & DÉVELOPPEMENTS,"\nATOL Conseils et Développements conçoit et développe des applications web et mobile au profit d'acteurs majeurs des secteurs publics et privés en France. Entreprise dynamique, nous avons connu ces cinq dernières années une solide croissance en passant de 60 à 180 collaborateurs, tout en nous appuyant sur des valeurs importantes comme le développement durable, l'autonomie, la collaboration et l'excellence technique.\nNous pensons que l'informatique peut transformer positivement les ... ",,False,A négocier,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8948962,,,,"[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167596606W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",
+4,5460276,Data Scientist H/F,"INFORMATIONS GENERALES
+ORGANISATION
+Nous rejoindre, c'est intégrer une entreprise d'envergure mondiale. Mû par la recherche permanente de l'innovation et de l'excellence, pionnier et leader des technologies propres et de la mobilité durable, le Groupe entend rester à la pointe des grandes tendances qui font bouger le monde.
+
+Fort de son efficience, de son agilité et de son esprit d'équipe, le Groupe fait preuve d'exigence et d'audace pour définir la mobilité de demain.
+
+Pour réussir ces transformations, l'entreprise a besoin de tous les talents. Rejoignez-nous !
+
+REFERENCE
+2021-10366
+
+DATE DE PARUTION
+20211108
+
+DESCRIPTION DU POSTE
+SPECIALITE / EMPLOI
+Digital And Data Engineering
+Pilotage Du Si
+
+INTITULE DE POSTE
+Data Scientist H/F
+
+DESCRIPTION DE LA MISSION
+Vous serez chargé(e) de la refonte et l'automatisation des indicateurs de pilotage. Pour cela, vous serez amené(e) à :
+- Développer des outils issus des extractions 
+- Rendre ces outils intuitifs et avec une maintenance aisée afin de les pérenniser
+
+La mission pourra être réalisée partiellement en télétravail.
+
+PROFIL
+BAC + 5 Data Scientist 
+Power BI, VBA, Office
+
+TYPE DE CONTRAT STANDARD
+Stage
+
+LOCALISATION DU POSTE
+Pays
+Europe, France, Franche-Comté, 
+
+Ville
+SG
+
+ ",2021-11-23T14:59:33.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),,,,False,1,False,,,,,,70 - GRAY,47.44582,5.59235,,70279,Groupe PSA, ,,False,,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/5460276,,De ,,"[{'nom': 'CAREERBUILDER', 'url': 'https://www.lesjeudis.com/jobs/J3P5GT76VH9YHGTQMX6?siteid=int_FRpoleemploi&utm_source=pole_emploi&utm_medium=aggregator&utm_campaign=organic', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/careerbuilder80.png'}]",
+5,126ZVTM,Chargé.e de conformité règlementaire SI et DPD (DSIN)  (H/F),"Définition de la fonction :
+
+- Faire en sorte que l'université soit en conformité sur le champ des systèmes d'information et des achats IT, notamment avec le cadre légal relatif aux données à caractère personnel (RGPD)
+
+Champ des relations :
+
+- Animation large au sein des réseaux et vers l'ensemble des utilisateurs de données, des responsables applicatifs et des responsables de domaines - Relation étroite avec le directeur des Systèmes d'Information et du Numérique (DSIN) et avec le responsable sécurité des systèmes d'information (RSSI)
+- Relations avec les utilisateurs (personnels, enseignants, chercheurs et étudiants)
+- Relations avec le service juridique
+
+ 
+
+
+Mission 1 : Délégué à la protection des données (DPD)
+
+Mettre en place le processus de gestion de la conformité règlementaire sur les données à caractères personnel et prendre en compte les demandes d'appui, épauler plus largement la conformité de gestion des données de l'Université. A ce titre :
+
+- Contribuer à la mise en place de la politique du domaine de gestion des
+données en articulation avec la politique SSI (PSSI), pour s'assurer du respect
+du règlement et du droit national en matière de protection des données
+
+- Renforcer le processus de gestion des demandes et des alertes du domaine
+données en articulation avec les processus SI et leur déclinaison SSI.
+
+- Clarifier le rôle des correspondants, identifier et proposer la nomination des
+correspondants, assurer la formation et l'animation du réseau des
+correspondants et des relais dans les structures et domaines SI UFC, assurer
+la continuité du processus global de conformité (départs,...)
+
+- Renforcer la détection des non conformités et le contrôle interne :
+              - Conseiller la gouvernance SI sur l'opportunité de réalisation d'une
+analyse d'impact relative à la protection des données et en vérifier
+l'exécution
+
+- Sensibiliser la communauté de travail
+
+- En relation avec l'animation SSI, Informer et conseiller quant aux obligations
+en matière de protection des données personnelles:
+              - Les responsables de traitement
+              - Les personnels UFC
+
+- Assurer la veille et conseiller sur le respect de l'état de l'art via le réseau des
+DPO, assurer la relation avec la CNIL et être son point de contact
+
+Mission 2 : Renforcer le processus de gestion de la conformité des achats logiciels et de respect de la propriété intellectuelle dans le champ informatique:
+
+- Contribuer à la mise en place de la politique d'achat et de déploiement des
+logiciels
+
+- Renforcer la détection des non conformités et le contrôle interne :
+              - Conseiller la gouvernance SI sur les optimisations souhaitables et les pistes de résolution des problèmes.
+
+- Sensibiliser la communauté de travail
+
+- En relation avec les partenaires externes, suivre l'état de conformité sur les
+contrats et commandes
+- Assurer la veille et conseiller sur le respect de l'état de l'art via les réseaux métier externes",2022-01-26T10:57:15.000Z,2022-03-02T10:29:42.000Z,K1903,Défense et conseil juridique,Délégué(e) à la protection des données - DPO,CDD,Contrat à durée déterminée - 12 Mois,Contrat travail,D,Débutant accepté,"[{'code': '115246', 'libelle': ""Veiller au respect de la loi Informatique et Libertés et du RGPD dans l'entreprise, gérer la liste des traitements de données à caractère personnel, faire l'interface avec la Commission Nationale de l'Informatique et des Libertés - CNIL"", 'exigence': 'S'}, {'code': '118732', 'libelle': 'Réaliser une veille documentaire (collecte, analyse etc.)', 'exigence': 'S'}, {'code': '118838', 'libelle': ""Accomplir des démarches auprès d'organismes publics ou privés pour le compte de clients"", 'exigence': 'S'}, {'code': '124532', 'libelle': ""Tenir informée sa structure des nouvelles techniques et réglementations liées à l'activité"", 'exigence': 'S'}, {'code': '140939', 'libelle': 'Mettre en place la documentation du Délégué à la protection des données - Data Protection Officer', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,7,Technicien,85,Enseignement supérieur,True,25 - BESANCON,47.2564,5.99411,25000,25056,Université de Franche-Comté,"Forte de ses 2500 enseignants, enseignants-chercheurs, personnels administratifs, ingénieurs, bibliothécaires et techniciens, l'Université de Franche-Comté (UFC) accueille 23700 étudiants cette année et près de 6000 étudiants et stagiaires étrangers sur ses 5 sites universitaires de Besançon, Belfort, Montbéliard, Vesoul et Lons-le-Saunier. l'UFC est, aux côtés de la Région, des collectivités locales et du monde socio-économique, un véritable acteur territorial, créateur de richesse.",https://www.univ-fcomte.fr/recrutement#.YNM5RKgzY2w,False,,,Université de Franche-Comté - Mme Séverine BILON,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/126ZVTM","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/126ZVTM",1,https://candidat.pole-emploi.fr/offres/recherche/detail/126ZVTM,,"Mensuel de 1603,13 Euros à 1603,14 Euros sur 12 mois",,,"[{'libelle': 'Gestion du stress', 'description': 'Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues et stressantes. Exemple : garder son calme'}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]"
