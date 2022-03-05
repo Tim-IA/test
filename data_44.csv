@@ -1,0 +1,412 @@
+,id,intitule,description,dateCreation,dateActualisation,romeCode,romeLibelle,appellationlibelle,typeContrat,typeContratLibelle,natureContrat,experienceExige,experienceLibelle,alternance,nombrePostes,accessibleTH,secteurActivite,secteurActiviteLibelle,lieuTravail.libelle,lieuTravail.latitude,lieuTravail.longitude,lieuTravail.commune,entreprise.nom,entreprise.description,entreprise.entrepriseAdaptee,salaire.libelle,origineOffre.origine,origineOffre.urlOrigine,origineOffre.partenaires,permis,qualificationCode,qualificationLibelle,competences,dureeTravailLibelle,dureeTravailLibelleConverti,qualitesProfessionnelles,offresManqueCandidats,lieuTravail.codePostal,entreprise.url,contact.nom,contact.coordonnees1,contact.courriel,salaire.commentaire,contact.urlPostulation,langues,entreprise.logo,salaire.complement1,formations,deplacementCode,deplacementLibelle,salaire.complement2
+0,0042962,Ingénieur Data Talend H/F,"Rattaché au DSI, vous intégrez l'équipe Data Management. Cette équipe est conviviale, évolue avec ambition et propose une bonne atmosphère de travail. Vous collaborez en direct avec une personne présente depuis 2016. La DSI connait peu de turnover. 
+
+Les principales missions de ce poste sont :
+- De gérer la circulation des flux de données,
+- De maintenir les flux de données Talend sur des bases de données MySQL et SQL Server, 
+- D'effectuer la maintenance et l'évolution du DataWarehouse et des composants qui gravitent autour,
+- De participer à la mise en place d'un Master Data Management et de définir les process pour assurer une qualité de données,
+- De participer à la stratégie et l'innovation avec les différentes équipes métiers et direction du groupe,
+- D'effectuer l'analyse des besoins, établir le cahier des charges et de concevoir le produit,
+- De concevoir la documentation technique et fonctionnelle, 
+- De former les utilisateurs à l'utilisation des produits.
+Pour ce poste, nous recherchons un profil issu d'une formation en ingénierie informatique orienté Data, BI, base de données. Sur le plan technique, vous maîtrisez la plateforme Talend. Des expériences dans le développement d'API et de Webservices sont des vrais plus. 
+Vous faites preuve d'organisation et d'une forte capacité d'analyse. Vous êtes reconnu pour rigueur. A côté de cela, vous appréciez fortement le contact avec les collaborateurs et vous appréciez transmettre votre expertise. 
+
+L'entreprise propose un bel environnement de travail, de beaux projets avec des équipes passionnées. Il s'agit d'un poste stratégique dans une entreprise qui met tout en œuvre pour mener à bien cette transformation.
+
+La confidentialité de votre démarche est assurée !
+
+Je suis Tech recruiter Software Development pour Hays Technology, travaillant dans la région Grand-Est, aidant les professionnels de la tech à développer leurs carrière et veillant à ce que les entreprises soient soutenues par les meilleurs talents. Ma passion pour ce domaine découle de mes expériences passées lors de plusieurs partenariats avec des écoles d'ingénierie en informatique. ",2022-03-02T05:57:54.000Z,2022-03-02T05:57:54.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),False,1,False,45,Commerce de voitures et de véhicules automobiles légers,67 - STRASBOURG,48.571266,7.767527,67482,Hays France,"Notre client est un groupe automobile, distributeur multimarques spécialisé dans la vente et la réparation de véhicules neufs et d'occasion. Le groupe est présent sur le Grand-Est et a pour projet de mettre la data au centre de sa stratégie digitale. Depuis 2016, il travaille sur ce projet et a pu élaborer un écosystème propre et performant. ",False,"Annuel de 45000,00 Euros ï¿½ 50000,00 Euros",2,https://candidat.pole-emploi.fr/offres/recherche/detail/0042962,"[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=bWFnaW5vdHQuOTk2NjIuNjcwNkBoYXlzZnJhbmNlLmFwbGl0cmFrLmNvbQ', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+1,0018091,Consultant Data Analyst HF H/F,"Sopra Steria Next en quelques mots ?Une vision stratégique de la transformation digitale et un conseil audacieux inspiré par l'action, voici ce qui caractérise Sopra Steria Next. Nos actions, nos missions et nos convictions sont construites autour de nos valeurs essentielles : l'ouverture et la curiosité, le sens du collectif, la volonté de l'action positive, la primauté du service client, l'excellence clients et le respect de l'autre.En nous inspirant de la connaissance de l'entreprise et de ses réalités, en mettant l'humain au cœur, en l'associant au meilleur de la technologie, nous nous engageons aux côtés de nos clients pour concevoir des stratégies de transformation digitale visionnaires, réellement activables ; celles qui produisent des bénéfices concrets et durables pour l'entreprise, ses collaborateurs, ses clients et la Société.Fort de 3 400 consultants en Europe, dont 1 900 en France, Sopra Steria Next a pour vocation d'accompagner ses clients dans leur développement et leur compétitivité, en s'appuyant notamment sur le meilleur usage du numérique. Positionné parmi les leaders, nous accompagnons les plus grandes entreprises en France et en Europe dans leurs projets de transformation digitale et l'amélioration continue de leurs performances. Nous adressons les marchés de l' Assurance et Protection sociale, Aéronautique et Spatial, Automotive, Défense et Sécurité, Energie et Utilities, Retail, Santé, Social et Emploi, Secteur public, Services financiers, Télécommunication, Médias et Entertainement, Transport.En tant qu'analyste Data, vous avez les missions suivantes :- Participer au développement d'une politique de gestion des données ambitieuse.- Recueillir les besoins fonctionnels auprès des opérationnels (états, rapports, graphiques).- Identifier, recenser et trouver toutes les informations nécessaires pour établir les graphiques nécessaires.- Construire les modèles de données et utiliser les sources d'alimentations nécessaires pour produire les rapports.Ce que nous vous proposons :- Progresser et développer vos compétences techniques dans l'univers de la data.- Construire un avenir positif en mettant le digital au service de l'humain.- Évoluer dans une entreprise qui encourage l'audace, la curiosité et l'envie d'entreprendre.Diplômé(e) d'une école d'Ingénieur ou équivalent universitaire, vous possédez d'une ou plusieurs expériences significatives en tant que Data Analyst.Vous savez comprendre les données sur l'ensemble de leur cycle de vie.Vous avez de bonnes compétences en SQL et comprenez les langages d'interrogation de la donné ainsi que son exploitation.Vous comprenez les besoins du métier et savez faire le lien avec la technique.Une connaissance de Tableau Qlik, de Dataviz et de Power BI serait un avantage déterminant.Vous vous épanouissez dans un quotidien qui implique une diversité de tâches.Votre potentiel et votre personnalité feront la différence : capacités d'analyse/synthèse, curiosité et adaptabilité, excellente communication, diplomatie et esprit d'équipe.Si vous cherchez un cabinet de conseil leader du marché où développer vos compétences et travailler dans une ambiance startup bienveillante n'attendez plus !C'est de l'action que naît notre inspiration. Rejoignez l'aventure digitale Sopra Steria Next !Nos postes sont ouverts à tous. Poste basé en région parisienne et en région. ",2022-03-01T17:48:35.000Z,2022-03-01T17:48:35.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDD,Contrat à durée déterminée - 8 Mois,Contrat travail,E,Expérience exigée de 1 Mois,False,1,False,,,52 - Marne (Haute),,,,Sopra Steria Next, ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0018091,"[{'nom': 'INZEJOB', 'url': 'https://emploi.inzejob.com/offre-emploi?j=8283353', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/inzejob80.png'}]","[{'libelle': 'Aucun permis', 'exigence': 'S'}]",,,,,,,,,,,,,,,,,,,,,
+2,0017857,Consultant Product Data Management (F/H) H/F,"Au sein de Micropole, nous vousproposons de rejoindrenotrepractice « Data Governance et Architecture »basé àLevallois-Perret, composé de 80 #InnovativePeople et reconnue comme leadereuropéen de la Gouvernance des données.ContexteLa gestion de la donné produit dans un grand groupe est souvent organiséeen silos, car chaque métier a une vision parcellaire de l'information(Marketing, commerce, technique, finance.).L'objectif est donc d'apporter desprocessus de construction de la donné Produit unifiés au sein du systèmed'information.Lesprojets digitauxontbesoinde donnéesProduit de qualitéafin d'améliorerl'expérience client,et amener une plus grande valeur et de l'efficacité au niveau des processusopérationnels et décisionnels de l'entreprise.Ces projets permettent d'aborderlecycle de vie de la donné produitdepuis la R&Djusqu'au Digital.Au quotidien, vous aurez les responsabilités suivantes :Intégrer au sein d'une équipe projet, vous participerez aux ateliers de conceptionfonctionnelle et technique ainsi qu'à la rédaction des spécifications,Les développements seront réalisés sur une solution PIM(Product Information Management), intégrant une multitude de technologiestelle que des moteurs de workflows , des outils de standardisation, d'enrichissement, de déduplication , etc..Plus globalement, vous serez impliqué danstoutes les grandes étapes du projet, vous aurez un rôle primordial dans ladéfinition et la mise en œuvre de la solution finale.Votre Talent comme valeurajouté :Bonneexpression orale et qualité rédactionnelle,Modélisationde données,Développementorienté objet,Motivé,rigoureux, pragmatique, bon esprit de synthèse.,Vous aimez travailler en équipe.Vous justifiez d'au moins 1 an d'expérience professionnelle.Vous maîtrisez les outils / technologies suivantes : Java, Javascript, XML, PIMN'attendez plus, rejoignez Micropole. Devenez un #InnovativePeople !#LI-JJ1 ",2022-03-01T17:47:59.000Z,2022-03-01T17:47:59.000Z,M1402,Conseil en organisation et management d'entreprise,Consultant / Consultante en management,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 60 Mois,False,1,False,,,54 - Meurthe et Moselle,,,,Paris - Data Governance, ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0017857,"[{'nom': 'INZEJOB', 'url': 'https://emploi.inzejob.com/offre-emploi?j=8284826', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/inzejob80.png'}]","[{'libelle': 'Aucun permis', 'exigence': 'S'}]",,,,,,,,,,,,,,,,,,,,,
+3,0016551,Alternant Data Scientist (H/F),"Cr&eacute;ateur de l&rsquo;hypermarch&eacute; et pionnier de la consommation de masse, Carrefour reste fid&egrave;le &agrave; ses racines mais se r&eacute;invente pour permettre &agrave; chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.Nos atouts pour y parvenir ? Un r&eacute;seau multiformat de + 5 400 magasins, la cr&eacute;ation de services et d'une offre digitale de r&eacute;f&eacute;rence, une coop&eacute;ration renforc&eacute;e avec les acteurs du monde agricole, de la cha&icirc;ne alimentaire, de la Tech...Et des collaborateurs passionn&eacute;s, qui s&rsquo;engagent, challengent leur m&eacute;tier et grandissent ensemble pour r&eacute;ussir la transition alimentaire pour tous.Mission g&eacute;n&eacute;rale Vous serez rattach&eacute;(e) au service Pricing/Data science Front De Vente et vous aurez un r&ocirc;le de data scientist transverse au sein de la BU Carfuel.Vous serez amen&eacute; &agrave;r&eacute;diger les besoins du m&eacute;tier et fera le &laquo; relai &raquo; avec les &eacute;quipes Carfuel &amp; son responsable Data Scientist afin de d&eacute;velopper des &laquo; outils &raquo; d'analyses et de pilotage de la Business Unit Carfuel (produits : Carburant, Fioul, Gaz)Exploiter et adapter les logiciels mis &agrave; disposition par le groupe Carrefour ou les cr&eacute;erVotre profilVous avez un niveau BAC +4 (Master 1 / Ann&eacute;e de c&eacute;sure), BAC +5 (Master 2) en &eacute;cole ENSIIE ou en Informatique/Programmation/Gestion des donn&eacute;es en universit&eacute; ou Ecole d&rsquo;ing&eacute;nieur.Vous avez une ma&icirc;trise avanc&eacute;e du Pack Office et notamment Excel et PowerPoint, Python et SQL obligatoire.Vous avez des notions sur les concepts de mod&eacute;lisation et structuration des donn&eacute;es.Vous avez une premi&egrave;re exp&eacute;rience en data-visualisation (Tableau, DataStudio ou similaire) et une premi&egrave;re exp&eacute;rience en datamining / &eacute;tude statistiques.Vous avez id&eacute;alement d&eacute;j&agrave; utilis&eacute; l&rsquo;une des plateformes suivantes : Azure, GCP, AWS.Vous avez une ou plusieurs exp&eacute;riences de stage similaire en service informatique ou au sein d&rsquo;une &eacute;quipe op&eacute;rationnel (m&eacute;tier).Vous avez une apacit&eacute; &agrave; comprendre des enjeux et probl&eacute;matiques business et &agrave; en d&eacute;duire des outils de travail appropri&eacute;s, un excellent relationnel et des capacit&eacute;s de synth&egrave;se.Informations compl&eacute;mentaires Lieu : Evry (91).Envie de tenter l'aventure ?Envoyez-nous votre lettre de motivation et votre CV en pr&eacute;cisant la date de d&eacute;but de stage souhait&eacute;e. ",2022-03-01T17:44:27.000Z,2022-03-01T17:44:27.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 12 Mois,False,1,False,,,54 - Meurthe et Moselle,,,,Carrefour, ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0016551,"[{'nom': 'INZEJOB', 'url': 'https://emploi.inzejob.com/offre-emploi?j=8269563', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/inzejob80.png'}]","[{'libelle': 'Aucun permis', 'exigence': 'S'}]",,,,,,,,,,,,,,,,,,,,,
+4,9975836,Docteur en Data Science H/F (IT),"Docteur en Data Science H/F
+Lieu: Strasbourg
+Fonction: Etude et Developpement
+Type de contrat : CDI
+Posté le: 25/02/2022
+« We exist to pioneer smart industries and drive a sustainable tomorrow""
+Acteur mondial du conseil en ingénierie et services numériques dans les smart industries, MODIS inscrit son projet d'entreprise dans une perspective de croissance durable et rentable.
+L'ADN de MODIS est à la fois technologique et RH
+ 
+Fort de son expertise dans cinq domaines technologiques, MODIS déploie cette année en France et dans le monde, deux nouvelles lignes de service qui viennent s'ajouter à MODIS Tech Consulting:
+MODIS Tech Academy, incubateur de compétences
+Modis Tech Talent Services, offre d'intérim et de recrutement dans les domaines de l'IT et de l'ingénierie
+ 
+MODIS propose désormais une offre unique à 360° reposant sur le consulting, la formation, le recrutement et le travail temporaire.
+ 
+Intrinsèquement passionnés par le talent, nous sommes fiers de promouvoir notre culture managériale auprès de nos 30000 collaborateurs dans le monde ainsi que nos engagements RSE.
+Notre volonté est de créer une relation managériale novatrice en intégrant notamment les nouvelles façons de vivre le travail.
+ 
+Chez Modis, nous sommes également convaincus de la richesse qu'apportent l'inclusion et la diversité dans nos équipes. C'est pourquoi nous prenons des engagements forts sur les thématiques liées à l'égalité de genre, au handicap, aux personnes LGBT+ et à la mixité sociale.
+Il est indispensable de permettre au quotidien à chaque collaboratrice et à chaque collaborateur d'être soi-même au travail et acteur de sa vie.
+MISSION
+C'est pourquoi, dans le cadre du développement de nos activités et la mise en place de projets à fortes valeurs ajoutés, nous recrutons un Docteur en Data Science H/F à Strasbourg. Dans ce cadre-là, vous serez amené(e) à mettre à profit vos compétences en Data mining, en Intelligence Artificielle ainsi qu'en Machine learning, sur un projet au sein de notre Direction de l'innovation.
+Consultant passionné par le domaine de la Data Science, vous interviendrez sur des projets d'innovation majeurs liés à la l'IA, au machine learning et et serez amené à participer aux différentes phases des projets de recherche interne.
+Vos principales missions seront :
+La conception et le développement de solutions innovantes dédiée au Machine learning, à l'IA
+La veille technologique relative aux domaines de pointes en IT,
+Approfondir nos travaux de recherche appliquée dans le développement de logiciels en Data Science, Machien learning,
+Etudes techniques, design et architecture de l'information.
+PROFIL RECHERCHE
+De formation doctorant en informatique (thèse, de préférence, sur l'Intelligence Artificielle, ou Machine Learning), vous êtes à la recherche de votre premier contrat CDI et vous souhaitez développer vos compétences dans l'IA.
+Vous avez une forte appétence pour les projets innovants (Intelligence artificielle, Big Data, MACHINE LEARNING...)
+Vous avez des connaissances d'un ou plusieurs des langages de programmation suivants : Python, R, SQL, base de données relationnelles, C#, PHP, GO, gestion de micro services.
+Une bonne maitrise de l'anglais à l'oral et à l'écrit sera demandée.
+Vous êtes reconnu pour fédérer une équipe, bon communicant et bon pédagogue. Vous aimez travailler en équipe tout en sachant être organisé et autonome dans votre travail.
+Le poste est à pouvoir immédiatement.
+Nous sommes convaincus que de l'intelligence collective naît le succès. Il n'existe pas qu'un modèle, chez Modis nous valorisons l'agilité et l'excellence, l'audace et la créativité.
+Et si nous parlions ensemble de vos ambitions pour les prochaines années ?
+ 
+ Modis est une entreprise handi-engagée et inclusive. Tous nos postes sont ouverts aux handicaps et à la diversité. Tous différents, tous compétents ! 
+A bientôt pour vivre l'aventure MODIS !
+ 
+ 
+Pour découvrir l'ensemble des challenges que nous vous proposons et notre culture, rendez-vous sur notre site et les réseaux sociaux ",2022-02-28T21:52:42.000Z,2022-02-28T21:52:42.000Z,M1403,Études et prospectives socio-économiques,Analyste en intelligence économique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,,,67 - STRASBOURG,48.579831,7.761454,67482,, ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9975836,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/af1286bad06c3faaa60f336b34836df0', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,9,Cadre,,,,,,,,,,,,,,,,,,,
+5,128QFGP,Data Security Helper   (H/F),"Nous recrutons un formateur/une formatrice numérique pour intervenir sur une formation de Data Security Helper à Strasbourg.
+ 
+Vous Formez les stagiaires sur les différents modules permettant le passage de la certification  Conception et mise en œuvre des tests d'intrusion
+
+La formation se découpe en plusieurs modules : 
+(Conscients qu'il est difficile de tout maîtriser, il est possible d'être recruté pour une partie des modules)
+
+Module 1 : Concevoir les enjeux et les codes du système d'information d'une entreprise
+Module 2 : Concevoir les normes d'hygiènes informatiques pour les utilisateurs
+Module 3 : Organiser les systèmes d'information
+Module 4 : Protéger l'information et l'innovation de la structure
+Module 5 : Administrer un système d'information sécurisé pour sa structure
+Module 6 : Externaliser la gestion d'un système d'information
+Module 7 : Sécuriser des outils de communication ou des sytèmes d'information existants 
+Module 8 : Introduction au hacking ethique 
+Module 9 : Techniques de hacking",2022-02-23T14:33:19.000Z,2022-02-25T11:14:13.000Z,M1805,Études et développement informatique,Analyste fonctionnel / fonctionnelle informatique,CDD,Contrat à durée déterminée - 8 Mois,Contrat travail,E,2 ans,False,1,False,85,Formation continue d'adultes,67 - STRASBOURG,48.579831,7.761454,67482,ID FORMATION,"ID Formation est une Société Coopérative Ouvrière de Production dont le siège se situe à Lille avec une implantation dans 7 régions de l'hexagone (plus de 122 agences).
+
+Depuis 25 ans, nous œuvrons pour la formation et l'insertion de tous les publics tout au long de leur carrière. Nous accompagnons les salariés et les demandeurs d'emploi dans leur parcours professionnel et formons des apprentis au sein de notre CFA. Notre expertise est reconnue dans les domaines du conseil, de l'orientation.",False,Annuel de 27000 Euros à 36000 Euros sur 12 mois,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128QFGP,,,8,Agent de maîtrise,"[{'code': '109846', 'libelle': 'Concevoir et développer les programmes et applications informatiques', 'exigence': 'S'}, {'code': '117309', 'libelle': 'Établir un cahier des charges', 'exigence': 'S'}, {'code': '118637', 'libelle': 'Analyser les besoins du client', 'exigence': 'S'}, {'code': '121055', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '124517', 'libelle': 'Rédiger une Spécification Technique de Besoin (STB)', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,"[{'libelle': ""Capacité d'adaptation"", 'description': ""Capacité à s'adapter à des situations variées et à s'ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l'entreprise. Exemple : être souple, agile, s'adapter à une situation imprévue""}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}, {'libelle': 'Sens de la communication', 'description': ""Capacité à transmettre clairement des informations, à échanger, à écouter activement, à réceptionner des informations et messages et à faire preuve d'ouverture d'esprit. Exemple : être à l'écoute, être attentif aux autres""}]",False,67000,https://id-formation.com/recrutement/,ID FORMATION - M. Vincent Boganda Mackpayen,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128QFGP","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128QFGP",,,,,,,,,
+6,9683143,Technicien Maintenance Infrastructure Data Center H/F,"Dans le cadre de notre croissance et de la prochaine mise en service de notre futur Data Center alimenté exclusivement en énergies renouvelables issues de la valorisation de biodéchets agricoles (une première mondiale !), vous venez renforcer notre équipe dédiée à l'exploitation et à la maintenance des infrastructures de nos différents Data Centers en France. Au quotidien, vous garantissez le bon fonctionnement d'installations sensibles fonctionnant 24h/24.
+ Avec nos prestataires de maintenance des infrastructures, vos missions sont de :- Participer à la supervision, aux contrôles et aux paramétrages des installations techniques du Datacenter.- Réaliser les tests périodiques de résilience / redondance des équipements techniques (Groupes électrogènes, Groupes froid .).- Suivre les actions de maintenances correctives et préventives.- Répondre aux situations d'urgence (pannes d'équipements, lutte incendie et évacuation).
+ En lien avec les équipes Delivery, vous êtes amené(e) à participer aux déploiements des projets internes et clients :- Installer les équipements dans les baies informatiques.- Réaliser le câblage courant fort, courant faible (Cuivre et optique).- Etiqueter, inventorier les composants et renseigner le référentiel.- Contrôler, valider les installations.- Accompagner les clients sur leurs installations ou sur les visites des Datacenters.
+ Au niveau Datacenter, vous assurez un rôle de contrôle et de conseil, vous traitez les dysfonctionnements :- Occupation des salles / Urbanisation des baies.- Conformité électrique / câblage.- Vérification des états matériels (Voyants, températures .).- Gestion des accès / Intrusion.- Propreté de l'environnement.- Gestion du stock des consommables.- Elaboration / Amélioration des procédures et des documentations techniques.
+ Votre activité se décompose entre des interventions sur site dans le cadre de l'exploitation habituelle de nos Data Centers (réalisation de modifications, ajout de matériel, opérations de maintenances programmées et préventives, accompagnement de clients souhaitant accéder à leurs équipements.) et des interventions dans le cadre de pannes et de dysfonctionnements détectées, notamment via nos outils de monitoring et de supervision.Après diagnostic, vous assurez directement les interventions de premier niveau et escaladait vers nos prestataires de maintenance lorsqu'une compétence spécifique est requise.Ce poste implique des déplacements sur la région de Nancy, et ponctuellement en France (1 journée, 2 à 3 fois par mois maximum).
+ Votre profil :
+ Technicien(ne) de maintenance industrielle avec une formation en Electrotechnique ou Electromécanique, vous justifiez idéalement d'une expérience réussie en environnement technique datacenter (Electricité, Climatisation, GTB et câblages) ou vous avez l'habitude d'intervenir sur des équipements variés, ce qui nous permettra de vous accompagner plus facilement dans votre montée en compétences sur les spécificités de nos infrastructures et de notre métier (hébergeur, opérateur télécoms, informatique d'entreprise et développement applicatif).Au-delà de vos compétences techniques, vous êtes une personne curieuse, autonome et capable d'interagir avec des interlocuteurs issus de différents horizons (prestataires, client internes et externes.).Que vous disposiez déjà d'une expérience de la maintenance et de l'exploitation de Data Centers ou pas, nous vous proposerons le parcours adapté à votre réussite et votre évolution chez Adista.
+ Devenez une Adistar ! Et rejoignez la meilleure entreprise du secteur ESN, services informatiques et software.
+ Type d'emploi : Temps plein, CDI
+ Avantages :
+ * Titre-restaurant
+ Horaires :
+ * Travail en journée
+ Rémunération supplémentaire :
+ * Primes
+ ",2022-02-23T08:02:24.000Z,2022-02-23T08:02:24.000Z,I1304,Installation et maintenance d'équipements industriels et d'exploitation,Technicien(ne) de maintenance d'équipements d'exploitation,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,,,54 - NANCY,48.68793,6.171514,54395,, ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9683143,"[{'nom': 'INDEED', 'url': 'https://jobs.adista.fr/decouvrez-les-offres-emploi-adista/technicien-maintenance-infrastructure-data-center-h-f/?from=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/indeed80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+7,9622292,Ingénieur Data Scientist F/H - Informatique de gestion (H/F),"Descriptif du poste:
+
+Nous recherchons un ingénieur à dominante informatique industrielle pour intervenir sur une mission d'ingénieur data scientist dans le domaine des ADAS pour le secteur du transport.
+Il s'agira d'apporter vos connaissances dans le domaine du développement d'algorithmes qui devront recalibrer des données venant de capteurs embarqués sur un véhicule autonome. Données qui seront ensuite fusionnées et transmises aux équipes R&D. 
+Pour cela vous serez amené à :
+Intervenir sur la configuration des capteurs véhicule
+Analyser les données
+Participer à l'architecture de mesure
+Développer les algorithmes de traitement de données
+Analyser les erreurs capteurs et mener des investigations
+Test & Validation de la solution
+
+Profil recherché:
+
+Ingénieur génie logiciel et système embarqué avec minimum 2 ans d'expérience dans le domaine du développement logiciel applicatif / embarqué.
+Premières expériences dans le domaine du traitement de données est un plus.
+Les indispensables :
+Maitrise du C++
+Maitrise algorithmique et mathématique ",2022-02-22T13:13:26.000Z,2022-03-01T05:58:54.000Z,M1805,Études et développement informatique,Ingénieur informaticien / Ingénieure informaticienne,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),False,1,False,71,"Ingénierie, études techniques",68 - MULHOUSE,47.751678,7.326517,68224,ONESIDE TECHNOLOGIES,"\nOneSide Technologies est une société de conseil qui fait partie du Groupe OneSide, qui compte aujourd'hui plus de 200 collaborateurs travaillant dans le monde industriel (AUTOMOBILE, DEFENSE, MEDICAL, ENERGIE, CONSTRUCTION). \n \nNous intervenons fortement sur les domaines liés à la mobilité tels que les véhicules militaires, les véhicules autonomes ou les nouvelles motorisations hybrides/électriques ainsi que dans le secteur médical pour accompagner nos clients dans le dévelop... ",False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9622292,"[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167475130W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,9,Cadre,,,,,,,,,,,40 - 45 k€ brut annuel,,,,,,,,
+8,128HRCN,Technicien Data H/F,"Enjeux : 
+ 
+Au sein du domaine Commercial Data Management de la Direction Data Management nous recherchons notre futur(e) Technicien(ne) Data. 
+Le/la titulaire du poste configure l'offre Produit et Services dans les bases de données pour garantir la mise à jour des catalogues électroniques de l'outil de conception graphique magasin (Insitu) pour une ligne de produits/marque.
+Ainsi, il/elle assure le lien entre le réseau de magasins en garantissant la simplicité d'utilisation et en gérant les données commerciales et techniques de la conception produit aux données marketing.
+ 
+Missions : 
+- Etudier, réaliser et maintenir les données d'une offre commerciale dans les outils de conception graphique magasins du SI Groupe (Insitu)
+- Garantir la maintenance des Tarifs informatiques diffusés aux utilisateurs des logiciels de conception graphique magasins (Insitu, 3CAD) conformément aux cahiers des charges Produits et Outils,
+- Définir, suivre la réalisation et le développement d'outils complémentaires de conception graphique puis les tester et valider en lien avec le Service Informatique,
+- Assurer le déploiement et les supports de formation auprès du réseau avec les services référents,
+- Assurer le support et la maintenance de ses catalogues informatiques en lien avec le Service Support Magasins,
+- Participer et animer des chantiers de progrès permanent et d'amélioration continue sur son périmètre.
+
+Ce que nous attendons : 
+ 
+- Formation Bac +2,
+- Maitrise de l'anglais, une seconde langue étrangère est un plus (allemand et/ou espagnol).
+
+Compétences métiers/techniques attendues :           
+- Connaissances des outils bureautiques, manipulation de données et de formules complexes (Excel),
+- Notions de script et programmation ainsi que le traitement de l'image et d'outils de conception 3D (Sketchup, Blender, Rhino ) est un plus,
+- Connaissances des outils du progrès permanent.
+
+Compétences comportementales/savoir-être attendues :            
+- Bon relationnel, travail en équipe, autonomie,
+- Méthodique et ordonné(e) dans son organisation du travail,
+- Capacité d'adaptation aux évolutions logicielles.
+
+",2022-02-17T16:01:15.000Z,2022-03-01T11:19:14.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,31,Fabrication de meubles de cuisine,68 - LIEPVRE,48.271078,7.288529,68185,SCHMIDT GROUPE,,False,"Annuel de 27000,00 Euros à 34000,00 Euros sur 13 mois",1,https://candidat.pole-emploi.fr/offres/recherche/detail/128HRCN,,,6,Employé qualifié,,35H Horaires normaux,Temps plein,,False,68660,,,https://taleez.com/apply/technicien-data-h-f-liepvre-schmidt-groupe-cdi/applying,,,https://taleez.com/apply/technicien-data-h-f-liepvre-schmidt-groupe-cdi/applying,,,,,,,
+9,9234692,Software Engineer Data H/F Nancy,"Capgemini Nancy recherche un consultant Software Engineer Data pour rejoindre ses équipes, et contribuer au développement des solutions dans le cadre des transformations numériques de ses clients.
+Être Consultant en Data, c'est être spécialisé dans la mise en œuvre d'applications d'analyse et de gestion des données, en accompagnant, conseillant et en proposant une vision à long terme à nos clients. C'est également participer et faire grandir la communauté Insight & Data de Nancy.
+Être Consultant Data chez Capgemini Nancy, c'est :
+- Concevoir et mettre en place des solutions BI à l'aide des outils Microsoft.
+- Extraire et transformer des données (Data Warehouse).
+- Restituer et exploiter des données sous formes d'indicateurs.
+- Développer un bon sens de l'écoute et relation client : animer des ateliers et formaliser le recueil des besoins clients.
+- Innover avec nos clients sur des projets d'envergure au niveau national.
+- Approfondir et développer ses compétences sur les architectures Cloud dans Microsoft Azure.
+Intégrer une équipe Data chez Capgemini, c'est collaborer avec des profils variés et riches en expérience, mais aussi participer à des WebCasts, valider ses compétences en se certifiant, ou encore jouer avec des cubes !
+Ce qui caractérise nos équipes ? l'ouverture d'esprit et l'ambiance amicale et détendue.
+Qui êtes-vous ?
+- Diplômé d'une école d'ingénieur, vous justifiez d'une première expérience d'au moins 2 ans dans le monde de la Data.
+- Bonnes connaissances en manipulation de données, idéalement sur des technologies Microsoft.
+- Vous êtes à l'aise en anglais pour participer à une réunion en full english !
+Et après ? Vous évoluerez en développant une expertise Microsoft (SQL Server, Power BI, Azure Data Factory.). Si la relation client et pilotage des projets vous intéresse, vous pourriez devenir chef de projet sur des sujets Data, ou encore vous orienter vers des filières fonctionnelles pour exercer le rôle de Business Analyst.
+Qui?: Capgemini Nancy, 70 collaborateurs qui partagent les mêmes valeurs que sont le respect, le plaisir de travailler ensemble, l'honnêteté et surtout la liberté d'innover. Dans notre centre d'expertise Microsoft, nous assurons la conduite de projets d'envergure allant de la conception à l'intégration, et la mise en œuvre de solutions technologiques innovantes.
+CAPGEMINI, entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise. ",2022-02-14T21:15:34.000Z,2022-02-14T21:15:34.000Z,M1805,Études et développement informatique,Développeur / Développeuse informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,,,54 - NANCY,48.68793,6.171514,54395,, ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9234692,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/45fa8b0502d256a8bf85d26c2f74cf68', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,9,Cadre,,,,,,,,,,,,,,,,,,,
+10,9075368,Master data administrator H/F,"Intégré au service informatique et sous la direction du Responsable, vous collaborez dans une équipe composée de 4 personnes évoluant dans un environnement Agile. Vous intégrez l'équipe en renfort car elle mène actuellement l'implémentation de SAP dans les filiales étrangères.
+Vos principales missions sont de garantir la qualité et la disponibilité des données par des tâches de maintenance, d'organisation et de nettoyage. Dans ce cadre, vous travaillez en étroite collaboration avec les équipes métiers. Vous participez activement à l'évolution de la base de données, aux solutions techniques et à l'évolution des processus. Vous créez les instructions de travail et manuels liés au processus de gestion de la Data.
+Pour ce poste, nous recherchons un profil issu d'une formation Bac +3 minimum dans le domaine de l'informatique, avec une spécialisation informatique décisionnelle et/ou statistique. Vous maîtrisez l'outil Excel et le langage VBA. La connaissance de SAP est un plus. Vous aimez le travail d'équipe et vous êtes doté d'une bonne aisance relationnelle. Vous faites preuve d'organisation pour prendre des sujets et des responsabilités. Votre curiosité et votre dynamisme vous permettront d'être flexible et de vous adapter rapidement. Vous avez un esprit d'analyse et de synthèse. 
+
+Ce poste vous propose une rémunération attractive avec plusieurs primes (performances et intéressement représentant plus de 10% du salaire annuel) et 2 jours de télétravail après votre période d'intégration. 
+
+Il s'agit d'un poste attractif dans la data dans une entreprise en pleine croissance ! L'ensemble de nos échanges seront confidentiels.
+
+Je suis consultant en recrutement spécialisé dans le Software Development pour Hays Technology, travaillant dans la région Grand-Est, aidant les professionnels de la tech à développer leurs carrière et veillant à ce que les entreprises soient soutenues par les meilleurs talents. Ma passion pour ce domaine découle de mes expériences passées lors de plusieurs partenariats avec des écoles d'ingénierie en informatique. ",2022-02-10T12:11:58.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),False,1,False,45,Commerce de détail d'équipements automobiles,68 - MULHOUSE,7.3257,47.749165,68224,Hays France,"Notre client est un acteur majeur du secteur de la distribution, spécialisé dans l'équipement du pilote et pièces détachées. En perpétuelle évolution, il est présent dans plusieurs pays. Il est actuellement en pleine transformation numérique notamment de l'ERP historique, vers du Cloud. ",False,"Annuel de 26000,00 Euros ï¿½ 30000,00 Euros",2,https://candidat.pole-emploi.fr/offres/recherche/detail/9075368,"[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=bWFnaW5vdHQuNTQyMDUuNjcwNkBoYXlzZnJhbmNlLmFwbGl0cmFrLmNvbQ', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,,,,,,,+ Primes,,,,,,,,
+11,8898407,Data analyst - Drivecase (H/F),"Drivequoi ? 
+Drivecase est le spécialiste des objets de prévention et de mobilité en B2B. 
+Dynamique, novatrice et digitale, depuis plus de 7 ans Drivecase accompagne, conseille, personnalise ses offres pour ses clients B2B. Nous mettons au cœur de notre activité : le digital, l'expérience utilisateur et l'accompagnement de nos clients dans leurs actions de prévention (oui on est comme ça ). Que tu sois branché Café ou Chicorée, Squid Game ou Julie Lescaut : rejoint la team Drivecase  !!!
+Description du poste et des missions 
+Envie de côtoyer au quotidien des équipes passionnées, dynamiques et créatives ? En lien avec les cofondateurs, les responsables marketing et ADV, tes principales projets seront :
+Organiser, maintenir et faire évoluer les connecteurs (flux) de données entre nos différents outils (CRM, outils de marketing et support) + monitoring de l'ensembleDévelopper les outils internes existants afin d'automatiser et de rendre notre prospection plus efficace et également pour booster l'efficience des équipes, notamment marketing et sales.Assurer la priorisation des projets techniques qui génèrent de l'acquisition (expérience client user friendly) et de l'activation (Funnel de vente, nouveau CMS, SEO technique.)Accompagner les équipes dans dans la gestion de leurs reportings métiers (reporting analytique)Former au fonctionnement des flux que tu as mis en place aux équipes concernéesParticiper aux stratégies d'acquisition, marketing et orienter les décisions techniquesCréer et maintenir une cartographie des données de chaque solutionTu seras en lien avec nos différentes agences de développement externe
+Environnement Google, Prestashop, Zoho, Zapier, Typeform et autres solutions customs.Organisé, proactif, autonome, tu possèdes une curiosité naturelle, une aisance relationnelle et tu veux évoluer au sein d'une entreprise en pleine expansion, à dimension humaineTu as un raisonnement cartésien : tu adores Google Sheet et le no code tel un Growth EngineerTu sais gérer 3 à 5 projets en simultanéTu as une expérience de 2/3 ans dans un rôle similaireTu es passionné(e) par les nouveaux outils digitaux
+Démarrage ASAP par un CDD de 3 mois sur Strasbourg Avenue des Vosges.Remote : 1 jour / semaine.
+Avantages : 
+Rémunération selon profil / expérience 25 / 35 k € + carte Swile + transport + excellente mutuelle prise en charge 100 %
+Poste et missions évolutives !
+Déroulement de candidature :
+Envoi ton CV, ton test de personnalité (type 16personalities.com) et décrit ta motivation en 3 phrases sans copié-collé impersonnelEntretien téléphoniqueEtude de cas / test technique avec présentationEntretien avec les cofondateurs et les membres de ta future équipe
+Tous nos métiers sont ouverts aux personnes en situation de handicap. ",2022-02-05T07:48:35.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDD,Contrat à durée déterminée - 3 Mois,Contrat travail,E,Expérience exigée de 2 An(s),False,1,False,,,67 - STRASBOURG,48.579831,7.761454,67482,Drivecase,"Entreprise, dynamique et branchée digitale, Drivecase propose des objets de prévention et de mobilité aux professionnelles (B2B). ",False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8898407,"[{'nom': 'WE_RECRUIT', 'url': 'https://careers.werecruit.io/fr/drivecase/offres/chef-de-projet-no-code-7d7440/PoleEmploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/we_recruit80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+12,127JJPN,Data analyst (H/F),"Vos missions :
+
+Préparation d'un plan de travail de correction des données
+Recueillir toutes les données statiques pour L'ERP de l'entreprise
+Saisir, mettre à jour, vérifier la cohérence, contrôler la qualité des données
+Catégoriser les données afin de les exploiter au mieux
+Créer et mettre à jour des manuels de gestion de données
+Participer à la création d'un système d'analyse de la qualité des données
+Analyser des données simples existantes et rechercher des écarts de données
+Modéliser et assurer les mises à jour régulières de la base de données
+Se déplacer physiquement pour voir les utilisateurs (relation de confiance et meilleures compréhensions des containtes)
+Accompagner les utilisateurs sur l'utilisation des données de l'ERP
+
+Votre profil :
+
+Connaissance des techniques et outils analytiques (statistiques et de dataming)
+Connaissance des langages de requêtes de type SQL
+Connaissance des systèmes d'information et de données : ERP (comprendre la cartographie donnée d'un système)
+Maitrise des outils bureautiques, notamment analytiques (excel, macro )
+Connaissance des processus de production et de supply chain et du rôle des données dans ces processus
+Être capable d'obtenir les informations nécessaires auprès des différents services internes et contacts externes
+Savoir présenter les résultats de données
+Savoir gérer des projets à court terme
+Connaissance des outils de gestion de flux d'entreprise (visio /draw-io)
+Anglais niveau B1 (technique)
+Connaissance des techniques de planification
+Connaissance de langages de programmation/analyse
+Connaissance en gestion du changement
+Capacité à former les salariés au rôle des données dans l'entreprise et faire comprendre leur importance
+Savoir traduire des informations de processus en données
+
+Vos avantages :
+
+Rémunération fixe : à négocier selon le profil
+Prime sur objectif si applicable
+Accord de participation aux bénéfices
+Comité d'entreprise - achats à prix réduit
+Participation à la complémentaire santé
+Prime de présence
+Participation au transport
+Chargement gratuit à des bornes pour vélo électrique, moto électrique et voiture électrique
+Convention de la métallurgie (prime d'ancienneté, jours d'ancienneté)
+Une prévoyance dès 1 an d'ancienneté prise en charge à 100%
+Epargne salariale
+Aide à la mobilité (action logement)
+Du lundi au vendredi, repos le weekend
+Processus d'intégration
+Formation continue
+Formation interne et externe
+Accompagnement vers la polyvalence
+Interaction avec de nombreux services
+Promotion interne
+Possibilité d'évolution (junior, confirmé, sénior, adjointe / adjoint responsable, responsable, direction)",2022-02-01T11:52:04.000Z,2022-02-26T16:08:41.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,1 an,False,1,False,28,Fabrication d'autres articles de robinetterie,10 - NOGENT SUR SEINE,48.492757,3.502314,10268,POK,"POK® est l'un des leaders européens dans la fabrication de matériels de lutte contre l'incendie. Rejoignez-nous pour accompagner notre croissance, relever de grands défis et découvrir une structure internationale. Nous sommes engagés et nous soutenons l'égalité. Nous respectons les différences et nous sommes en faveur de la diversité. Toutes les mesures d'hygiène et de sécurité préconisées par le gouvernement sont mises en place et évaluées régulièrement.",False,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127JJPN,,,5,Employé non qualifié,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,"[{'libelle': 'Réactivité', 'description': ""Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance. Exemple : faire preuve de dynamisme, vivacité, énergie, comprendre vite""}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",False,10400,https://www.pok.fr/fr/offres/,POK - Mme Alexandra GRANDPIERRE,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127JJPN","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127JJPN",Selon expérience,,"[{'libelle': 'Anglais', 'exigence': 'S'}]",https://entreprise.pole-emploi.fr/static/img/logos/mh4XTL9gF5fXvGzjhcTIkCA1E8rTnEHu.png,Autre,,,,
+13,127FQFG,Développeur (se) DATA BI (H/F),"Envie d'un nouveau challenge qui stimule votre évolution de carrière pour cette nouvelle année 2022?
+
+Au sein de la DSI, vous participerez à la conception et l'animation des outils et solutions BI à destinations de la direction, du management intermédiaire et des opérationnels. Vous pourrez mettre en pratique vos acquis, développer de nouvelles compétences techniques et fonctionnelles.
+
+Vos missions sont les suivantes : 
+-	Comprendre les besoins des équipes métiers, participer à la conception technique des solutions, définir un découpage et estimer la charge nécessaire aux développements,
+-	Dialoguer avec les Product owner et/ou utilisateurs afin de cadrer leurs besoins, leur proposer des solutions et en sortir une spécification
+-	Analyser les spécifications d'un projet, étudier la disponibilité et le format des sources de données
+-	Industrialiser la récupération de données, modéliser le datawarehouse et développer les reports
+-	Développer et maintenir la structure et les performances du datawarehouse,
+-	Développer de nouveaux process ETL scalables et maintenir les process déjà en place pour assurer l'intégrité des données (flux de données ou interfaces),
+-	Maintenir en conditions opérationnelles les environnements BI en collaboration avec l'équipe Infrastructure,
+-	Maintenir et développer les rapports basés sur les indicateurs métiers dans les solutions BI,
+-	Mettre en place les tests associés ainsi que les cahiers de recette aux développements de rapports,
+-	Rédiger et maintenir la documentation technique,
+-	Évaluer des technologies et mettre en production pour résoudre les problématiques métiers.
+-	Dialoguer avec les équipes Développement dans le but de communiquer sur les modifications impactant la BI et être force de proposition en termes d'évolution des bonnes pratiques pour améliorer la gestion de la BI
+
+
+Titulaire d'un BAC+3 dans l'informatique, vous possédez des compétences techniques clés tel que SQL et gestion de BDD (SQL Server, postgre..), Talend, Outils de BI et de préférence Qlik View et Qlik sense. 
+
+De formation BAC+3 dans l'informatique, vous justifiez d'une expérience d'au moins 3 ans sur un poste similaire et avez déjà participé à l'ensemble des phases d'un projet BI.
+
+Votre appétence fonctionnelle, votre dynamisme et votre rigueur sont gages de réussite pour évoluer dans ce poste. Vous êtes autonome, rigoureux et avez le sens de la communication.
+
+Prêt à relever le défi ? Alors n'hésitez plus, venez en discuter !
+
+-	Salaire : à définir selon profil
+-	Secteur : Saint-Avold / Lyon / Strasbourg",2022-01-28T16:12:15.000Z,2022-03-02T10:56:33.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,False,1,False,13,"Fabrication d'articles textiles, sauf habillement",57 - ST AVOLD,49.124812,6.708506,57606,DODO,"Créé en 1937, notre groupe est aujourd'hui un acteur incontournable dans l'univers du sommeil et du cocooning et un des leaders européens de la production d'articles de literie. Nos missions : créer de la douceur au quotidien, perpétuer le confort à la française et produire du bien-être accessible nous tiennent particulièrement à c?ur.
+Dans le cadre de sa forte stratégie de développement,  le groupe DODO, leader européen des couettes et des oreillers,  renforce ses équipes.",False,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127FQFG,,,6,Employé qualifié,,35H Horaires normaux,Temps plein,"[{'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': 'Force de proposition', 'description': 'Capacité à être proactif, à initier, à imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou pour améliorer une situation. Exemple : proposer des améliorations, être positif et constructif'}, {'libelle': ""Sens de l'organisation"", 'description': 'Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité'}]",True,57500,https://www.dodo.fr/,DODO - Mme RH Service,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127FQFG","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127FQFG",A définir selon profil ,,,https://entreprise.pole-emploi.fr/static/img/logos/7uTeskXbK1E6XcliAFoCwiWiJrabDOdm.png,Autre,,,,
+14,8194307,BUSINESS DATA ANALYST (H/F),"Nous recrutons pour le compte de notre client, acteur incontournable dans le domaine de la comptabilité, du commissariat aux comptes et conseil aux dirigeants d'entreprise, un(e) Business Data Analyst basé(e) à Metz.Directement rattaché(e) aux Dirigeants, vous êtes responsable du développement et du bon fonctionnement des analyses de données pour la structure et les collaborateurs du cabinet.
+A ce titre, vos principales tâches sont les suivantes :
+- Exploitation de bases de données
+- Analyse de la qualité et de l'intégrité des données ;
+- Suivi des indicateurs, et mise en place d'actions correctives ;
+- Création et mise à jour des outils de production pour piloter les indicateurs de performance ;
+- Analyse des résultats produits ;
+- Gestion et suivi des enquêtes de satisfaction client ;
+- Contribution à des projets BI : Power BI, tableau...
+Vous intervenez en direct auprès de l'ensemble des collaborateurs dans la mise en place des actions correctives dans une démarche d'amélioration continue.
+En parallèle, vous participez à l'élaboration et au développement d'une offre de prestation d'analyse de données à l'usage interne et externe ainsi qu'à la gestion des projets liés au cabinet. ",2022-01-22T16:54:22.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 3 An(s),False,1,False,,,57 - METZ,49.108385,6.194897,57463,Randstad,"Randstad Search, Cabinet Conseil en Recrutement et Approche directe, intervient dans la recherche et l'évaluation des profils Middle et Top Management. Le cabinet est présent dans les principales métropoles françaises.
+Les consultants du Pôle Finance, RH, Juridique mettent à votre service leur expertise métier pour vous accompagner dans votre carrière.",False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8194307,"[{'nom': 'HANDICAP_JOB', 'url': 'https://www.handicap-job.com/recherche/detail/oid/4673708/business-data-analyst-fh.html', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/handicap_job80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+15,0051577,CHARGÉ DE L'ANIMATION DU SIG ET DE LA QUALITÉ (H/F),"Développer l'information géographique dans les services de la DDT, en animant un réseau de référents SIG via l'organisation de comités techniques internes.
+Développer l'acculturation et l'usage du SIG en concevant des supports de formation et d'information.
+Concevoir avec le responsable de cellule et l'administrateur de données, le plan de formation SIG.
+Déployer un processus participatif d'amélioration de l'organisation du SIG de la DDT.
+Concevoir des documents de cadrage des missions (documents types et guides de procédure sur les affaires traitées) et veiller au respect de l'arborescence réseau.
+Veiller à l'harmonisation des pratiques en déclinant la démarche qualité du service et en travaillant avec les chefs de cellule l'alimenter en nouveaux processus.
+Accompagner en qualité de référent méthode, la démarche LEAN engagée par les services de la DDT 51.
+Référent communication du service
+Management : Management fonctionnel des référents métiers SIG
+Relations internes : Poste placé sous l'autorité du responsable de la cellule Ressources et Valorisation.
+Relations externes : Contacts et travaux réguliers avec les autres responsables de cellules internes au service mais aussi externes dans le cadre du travail en « équipe-projet ».
+Responsabilités tenant au poste ou au positionnement : 
+- Référent « qualité » du STPP 
+- Référent communication du - Suivi de l'avancement des actions de formation, de communication dans le domaine du SIG ",2022-03-02T12:28:44.000Z,2022-03-02T12:28:44.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDD,Contrat à durée déterminée - 36 Mois,Contrat travail,E,Expérience exigée de 2 An(s),False,1,False,,,51 - Marne,,,,,Direction Départementale des Territoires de la Marne (DDT 51) ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0051577,"[{'nom': 'PEP', 'url': 'https://place-emploi-public.gouv.fr/offre-emploi/2022-830508', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/pep80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+16,9491761,Business Analyst (H/F),"Vos missionsDans le cadre de la création du pôle Controlling, nous ouvrons ce poste de Business Analyst ayant une dimension challengeante à l'échelle internationale de notre Groupe.Les missions suivantes vous attendent :
+ * Analyse et audit des procédures actuelles pour apporter des propositions d'amélioration et d'optimisation des coûts et bénéfices
+ * Mise en place d'un Business Plan à l'échelle Groupe et pilotage des KPI opérationnels
+ * Réalisation d'analyses de marché destinées à la prise de décisions.
+ Votre profilVous êtes idéalement issu(e) d'une formation supérieure dans le domaine du commerce ou de la finance.Vous justifiez d'une première expérience réussie sur un poste similaire ou dans le domaine de la comptabilité/contrôle de gestion, idéalement dans une entreprise industrielle ou immobilière d'envergure internationale et structurée en plusieurs services.Votre connaissance des outils modernes de planification, de gestion et de contrôle ainsi que des normes comptables internationales seront de vrais atouts pour être en réussite sur ce poste.Vous souhaitez relevez de nouveaux défis et la création d'un nouveau pôle vous challenge !Votre communication est claire et vous avez la capacité de présenter des problématiques complexes de manière structurée grâce à votre vision analytique.La maîtrise de l'anglais (lu, écrit et parlé) est indispensable.Qui sommes-nous ?Storage24 est une entreprise nancéienne d'envergure européenne spécialisée dans la conception de parcs d'activités et de stockage destinés aux professionnels et aux particuliers.Depuis l'ouverture de notre premier parc en 2015, nous avons pu contribuer à la croissance de centaines d'entrepreneurs et être le partenaire clé de nombreux particuliers. La qualité de nos concepts nous permet aujourd'hui de nous imposer comme acteur majeur sur le marché du stockage en Europe.Vous voulez continuer à écrire cette success-story avec nous ? Vous souhaitez que votre expertise nous permette d'atteindre de nouveaux sommets ? Rencontrons-nous !
+ Location: Rue de la Grande Ozeraille, 54280 Seichamps
+ Type d'emploi : Temps plein, CDI
+ Salaire : 40 000,00€ par an
+ ",2022-02-18T07:52:19.000Z,2022-02-23T07:54:21.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,False,1,False,,,54 - NANCY,48.68793,6.171514,54395,, ,False,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9491761,"[{'nom': 'INDEED', 'url': 'https://fr.indeed.com/job/business-analyst-hf-3b111af3dd35322c?from=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/indeed80.png'}]",,,,,,,,,,,,,,,,,,,,,,
+17,128RPVS,ANALYSTE DE PRIX (F/H/X) - TEMPS PLEIN   (H/F),"Vos missions :
+
+Mettre à jour dans la base de données les prix d'achat des composants en fonction des commandes et des factures
+Mettre à jour dans la base de données les prix de revient de chaque ensemble
+Créer des listes de prix de vente
+Participer aux divers projets de l'entreprise nécessitant une évaluation financière
+Effectuer la valorisation des stock
+Analyser et gérer des écarts de stock physique
+Participer aux opérations de clôture
+
+
+Votre profil :
+
+Expérience dans le milieu industriel
+Excellente maîtrise d'Excel
+Goût pour les chiffres
+Aptitude au calcul
+Rigueur
+Organisation
+Esprit d'équipe
+Bonne communication
+Bon esprit d'analyse et de synthèse
+Maitrise du français et de l'anglais (oral et écrit)
+Permis B
+
+
+Vos avantages :
+
+Rémunération fixe : à négocier selon le profil
+Prime sur objectif si applicable
+Accord de participation aux bénéfices
+Comité d'entreprise - achats à prix réduit
+Participation à la complémentaire santé
+Prime de présence
+Participation au transport
+Chargement gratuit à des bornes pour vélo électrique, moto électrique et voiture électrique
+Convention de la métallurgie (prime d'ancienneté, jours d'ancienneté)
+Une prévoyance dès 1 an d'ancienneté prise en charge à 100%
+Epargne salariale
+Aide à la mobilité (action logement)
+Du lundi au vendredi, repos le weekend
+Processus d'intégration
+Formation continue
+Formation interne et externe
+Accompagnement vers la polyvalence
+Interaction avec de nombreux services
+Promotion interne
+Possibilité d'évolution (junior, confirmé, sénior, adjointe / adjoint responsable, responsable, direction)
+
+
+Autre information :
+
+Département : Finance, achats, juridique et relations publiques
+Type de contrat : Contrat à durée indéterminée (CDI), Temps plein
+Durée du contrat : indéterminée
+Date de début : dès que possible
+Horaire : 8H00-12H00 et de 13H15-17H15 du lundi au jeudi et 8H00-12H00 et de 13H15-16H15 le vendredi (soit un total de 39H par semaine)
+Localisation du poste : Nogent-sur-Seine, Aube (10), Grand Est, France - proche Romilly-sur-Seine (10), Troyes (10), Sézanne (51), Montereau-Fault-Yonne (77), Nangis (77), Provins (77) et Sens (89), 54 min direct de Paris en train
+Déplacement : à Nogent-sur-Seine et ponctuellement chez clients, fournisseurs et partenaires
+Télétravail : non
+Poste ouvert aux personnes en situation de handicap",2022-02-24T12:13:57.000Z,2022-03-01T15:55:43.000Z,M1403,Études et prospectives socio-économiques,Analyste prix / pricing,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,28,Fabrication d'autres articles de robinetterie,10 - NOGENT SUR SEINE,48.492757,3.502314,10268,POK,"POK® est l'un des leaders européens dans la fabrication de matériels de lutte contre l'incendie. Rejoignez-nous pour accompagner notre croissance, relever de grands défis et découvrir une structure internationale. Nous sommes engagés et nous soutenons l'égalité. Nous respectons les différences et nous sommes en faveur de la diversité. Toutes les mesures d'hygiène et de sécurité préconisées par le gouvernement sont mises en place et évaluées régulièrement.",False,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128RPVS,,,6,Employé qualifié,"[{'code': '100113', 'libelle': 'Logiciels de gestion de base de données', 'exigence': 'S'}, {'code': '101312', 'libelle': 'Logiciels de statistiques', 'exigence': 'S'}, {'code': '101315', 'libelle': 'Analyse statistique', 'exigence': 'S'}, {'code': '102216', 'libelle': 'Gestion budgétaire', 'exigence': 'S'}, {'code': '102459', 'libelle': ""Méthodes d'enquête"", 'exigence': 'S'}, {'code': '109362', 'libelle': 'Analyse financière', 'exigence': 'S'}, {'code': '109531', 'libelle': 'Algorithmique', 'exigence': 'S'}, {'code': '109532', 'libelle': 'Méthodes de prospective', 'exigence': 'S'}, {'code': '115836', 'libelle': ""Logiciel de conception et analyse d'enquête"", 'exigence': 'S'}, {'code': '115921', 'libelle': 'Big data analytics', 'exigence': 'S'}, {'code': '118975', 'libelle': 'Outils bureautiques', 'exigence': 'S'}, {'code': '120246', 'libelle': 'Gestion de projet', 'exigence': 'S'}, {'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '117323', 'libelle': ""Coordonner le déroulement d'une étude"", 'exigence': 'S'}, {'code': '122178', 'libelle': 'Réaliser des études spécifiques', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}, {'code': '124133', 'libelle': 'Réaliser une étude quantitative', 'exigence': 'S'}, {'code': '125901', 'libelle': ""Mettre en place des outils d'aide à la décision"", 'exigence': 'S'}, {'code': '126225', 'libelle': 'Analyser des données massives - Big data', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,"[{'libelle': 'Force de proposition', 'description': 'Capacité à être proactif, à initier, à imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou pour améliorer une situation. Exemple : proposer des améliorations, être positif et constructif'}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': ""Sens de l'organisation"", 'description': 'Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité'}]",False,10400,https://www.pok.fr/fr/offres/,POK - Mme Alexandra GRANDPIERRE,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128RPVS","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128RPVS",A négocier,,"[{'libelle': 'Anglais', 'exigence': 'S'}]",https://entreprise.pole-emploi.fr/static/img/logos/mh4XTL9gF5fXvGzjhcTIkCA1E8rTnEHu.png,Autre,,,,
+18,127WWYF,Chef de Projet en Intelligence Artificielle (IA)  (H/F),"Domaine de la Société : Industrie manufacturière. 4iTEC4.0 est une SAS, créée par 5 industriels : PSA (aujourd'hui groupe STELLANTIS), SEB, Clemessy, Alstom, Papèterie ZB en avril 2017. 
+Sa vocation est de favoriser l'éclosion d'innovations. Elle ambitionne d'accélérer leur industrialisation et leur diffusion au sein des sites de production manufacturière mondiaux. 4iTEC4.0 aspire à devenir une vitrine technologique de l'industrie française en solutions innovantes et compétitives. 3 thématiques clés représentent les choix d'orientation de démarrage de l'activité (Contrôle unitaire 100% des pièces fabriquées, la robotique intelligente et flexible et la supervision de flux efficaces).
+
+Pour cela, elle recherche dans le cadre de ses développements en contrôle d'aspect en temps réel, un chef de projet spécialiste en Intelligence Artificielle avec des notions en vision et en acquisition d'images. L'innovation consiste à développer et implémenter des algorithmes IA dans nos systèmes de contrôle d'aspect, convenant pour de multiples cas d'usage.
+
+Description du poste :  		Chef de projet IA
+
+Candidat motivé, spécialisé dans les métiers du traitement des datas et de l'IA. Il connaît les enjeux et nouveaux concepts de l'usine du futur.
+
+MISSIONS : 
+-	Vous êtes en charge du développement de chaines de traitement d'images et de vision industrielle (ex. données caméras visible et IR ) ainsi que de solutions innovantes basées sur les techniques d'Intelligence Artificielle (e.g. Deep learning, Machine learning ). Ces chaines concernent à la fois les phases de pré-traitement (corrections géométriques ) et de traitement (segmentation, classification, détection de défauts, d'objets ) pour différents thèmes : qualité, automobiles, trains, électroménager grand public, supervision des flux, robotique etc.
+-	Vous êtes force de proposition pour élaborer des produits innovants répondants aux besoins de l'industrie du futur.
+-	Vous contribuez à la préparation des futurs projets et à la valorisation des projets actuels.
+-	Vous accompagnez la préparation des futurs projets de 4itec 4.0 en contribuant à la rédaction de réponses aux appels d'offres.
+-	Vous contribuez à la gestion des projets.
+PROFIL, FORMATION, EXPERIENCES
+-	De formation Docteur et/ou Ingénieur, vous avez un goût pour l'innovation, les nouvelles technologies et les transports terrestres.
+-	Expérience souhaitée 2-3 ans mais débutant accepté.
+-	Vous maîtrisez le traitement des datas, des images, les techniques d'Intelligence Artificielle appliquée aux images. Idéalement vous avez des notions de vision industrielle.
+-	Vous avez des compétences en informatique : Python, C/C++, Matlab 
+-	De nature curieuse, impliquée et rigoureuse, vous aimez particulièrement le travail en équipe.
+-	Mobile pour de courts déplacements en région, France voire à l'international.
+-	Rigoureux, efficace, méthodique, disponible et flexible avec de très bonnes capacités relationnelles 
+-	Fédérateur, avec une grande ouverture d'esprit, dynamique, leader. Il incarne une véritable image de l'ingénierie de l'Usine du futur.
+
+
+
+
+COMPETENCES REQUISES : 
+-	Capacité à animer des projets collaboratifs (consortium jusqu'à 10 organisations) dans le domaine des Innovations de nature : PME, TPE, Start Up, GE, Centre de recherche, Académique)
+-	Travailler en équipe dans un environnement multi-industriel et propice à l'Open Innovation
+-	Expériences en analyse des systèmes fonctionnels, dans les principaux domaines d'acquisition et de traitement de données (digital), dans le Machine Learning et le Deep Learning et autres techniques IA appliquées à la production manufacturière.
+-	Anglais niveau 750 TOIC mini
+
+POSTE  : 
+-	Cadre, contrat CDI, Localisé à Mulhouse sur le siège de 4itec  
+-	Il sera rattaché au Directeur Technique de 4itec
+-	Date : Immédiat
+
+Contact : robert.bernard@4itec.fr
+",2022-02-10T11:33:52.000Z,2022-02-21T09:35:21.000Z,H1206,"Management et ingénierie études, recherche et développement industriel",Chargé / Chargée d'études projets industriels,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,False,1,False,71,"Ingénierie, études techniques",68 - SAUSHEIM,47.783364,7.378135,68300,4ITEC MULHOUSE - 4ITEC 4.0,"PLATEFORME TECHNOLOGIQUE
+POUR L'INNOVATION DANS L'INDUSTRIE
+4itec 4.0, une Plateforme pour mutualiser des problématiques de production et les adresser à travers le montage de projets collaboratifs",False,"Annuel de 40000,00 Euros à 55000,00 Euros sur 12 mois",1,https://candidat.pole-emploi.fr/offres/recherche/detail/127WWYF,,,9,Cadre,"[{'code': '101315', 'libelle': 'Analyse statistique', 'exigence': 'S'}, {'code': '120246', 'libelle': 'Gestion de projet', 'exigence': 'S'}, {'code': '104376', 'libelle': 'Élaborer des solutions techniques et financières', 'exigence': 'S'}, {'code': '104510', 'libelle': 'Réaliser des tests et essais, analyser les résultats et déterminer les mises au point du produit, du procédé', 'exigence': 'S'}, {'code': '104517', 'libelle': 'Intervenir en études, ingénierie', 'exigence': 'S'}, {'code': '104518', 'libelle': 'Intervenir en développement', 'exigence': 'S'}, {'code': '113547', 'libelle': ""Définir la faisabilité et la rentabilité d'un projet"", 'exigence': 'S'}, {'code': '113748', 'libelle': 'Concevoir des modèles théoriques (calcul, simulation, modélisation)', 'exigence': 'S'}, {'code': '117146', 'libelle': 'Sélectionner des fournisseurs, sous-traitants, prestataires', 'exigence': 'S'}, {'code': '118500', 'libelle': 'Élaborer des propositions techniques', 'exigence': 'S'}, {'code': '119161', 'libelle': ""Identifier les contraintes d'un projet"", 'exigence': 'S'}, {'code': '120672', 'libelle': 'Réaliser des supports techniques', 'exigence': 'S'}, {'code': '122460', 'libelle': ""Suivre la réalisation d'une prestation technique"", 'exigence': 'S'}, {'code': '122927', 'libelle': 'Coordonner des partenariats de recherche et de développement', 'exigence': 'S'}, {'code': '124529', 'libelle': ""Déterminer des axes d'évolution technologiques"", 'exigence': 'S'}, {'code': '126003', 'libelle': 'Concevoir un dossier technique de définition du projet', 'exigence': 'S'}]",39H Horaires normaux,Temps plein,"[{'libelle': ""Capacité d'adaptation"", 'description': ""Capacité à s'adapter à des situations variées et à s'ajuster à des organisations, des collectifs de travail, des habitudes et des valeurs propres à l'entreprise. Exemple : être souple, agile, s'adapter à une situation imprévue""}, {'libelle': 'Persévérance', 'description': ""Capacité à maintenir son effort jusqu'à l'achèvement complet d'une tâche, quels que soient les imprévus et les obstacles de réalisation rencontrés. Exemple : faire preuve de volonté, d'assiduité, de régularité, rebondir après une erreur""}, {'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}]",False,68390,https://www.4itec.fr/,4ITEC MULHOUSE - 4ITEC 4.0 - M. LAURENT BOURDERIOUX,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127WWYF","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/127WWYF",,,,https://entreprise.pole-emploi.fr/static/img/logos/pCLLAaQd7p54OqVzHuALjCeVa6TEWAAl.png,Primes,"[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'commentaire': 'Docteur IA/Data Science/ML/DL', 'exigence': 'E'}]",2,Ponctuels National,Mutuelle
