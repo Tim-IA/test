@@ -1,0 +1,1384 @@
+,id,intitule,description,dateCreation,dateActualisation,romeCode,romeLibelle,appellationlibelle,typeContrat,typeContratLibelle,natureContrat,experienceExige,experienceLibelle,competences,dureeTravailLibelle,dureeTravailLibelleConverti,alternance,nombrePostes,accessibleTH,qualificationCode,qualificationLibelle,secteurActivite,secteurActiviteLibelle,qualitesProfessionnelles,offresManqueCandidats,lieuTravail.libelle,lieuTravail.latitude,lieuTravail.longitude,lieuTravail.codePostal,lieuTravail.commune,entreprise.nom,entreprise.entrepriseAdaptee,salaire.commentaire,salaire.complement1,origineOffre.origine,origineOffre.urlOrigine,entreprise.description,origineOffre.partenaires,salaire.libelle,formations,contact.nom,contact.coordonnees1,contact.commentaire,contact.urlPostulation,complementExercice,deplacementCode,deplacementLibelle,salaire.complement2,langues,permis,entreprise.logo,entreprise.url,contact.courriel
+0,128ZFTP,Délégué / Déléguée à la protection des données - Data Protection Officer,"La Fondation LENVAL recherche un(e) Délégué(e) à la protection des données - DPO.
+
+Les missions principales sont :
+
+- Mettre en place un processus continu d'Audit ""RGPD"" des traitements
+- Informer, sensibiliser et diffuser une culture dans le cadre général « Informatique et Libertés »
+- Mener ou piloter les actions visant à sensibiliser la direction, les agents, aux règles à respecter en matière de protection des données à caractère personnel
+- Faire respecter le cadre légal relatif aux données personnelles
+- Établir et maintenir une documentation relative aux traitements de données à caractère personnel notamment au moyen d'un registre des traitements
+- Recevoir et traiter les réclamations et plaintes des personnes concernées et veiller au strict respect des personnes.
+- Effectuer chaque année un rapport aux responsables de traitement.
+
+Savoir être professionnel :
+- Travail en équipe
+- Autonomie
+- Rigueur
+
+Cadre contractuel et financier :
+- CDI
+- Temps de travail : temps plein
+- Le salaire est composé d'un fixe brut annuel+ une prime dite ""décentralisée"" correspondant à 5% du salaire annuel brut (reversée au mois de décembre, sous certaines conditions de présence). A cela peut s'ajouter, l'ancienneté acquise dans d'autres entreprises peut être pour partie reprise et valorisée sous forme d'une prime mensuelle.
+
+Avantages périphériques :
+- Carte de parking possible
+- Proximité immédiate du Tramway
+- Remboursement 100% frais transport en commun
+- Mutuelle
+- Restauration d'entreprise
+- Comité d'entreprise avantageux
+
+Le poste est à pourvoir dès avril 2022. Statut cadre",2022-03-02T10:16:18.000Z,2022-03-02T11:24:05.000Z,K1903,Défense et conseil juridique,Délégué(e) à la protection des données - DPO,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,"[{'code': '115246', 'libelle': ""Veiller au respect de la loi Informatique et Libertés et du RGPD dans l'entreprise, gérer la liste des traitements de données à caractère personnel, faire l'interface avec la Commission Nationale de l'Informatique et des Libertés - CNIL"", 'exigence': 'S'}, {'code': '118732', 'libelle': 'Réaliser une veille documentaire (collecte, analyse etc.)', 'exigence': 'S'}, {'code': '118838', 'libelle': ""Accomplir des démarches auprès d'organismes publics ou privés pour le compte de clients"", 'exigence': 'S'}, {'code': '124532', 'libelle': ""Tenir informée sa structure des nouvelles techniques et réglementations liées à l'activité"", 'exigence': 'S'}, {'code': '140939', 'libelle': 'Mettre en place la documentation du Délégué à la protection des données - Data Protection Officer', 'exigence': 'S'}]",36H40 Horaires normaux,Temps plein,False,1,False,9,Cadre,86,Activités hospitalières,"[{'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",False,06 - NICE,43.712854,7.253866,06000,06088,FONDATION LENVAL NICE,False,12 mois + prime décentralisée ,Autre,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128ZFTP,,,,,,,,,,,,,,,,,
+1,0047043,"Data Analyst F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+La Direction Marketing, Relation Client & Assurances de la Caisse Régionale Alpes Provence recherche un/une Data Analyst au sein de son service DATA. Vos missions seront les suivantes :
+Assurer la qualité, le traitement et l'analyse des données de l'entreprise et de nos canaux digitaux dans le but d'en extraire de la valeur pour aider l'entreprise à prendre des décisions stratégiques ou opérationnelles.
+Contribuer à maintenir et développer un DataWarehouse fiable, agile et sécurisé.
+Contrôler la cohérence des données, chiffres, reporting et analyses générés.
+Contribuer à une meilleure compréhension des clients et de leurs attentes (desceller de nouvelles segmentation, créer des scores d'appétence.) en lien étroit avec les équipes Marketing.
+Créer des outils/processus d'aide à l'analyse et au pilotage d'activités et proposer des améliorations sur les outils/processus existants.
+Analyser les résultats de nos actions Marketing et produire des extractions et des rapports statistiques à destination de nos Conseillers, Managers et Direction.
+Participer, et à moyen terme, piloter différents projets Data au sein de la Caisse Régionale.
+
+Profil recherché:
+
+Diplômé d'un Bac + 5 en Informatique/Statistiques, vous possédez une expérience professionnelle de minimum 2 ans en tant que Data Analyst, idéalement dans le secteur de l'assurance ou de la banque.
+Très bonne maitrise du langage SQL (SAS, Python, R ainsi que la connaissance de l'écosystème Hadoop/Spark serait un plus)
+Vous êtes passionné(e) par les données, le digital et à l'écoute du monde open source en vue de l'utilisation de nouvelles technologies/algorithmes.
+Autonome, vous avez l'esprit d'équipe et faites preuve d'adaptabilité.
+Rigoureux(se), Enthousiaste, avec un sens développé du contact et du service client. ",2022-03-02T06:43:51.000Z,2022-03-02T06:43:51.000Z,M1805,Études et développement informatique,Analyste réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),,,,False,1,False,8,Agent de maîtrise,64,Autres intermédiations monétaires,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,CREDIT AGRICOLE ALPES PROVENCE,False,35 - 40 k€ brut annuel,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0047043,"\nDepuis plus de 100 ans au service des départements des Bouches-du-Rhône, des Hautes-Alpes et du Vaucluse, le Crédit Agricole Alpes Provence est aujourd'hui un acteur majeur au service du développement économique durable du territoire. Nos emplois et centres de décision sont sur le territoire, notre siège social est à Aix-en-Provence, pour agir en proximité et de manière autonome.\nNos résultats sont réinvestis sur le territoire et l'épargne de nos clients sert à financer les... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167757491W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,,,,,,,,,,,,,,
+2,9996729,"Ingénieur Etude et Développement Big Data F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Aujourd'hui, nous recrutons un Ingénieur Etude et Développement Java (H/F) afin d'intervenir dans un projet Big Data.
+Intégré(e) à l'équipe programmation, vous contribuerez à :
+* L'analyse des besoins utilisateurs
+* L'analyse du besoin et la conception fonctionnelle,
+* L'élaboration des spécifications techniques,
+* Le développement et les tests unitaires,
+* La mise en place d'environnement de développement Big Data,
+* L'évolution de l'architecture en fonction des problématiques techniques rencontrées.
+
+Profil recherché:
+
+De formation Bac+5 en informatique en école d'ingénieur ou cursus universitaire, vous justifiez d'une première expérience sur un poste de programmation Java en environnement Big Data comportant de grandes quantités de données  et vous avez une bonne connaissance de l'environnement Hadoop.
+Un attrait pour le développement multiplateforme et une expérience en Cloud Computing serait appréciée.
+Au-delà des compétences, nous recherchons une personne passionnée par le domaine, qui aime être au fait des dernières actualités dans son domaine et sait proposer des solutions innovantes. Votre rigueur et votre goût pour le travail en équipe, associés à la qualité des projets qui nous sont confiés, offrent de réelles opportunités d'évolution à votre carrière au sein d'AUSY.  ",2022-03-01T06:50:24.000Z,2022-03-01T06:50:24.000Z,M1805,Études et développement informatique,Ingénieur / Ingénieure d'étude et développement informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,62,Conseil en systèmes et logiciels informatiques,,,06 - VALBONNE,43.627341,7.016557,,06152,AUSY,False,33 - 45 k€ brut annuel,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9996729,"\nAUSY, groupe français fondé en 1989, est l'un des principaux leaders européens du Conseil et de l'ingénierie en Hautes technologies. Aujourd'hui, AUSY emploie plus de 6500 collaborateurs sur plus de cinquante sites, avec une forte présence en Europe et aux Etats-Unis.\nAUSY se positionne en tant que partenaire de référence dans le pilotage de projets d'envergure et accompagne de grandes entreprises à l'international. L'offre de services du Groupe est complète. Elle allie conseil e... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167527699W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,,,,,,,,,,,,,,
+3,0020001,Data Engineer (H/F),"RESPONSABILITÉS : 
+
+Descriptif du poste Mission 1 : Acheminement de la donnée  - Recueillir les besoins métiers des différentes unités demandeuses et utilisatrices de solutions de collecte et stockage de la donnée.
+ - Développer les solutions techniques de collecte de la donnée via des API.
+ - Développer des solutions techniques de stockage de la donnée (Hadoop).
+ - Réaliser les tests unitaires et d'intégration.
+ - Mettre en place et maintenir les batchs, c'est-à-dire les automatisations d'une série de traitements.
+Mission 2 : Mise à disposition des données aux équipes utilisatrices  - Industrialiser et automatiser le nettoyage de la donnée selon les spécifications retenues.
+ - Gérer, maintenir et documenter de multiples bases de données (via l'importation de données externes en open data ou de données internes par exemple).
+ - Gérer le cycle de vie de la donnée conformément aux directives inscrites dans le RGPD.
+ - Assurer le suivi de production et la maintenance.
+Mission 3 : Mise en production de modèles statistiques dans les applications  - Développer l'industrialisation de modèles statistiques ou de machine learning.
+ - Implémentation du suivi de la validité du modèle statistique.
+ - Assurer le suivi de production et la maintenance.
+Mission 4 : Suivi des projets de développement  - Établir les spécifications techniques à partir de l'analyse des besoins.
+ - Reporter l'activité auprès du chef de projet.
+
+PROFIL RECHERCHÉ : 
+
+Savoir  - Master 2 en informatique, en data science, ou en statistiques INDISPENSABLE
+ - École d'ingénieurs en informatique, en data science, ou en statistiques INDISPENSABLE
+Savoir Faire  - Maîtrise de l'environnement Hadoop/Hive/Spark (que ce soit en local ou dans le cloud) INDISPENSABLE
+ - Maîtrise des bases de données et gestion de bases de données (SQL/NoSQL) INDISPENSABLE
+ - Maîtrise de langages de programmation (C++, Scala, Java, Python.) INDISPENSABLE
+ - Maîtrise les méthodes de développement agile INDISPENSABLE
+ - Connaissance de la réglementation concernant les données personnelles et des principes de cybersécurité INDISPENSABLE
+ - Maîtrise des systèmes d'exploitation (Unix, Windows.) INDISPENSABLE
+ - Connaissance des solutions de manipulation des données ETL/LET SOUHAITÉ
+Savoir Être  - Esprit d'équipe INDISPENSABLE
+ - Sens du délai et des résultats INDISPENSABLE
+ - Organisation INDISPENSABLE
+ - Rigueur INDISPENSABLE
+ - Curiosité sectorielle et goût pour l'innovation INDISPENSABLE ",2022-03-01T17:53:53.000Z,2022-03-01T17:53:53.000Z,M1805,Études et développement informatique,Analyste décisionnel - Business Intelligence,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,35 H  Horaires normaux,Temps plein,False,2,False,9,Cadre,,,,,06 - BIOT,43.628198,7.084843,,06018,AUTOMATA,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0020001,"Automata, start-up en plein croissance dans le domaine de la Fintech, développe l'application bancaire digitale « Akt » réunissant l'univers de la finance décentralisée, les investissements innovants, un compte épargne révolutionnaire, la gestion de patrimoine et les solutions de paiement sur une seule et même plateforme.
+Plus besoin de multiplier les comptes et de jongler entre un compte courant pour les dépenses du quotidien, une application pour les cagnottes en ligne ou ... ","[{'nom': 'BEETWEEN', 'url': 'https://emploi.beetween.com/apply/job/l3x8tfsg7c8/data-engineer', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/beetween80.png'}]",,,,,,,,,,,,,,,
+4,0015981,BIG DATA DEVEL H/F,"Directement rattaché à l'échelon central de la marine, le centre d'expertise des programmes navals (CEPN) a pour mission principale d'assurer auprès de la marine l'expertise technico-opérationnelle permettant de spécifier et suivre les développements et les mises au point des matériels destinés aux forces de surface et sous-marine. Au sein du CEPN, le titulaire du poste assure le développement logiciel, par la maîtrise de langage de programmation et des API spécialisées dans le Big Data pour développer des briques applicatives qui vont compléter une plateforme de traitement massivement parallèle. Il sait faire du développement distribué, de la coordination de service, gérer la tolérance aux pannes, rendre un système cohérent, etc. Il analyse, paramètre et code les composants logiciels applicatifs dans le respect des évolutions souhaitées, des normes et des procédures. Développeur agile, il travaille en mise en œuvre itérative à partir du backlog projet par des sprints successifs permettant de mettre en avant l'avancement et de prendre en compte les retours des utilisateurs.
+
+Les activités principales du poste sont:
+Analyser techniquement et étudier dans le détail les besoins utilisateurs en vue de prototypage 
+Élaborer les jeux d'essais pour les tests unitaires et les tests d'intégration et effectuer les tests 
+Développer les codes et modules, assembler les composants logiciels et rédiger les documentations 
+Prendre en charge la maintenance corrective et évolutive ",2022-03-01T17:40:48.000Z,2022-03-01T17:40:48.000Z,M1805,Études et développement informatique,Concepteur / Conceptrice d'application informatique,CDD,Contrat à durée déterminée - 36 Mois,Contrat travail,E,Expérience exigée de 2 An(s),,,,False,1,False,,,,,,,83 - Var,,,,,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0015981,Ministère des Armées - Central ,"[{'nom': 'PEP', 'url': 'https://place-emploi-public.gouv.fr/offre-emploi/2022-826791', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/pep80.png'}]",,,,,,,,,,,,,,,
+5,9974495,Contrôleur de gestion Data Management H/F,"Contrôleur de gestion Data Management H/F
+
+En bref : Proche Aix-en-Provence - CDI - Contrôleur de gestion Data Management H/F
+
+Adsearch est une société de conseil en recrutement spécialisé. Aujourd'hui, ce sont plus d'une centaine de consultants répartis dans 12 Divisions expertes et 11 Bureaux dans les plus grandes villes françaises qui accompagnent 1500 clients de toutes tailles (PME, ETI et Groupes internationaux).
+
+ 
+
+Nous recrutons pour l'un de nos clients, société internationale, basée à Marseille qui cherche à renforcer son équipe Finance en recrutant un Contrôleur de gestion Data Management pour une création de poste.
+
+ 
+
+ * Missions :
+
+ 
+
+ * S'assurer que les données pour le CDG sont informatiquement valides ( 50%)
+ * Contrôle de gestion classique avec le responsable du contrôle de gestion
+ * Participer aux Budgets, Forecast et Reportings (clôtures) mensuelles
+ * Être leader sur les améliorations lié à la digitalisation au niveau du contrôle de gestion
+ * Étude et chiffrage de projet basé sur une spécification fonctionnelle / User Story
+ * Développement de solutions fiables et performantes dans le respect du besoin fonctionnel
+ * Réalisation de documentation technique sur l'existant ou de nouveaux modules
+ * Participation à la mise en place de SAP
+
+ 
+
+Votre profil :
+
+Vous avez une première expérience réussie en contrôle de gestion avec des appétences pour le domaine IT ou une expérience en contrôle de gestion avec de solides bases de reporting et de développement informatique.
+
+Ce qu'on vous propose :
+
+ 
+
+- Société en croissance
+
+- Poste à pourvoir immédiatement en création
+
+ 
+
+ 
+
+Bien sûr, on vous garantit une confidentialité totale pour toute la durée du process.
+
+Alors, prêt(e) à démarrer votre activité avec nous ? Postulez et venez rencontrer Damien ! ",2022-02-28T21:48:50.000Z,2022-02-28T21:48:50.000Z,M1204,Contrôle de gestion,Contrôleur / Contrôleuse de gestion,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,,,,,13 - MARSEILLE 13,43.282,5.405,,13213,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9974495, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/56b674a4350a3ceb48de7c8df61df343', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+6,9974322,Data Science and Marketing Project Manager (IT) (H/F),"Sous la responsabilité du Chief Data & Technology Officer et au sein d'une équipe de 4 collaborateurs, vous travaillez en support à toutes les marques du groupe. Vous entretenez de fortes relations fonctionnelles avec le Group Marketing Director.
+Votre mission principale consiste à piloter les projets d'implémentations puis d'assurer la pérennité des outils Data Marketing (CDP, Web tracking ) du groupe. Vous jouez un rôle de facilitateur entre les différentes marques pour permettre une collaboration fluide et le choix des meilleurs outils.
+La dynamique du secteur de l'hôtellerie de plein air apporte une variété de projets et des défis à relever au sein d'une équipe et innovante, ce qui rend ce métier d'autant plus intéressant. ",2022-02-28T21:48:22.000Z,2022-02-28T21:48:22.000Z,M1803,Direction des systèmes d'information,Chef de projet informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,,,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9974322, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/bba4be2634b6e6fe296a774a7f4193fc', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+7,9969418,DATA ANALYST (IT) (H/F),"Recherche: DATA ANALYST (IT) (H/F)
+HN Services recrute sur Aix, un Data Analyste afin d'apporter son expertise dans l'ensemble des phases projet pour effectuer les analyses en phase think, les études ad-hoc et mise en forme KPI sur PowerBI
+Ta mission
+Identifier, regrouper et qualifier l'ensemble des donnéesConcevoir les tableaux de bord de pilotage de l'activité; réaliser les extractions de données des systèmes d'information; analyser et commenter les données utiles à l'appréciation de la performanceDéfinir les approches et participer à la définition des outils permettant d'identifier; extraire et exploiter ces données; proposer de nouveaux modèles d'analyse; identifier des indicateurs permettant de faciliter la prise de décisionOptimiser la gestion des données : processus de recueil des informations, gestion des flux, vérification des données; transmission des données; mise en formeEtre en relation permanente avec les interlocuteurs métiers et avoir la capacité de comprendre le... ",2022-02-28T20:18:23.000Z,2022-02-28T20:18:23.000Z,M1403,Études et prospectives socio-économiques,Data analyst,LIB,Profession libérale,Emploi non salarié,D,Débutant accepté,,,,False,1,False,,,,,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9969418, ,"[{'nom': 'JOBINTREE', 'url': 'https://www.jobintree.com/offre-emploi/carriere-info-7952/data-analyst-it-43271425?utm_source=pole-emploi&utm_medium=flux-offres&utm_campaign=partenaire', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobintree80.png'}]",,,,,,,,,,,,,,,
+8,9964959,CONSULTANT MASTER DATA MANAGEMENT (H/F),"Recherche: CONSULTANT MASTER DATA MANAGEMENT (H/F)
+Au sein de Micropole, nous vousproposons de rejoindre notre International Delivry & Expertise Agency baséà Aix-en-Provence (zone « Les Milles »), où vous interviendrez sur l'ensembledes phases d'un projet Data Governance. En tant que Consultant MDM (Master DataManagement), vous serez rattaché(e) à l'équipe Data Governance &Architecture, composée de 15 #InnovativePeople.
+Au quotidien, vous aurez les responsabilités suivantes : 
+Recueildes besoins client,Animationet participation aux workshops,Rédactiondes spécifications fonctionnelles et/ou techniques,Paramétragedes solutions éditeurs et développement de modules spécifiques,Modélisationdes référentiels et des processus associés.
+Votre Talent comme valeur ajoutée :
+Une expérience d'au moins 2 ans vous garantit lamise en œuvre de projet JAVA JEE et la maîtrise d'outils de référentiel dedonnées (EBX Orchestra ou MDM CS par exemple),Vous possédez une certaine adaptabilité ce qui vous... ",2022-02-28T17:43:59.000Z,2022-02-28T17:43:59.000Z,M1806,Conseil et maîtrise d'ouvrage en systèmes d'information,Consultant / Consultante informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,False,1,False,,,,,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9964959, ,"[{'nom': 'JOBINTREE', 'url': 'https://www.jobintree.com/offre-emploi/aix-pole-gouvernance-donnees-7800/consultant-master-data-management-43311832?utm_source=pole-emploi&utm_medium=flux-offres&utm_campaign=partenaire', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobintree80.png'}]",,,,,,,,,,,,,,,
+9,9886843,Producto Owner Data (H/F) (IT),"Dans le cadre de notre croissance, nous sommes à la recherche d'un Product Owner DATA (H/F). Votre mission consiste à assurer la responsabilité du contenu fonctionnel et technique des projets DATA.
+Chef de projet technique en mode agile, vous avez la charge de répondre aux besoins des clients de différents secteurs sur la livraison de dispositifs Data (Datalake, Dataqualité, Datamanagement). Vous serez le lien entre les clients et l'équipe de développement. 
+Au sein des équipes, vous êtes coresponsable, de la conception du projet, de la gestion des plannings et le premier responsable de la qualité du projet délivré. ",2022-02-26T08:03:25.000Z,2022-02-26T08:03:25.000Z,M1703,Management et gestion de produit,Chef de produit Internet,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,,,,,06 - NICE,43.712854,7.253866,,06088,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9886843, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/edf2e6ee50be61868dee48f80919d652', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+10,9884056,Contrôleur de gestion Data Management H/F,"Contrôleur de gestion Data Management H/F
+
+En bref : Proche Aix-en-Provence - CDI - Contrôleur de gestion Data Management H/F
+
+Adsearch est une société de conseil en recrutement spécialisé. Aujourd'hui, ce sont plus d'une centaine de consultants répartis dans 12 Divisions expertes et 11 Bureaux dans les plus grandes villes françaises qui accompagnent 1500 clients de toutes tailles (PME, ETI et Groupes internationaux).
+
+ 
+
+Nous recrutons pour l'un de nos clients, société internationale, basée à Marseille qui cherche à renforcer son équipe Finance en recrutant un Contrôleur de gestion Data Management pour une création de poste.
+
+ 
+
+ * Missions :
+
+ 
+
+ * S'assurer que les données pour le CDG sont informatiquement valides ( 50%)
+ * Contrôle de gestion classique avec le responsable du contrôle de gestion
+ * Participer aux Budgets, Forecast et Reportings (clôtures) mensuelles
+ * Être leader sur les améliorations lié à la digitalisation au niveau du contrôle de gestion
+ * Étude et chiffrage de projet basé sur une spécification fonctionnelle / User Story
+ * Développement de solutions fiables et performantes dans le respect du besoin fonctionnel
+ * Réalisation de documentation technique sur l'existant ou de nouveaux modules
+ * Participation à la mise en place de SAP
+
+ 
+
+Votre profil :
+
+Vous avez une première expérience réussie en contrôle de gestion avec des appétences pour le domaine IT ou une expérience en contrôle de gestion avec de solides bases de reporting et de développement informatique.
+
+Ce qu'on vous propose :
+
+ 
+
+- Société en croissance
+
+- Poste à pourvoir immédiatement en création
+
+ 
+
+ 
+
+Bien sûr, on vous garantit une confidentialité totale pour toute la durée du process.
+
+Alors, prêt(e) à démarrer votre activité avec nous ? Postulez et venez rencontrer Damien ! ",2022-02-26T07:52:36.000Z,2022-02-26T07:52:36.000Z,M1204,Contrôle de gestion,Contrôleur / Contrôleuse de gestion,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,,,,,13,43.282,5.405,,13055,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9884056, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/2e96ef6fbcbcd75abe12898a0ed4f447', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+11,9814133,Data Engineer / Business Intelligence (H/F),"A propos
+Gogaille veut raviver le cœur de villes françaises en dépoussiérant le marché de l'hôtellerie. Notre objectif : proposer une nouvelle version du séjour en ville et faire (re)découvrir la France, ses villes de caractère et ses spécialités culinaires.  
+ 
+Gogaille, c'est aussi l'histoire de 5 co-fondateurs issus de l'hôtellerie classique, qui ont allié leurs expériences et leurs savoir-faire pour imaginer l'expérience idéale qui n'existait pas encore.
+ 
+Gogaille c'est quoi?? 
+Dans la forme, Gogaille se présente comme un hôtel déstructuré, qui s'implante dans les bâtiments historiques en cœur de ville, pour leur redonner vie.  
+ 
+Avec des lieux dédiés au repos : les Loges, où nous proposons une expérience professionnelle du sommeil : insonorisation maximale, du vrai noir, température et oreiller sur-mesure. Grâce à notre technologie, nous réinventons l'expérience hotelière qui devient entièrement personnalisée : accès simplifié, heure de départ et d'arrivée flexible et chambre connectée.  
+Et un lieu central : les Échoppes, où l'on peut prendre un café-croissant, déguster ou emporter les meilleurs produits régionaux et chercher du bon pain. 
+ 
+Gogaille se veut aussi responsable :  
+ * Dans l'assiette, nous travaillons en direct producteurs et nous avons sélectionné des agriculteurs reconnus pour leur savoir-faire, qui travaillent en agriculture raisonnée et qui ont un vrai respect de la Terre et de leur élevage. 
+ * Nous travaillons également sur nos engagements RSE pour réduire au maximum nos déchets, pour instaurer la ré-utilisation entre nos différents points de vente et pour redistribuer nos invendus. 
+   
+ * Notre plus grande force c'est notre équipe et nous avons une large diversité de métiers ! Nous avons à cœur de valoriser et de développer les savoir-faire de tous nos collaborateurs. 
+Nous avons ouvert notre premier Gogaille à Limoges, d'autres ouvriront cette année à Poitiers, Tours et Orléans et nous souhaitons en ouvrir une trentaine d'ici 2025.  
+On va faire Gogaille partout en France !
+Ce qui nous anime?
+Mettre en avant les savoir-faire et les spécialités de nos régions, 
+Remettre en valeur les patrimoines architecturaux et culturels,  
+Reconnecter nos clients à la qualité, au plaisir, à la nature  
+Notre mission?
+Devenir le point de ralliement de la ville en mettant en valeur les traditions et savoir-faire régionaux. Endosser une fonction sociétale en devenant l'hôte privilégié des visiteurs. 
+Notre promesse?
+Raviver le cœur des villes de taille moyenne 
+ 
+Le mot des RH :  
+""Rejoindre l'aventure c'est partager des moments conviviaux, s'engager dans un projet qui a du sens et être à l'initiative du changement local."" 
+ 
+La mission de la Tech
+Bousculer le secteur de l'hospitalité en introduisant la technologie là où elle n'existait pas encore. Bien souvent, cela permet : 
+ 1. De déléguer des tâches aux utilisateurs finaux. Ils ont plus d'autonomie contre un peu plus de responsabilité. 
+ 2. D'automatiser des tâches rébarbatives et ennuyeuses. 
+ 3. De créer de nouveaux usages en reliant des concepts. 
+ 
+Ta mission
+Construire une plateforme de données évolutive, inspirée de l'état de l'art, qui servira de base à la conception de pipelines analytiques et produits d'apprentissage automatiques pour alimenter notre écosystème : 
+ * Tu es la personne à contacter pour tout ce qui concerne l'ingénierie de données et son cycle de vie, de l'ingestion et de la validation en passant par le transport, le stockage et l'exposition aux consommateurs. 
+ * Tu diriges la conception et la mise en œuvre de solutions de données (streaming, ETL, ...) 
+ * Tu travailles avec la Tech pour garantir la qualité et l'intégrité des données et promouvoir une culture dans laquelle les données sont considérées comme un sytème de production. 
+Cela couvre aussi bien les données financières, qu'opérationnelles ou du parcours client, ainsi que proptech/smart building. 
+Ton quotidien
+ANALYSE 
+ * Participer à l'identification des besoins métier. 
+ * Inspecter les jeux de données, être force de proposition pour les compléter en enrichissant certaines sources par des développement ou par croisement avec d'autres sources. 
+CONCEPTION 
+ * Tu es à la fois le/la créateur(rice) et le/la berger(e) de tes modèles de données, au juste besoin. 
+ * Tu mets au point le pipeline de collecte, stockage, traitement et restitution des données. 
+LIVRAISON CONTINUE 
+ * Rendre visible en permanence ton travail afin de permettre des revues et soulever toute question qui subsiste en cours de route. 
+ * Produire quand nécessaire des g  ",2022-02-25T08:51:30.000Z,2022-02-25T08:51:30.000Z,M1805,Études et développement informatique,Ingénieur concepteur / Ingénieure conceptrice informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 6 An(s),,,,False,1,False,,,,,,,13 - MARSEILLE 01,43.282,5.405,,13201,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9814133, ,"[{'nom': 'CARRIEREONLINE', 'url': 'http://www.carriereonline.com/offre-emploi/data-engineer-business-intelligence-h-f/bouches-du-rhone-13/21533215/?xtor=SEC-1321', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/carriereonline80.png'}]","Annuel de 35000,00 Euros ï¿½ 40000,00 Euros",,,,,,,,,,,,,,
+12,9777313,Data analyst (H/F),"Description du poste :
+L'équipe dans lequel vous travaillerez a entre autres tâches, la digitalisation et l'automatisation de la gestion documentaire, afin de renforcer la qualité et la robustesse de leurs archives, qui sont régulièrement auditées par l'EASA.
+Vous devrez remplir les missions suivantes :
+- Préparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Assurer tous les processus et la documentation développés et maintenus dans la machine (aéronef).
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Garantir la traçabilité des données
+Description du profil :
+Vous devez être titulaire d'un Bac+2 et avoir au moins 3 années d'expérience.
+Vous justifiez d'une première expérience sur un poste similaire (expérience réussie dans le pilotage de projet orientés data)
+Anglais courant impératif ",2022-02-24T19:51:01.000Z,2022-02-24T19:51:01.000Z,M1403,Études et prospectives socio-économiques,Data analyst,MIS,Mission intérimaire - 18 Mois,Contrat travail,E,Expérience exigée de 3 An(s),,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.415837,5.220936,,13054,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9777313,"Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !
+Parce que l'aéronautique est un métier d'experts, votre agence Randstad, 100 % spécialisée, est en recherche permanente de nouvelles compétences et vous offre de nombreuses opportunités d'emploi. Nous recherchons pour le compte de notre client Airbus Helicopters, un data analyst (F/H), pour une missio... ","[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-analyst-h-f-marignane-provence-alpes-cote-d-azur-interim-21343784', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]","Mensuel de 2058,00 Euros",,,,,,,,,,,,,,
+13,9774587,DATA ANALYST (H/F),"Nous recherchons pour le compte de notre client Airbus Helicopters, un data analyst (F/H), pour une tâche de 4 mois, renouvelable jusqu'à 18 mois.L'équipe dans lequel vous travaillerez a entre autres tâches, la digitalisation et l'automatisation de la gestion documentaire, afin de renforcer la qualité et la robustesse de leurs archives, qui sont régulièrement auditées par l'EASA.
+Vous devrez remplir les tâches suivantes :
+- Préparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Assurer tous les processus et la documentation développés et maintenus dans la machine (aéronef).
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Garantir la traçabilité des données ",2022-02-24T19:17:26.000Z,2022-02-24T19:17:26.000Z,M1403,Études et prospectives socio-économiques,Data analyst,MIS,Mission intérimaire - 18 Mois,Contrat travail,E,Expérience exigée de 3 An(s),,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.415837,5.220936,,13054,Randstad,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9774587,"Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !
+Parce que l'aéronautique est un métier d'experts, votre agence Randstad, 100 % spécialisée, est en recherche permanente de nouvelles compétences et vous offre de nombreuses opportunités d'emploi. ","[{'nom': 'HANDICAP_JOB', 'url': 'https://www.handicap-job.com/recherche/detail/oid/4704343/data-analyst-fh.html', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/handicap_job80.png'}]",,,,,,,,,,,,,,,
+14,9771146,Data ingénieur Talend H/F,"Missions :
+- Faciliter l'intégration technique des projets de la DSI sur la plateforme Data du groupe (notamment Talend).
+- Superviser et optimiser les activités de support : identifier les « root-causes », optimiser les processus de support (N1 et N2) et gérer la résolution des tickets (N3).
+- Standardiser et automatiser des activités clés de type DevOps.
+Vous disposez d'un diplôme d'études supérieures Bac +3, confirmé par 5 ans d'expérience sur des postes ou technologies similaires. Un niveau d'anglais professionnel est obligatoire. Vous êtes motivé, désireux d'apporter vos compétences et souhaitez intégrer une entreprise avec de nombreux projets. 
+
+Compétences techniques :
+- Indispensables : Talend, développement Java, gestion opérationnelle de la plateforme : TAC / TMC, expertise SQL, conception de modèles BI et documentation associée.
+- Souhaitables : management de projets informatiques, SQL Server, Cubes SSAS + SSRS/SSIS, Power BI, Jenkins, Approche ELT.
+
+Je suis Account manager chez Hays Technology en PACA, spécialiste des métiers de l'IT. J'aide les professionnels de la Tech à développer leur carrière et je m'assure que les organisations soient soutenues par les meilleurs talents. Chez Hays, ma société, mes collaborateurs et mes clients m'ont transmis la culture tech et les bonnes pratiques.
+
+Chez Hays Technology, nous façonnons le futur du recrutement. Alors que la concurrence pour les talents s'intensifie, nous aidons les consultants à valoriser leur expertise et avoir un impact réel sur les organisations. Discutons-en ensemble dès aujourd'hui ! ",2022-02-24T17:57:21.000Z,2022-02-24T17:57:21.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDD,Contrat à durée déterminée - 12 Mois,Contrat travail,E,Expérience exigée de 2 An(s),,,,False,1,False,,,21,Fabrication de préparations pharmaceutiques,,,06 - NICE,43.711998,7.238269,,06088,Hays France,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9771146,"Hays Technology recherche pour l'un de ses clients, un Data Ingénieur Talend pour une mission de 6 mois en freelance à pourvoir dès que possible dans les Alpes-Maritimes (06). Mission en temps plein avec 2 à 3 jours de télétravail par semaine. ","[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=Y2xvenphZi42NjU1OC42NzA2QGhheXNmcmFuY2UuYXBsaXRyYWsuY29t', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]","Mensuel de 12000,00 Euros ï¿½ 13500,00 Euros",,,,,,,,,,,,,,
+15,9758749,Contrôleur de gestion Data Management H/F,"Description du poste
+
+Contrôleur de gestion Data Management H/F
+
+En bref : Proche Aix-en-Provence - CDI - Contrôleur de gestion Data Management H/F
+
+Adsearch est une société de conseil en recrutement spécialisé. Aujourd'hui, ce sont plus d'une centaine de consultants répartis dans 12 Divisions expertes et 11 Bureaux dans les plus grandes villes françaises qui accompagnent 1500 clients de toutes tailles (PME, ETI et Groupes internationaux).
+
+ 
+
+Nous recrutons pour l'un de nos clients, société internationale, basée à Marseille qui cherche à renforcer son équipe Finance en recrutant un Contrôleur de gestion Data Management pour une création de poste.
+
+ 
+
+ * Missions :
+
+ 
+
+ * S'assurer que les données pour le CDG sont informatiquement valides ( 50%)
+ * Contrôle de gestion classique avec le responsable du contrôle de gestion
+ * Participer aux Budgets, Forecast et Reportings (clôtures) mensuelles
+ * Être leader sur les améliorations lié à la digitalisation au niveau du contrôle de gestion
+ * Étude et chiffrage de projet basé sur une spécification fonctionnelle / User Story
+ * Développement de solutions fiables et performantes dans le respect du besoin fonctionnel
+ * Réalisation de documentation technique sur l'existant ou de nouveaux modules
+ * Participation à la mise en place de SAP
+
+ 
+
+Votre profil :
+
+Vous avez une première expérience réussie en contrôle de gestion avec des appétences pour le domaine IT ou une expérience en contrôle de gestion avec de solides bases de reporting et de développement informatique.
+
+Ce qu'on vous propose :
+
+ 
+
+- Société en croissance
+
+- Poste à pourvoir immédiatement en création
+
+ 
+
+ 
+
+Bien sûr, on vous garantit une confidentialité totale pour toute la durée du process.
+
+Alors, prêt(e) à démarrer votre activité avec nous ? Postulez et venez rencontrer Damien ! ",2022-02-24T14:59:21.000Z,2022-02-24T14:59:21.000Z,M1204,Contrôle de gestion,Contrôleur / Contrôleuse de gestion,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,,,,,13,43.282,5.405,,13055,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9758749, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/922b377c32ff3707c60268020edfe5da', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+16,128NQRF,Data scientist (F/H),"Sous la responsabilité d'un directeur technique et au sein d'une équipe à taille humaine, votre rôle sera de suivre et piloter les projets et études en Data Science autour d'un produit lié à l'IA dans la gestion des données sensibles. 
+
+Vous contribuez à l'élaboration des besoins, vous définissez les principes de collecte et traitement de données et établir les modèles. 
+
+Vous serez en charge d'analyser les données et restituez les résultats obtenus, participez à la mise en place d'architectures Big Data et contribuerez aux projets internes de R&D dans le but de développer de nouvelles offres (NLP, Deep Learning, ).",2022-02-22T15:21:54.000Z,2022-03-01T15:23:46.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,S,2 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '118732', 'libelle': 'Réaliser une veille documentaire (collecte, analyse etc.)', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,78,Activités des agences de travail temporaire,,False,13 - AIX EN PROVENCE,43.546605,5.402549,13090,13001,JBM BUREAU MEDICAL - EXPECTRA,False,,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128NQRF,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Informatique & Télécoms vous proposent des opportunités de carrière.",,"Annuel de 42000,00 Euros sur 12 mois","[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'exigence': 'S'}]",JBM BUREAU MEDICAL - EXPECTRA - M. Guillaume FADEL,https://www.expectra.fr/offre/307-S13-R000956_01R/A?utm_source=pole-emploi&utm_medium=jobboard&utm_campaign=offres,Candidater sur le site du recruteur,https://www.expectra.fr/offre/307-S13-R000956_01R/A?utm_source=pole-emploi&utm_medium=jobboard&utm_campaign=offres,,,,,,,,,
+17,9651576,Data engineers (H/F),"La société : Créé en 2006, IFEO consulting est un acteur reconnu du secteur de l'ingénierie informatique et du recrutement IT et Multi-spécialiste des métiers de l'infrastructure, du développement applicatif, du support et du web/digital.
+En fort développement, IFEO consulting est marqué par les valeurs humaines et entrepreneuriales de ses fondateurs, une entreprise à taille humaine, qui partage les valeurs de respect de ses consultants, d'excellence dans le recrutement et dans la réalisation des projets confiés.
+Chez nous, vous pouvez venir comme vous êtes ! Nous recherchons simplement des personnes qui partagent nos valeurs (Respect, Solidarité et Intégrité) car nous accordons autant d'importance au savoir être qu'au savoir-faire.
+Comment nous traitons les candidatures ?
+Un premier échange téléphonique avec notre chargée de recrutement sera l'occasion de faire connaissance.
+Un second entretien permettra de nous rencontrer dans nos locaux ou en Visio avec un de nos experts techniques et/ou l'un de nos responsables de comptes.
+Si l'adéquation entre le besoin et votre intérêt pour le poste est confirmé, nous présentons votre candidature à notre client.
+Le poste : IFEO Consulting recherche pour le compte de l'un de ses clients grand compte basé sur Sophia Antipolis un Data Engineer (F/H)
+Votre mission si vous l'acceptez s'articulera autour des enjeux suivants :
+La conception de solutions permettant le traitement de volumes importants de pipelines données
+Participation à l'animation d'une équipe de professionnels de la Data sur toutes les étapes du traitement de la donnée.
+Mise à jour permanente sur les technologies et langages utilisés dans le but de partager ses connaissances et aider à l'avancement du projet.Profil recherché : Profil « Ingénieur de production / d'exploitation » , vous justifiez idéalement d'expériences dans l'univers de la DATA.
+Le talent que nous recherchons devra avoir les qualités ci-dessous :
+Maîtrise des langages structurés (Javascript, Scala, Python'),
+Maîtrise de divers systèmes d'exploitation : UNIX, Linux, Solaris,
+Connaissances en solutions de bases de données (SQL, NoSQL'),
+Maîtrise des technologies du Big Data permettant le traitement et la manipulation de données (Hadoop, Spark, Kafka?),
+Bonne connaissances en DataBricks.
+Votre petit plus :
+Vous êtes curieux, réfléchi et rigoureux et aimez travailler dans une équipe attachant une grande importance au partage des connaissances dans un esprit d'entraide, de bienveillance et d'amélioration continue.
+Vous êtes force de proposition et avez un bon relationnel, le sens de l'écoute et une esprit d'équipe.
+Vous avez une capacité à structurer et organiser le travail au sein d'une équipe
+Pourquoi nous rejoindre ?
+Une culture forte, bienveillante, et une grande place laissée à la liberté
+Des clients variés, leaders de leurs secteurs
+Une approche pragmatique, qui répond aux vrais enjeux des entreprises
+Vous vous reconnaissez dans cette annonce, n'attendez plus, postulez. ",2022-02-22T20:54:52.000Z,2022-02-22T20:54:52.000Z,M1802,Expertise et support en systèmes d'information,Architecte de bases de données,CDD,Contrat à durée déterminée - 12 Mois,Contrat travail,S,Expérience souhaitée de 2 An(s),,Temps plein,,False,1,False,,,,,,,06 - VALBONNE,43.627341,7.016557,,06152,IFEO Consulting,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9651576,IFEO Consulting ,"[{'nom': 'PMEJOB', 'url': 'https://www.jobposting.pro/emploi-1121673-120', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/pmejob80.png'}]",,,,,,,Temps plein,,,,,,,,
+18,9640497,Ingénieur / pmo data - data analyst (secteur aéronautique) (f/h) (H/F),"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Aéronautique vous proposent des opportunités de carrière.Nous recherchons pour le compte de notre client Airbus Helicopters, constructeur aéronautique, un Ingénieur / PMO Data - Data analyst (secteur Aéronautique) (F/H) - Anglais opérationnel / courant + Compétences sur Python et JavaDans le cadre de cette mission de 4 mois (qui sera renouvelée jusqu'à 18 mois), basée sur Marignane, vous êtes en charge de :
+- Préparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Assurer tous les processus et la documentation développés et maintenus dans l'environnement informatique de l'hélicoptère.
+- Guider en permanence les étapes d'amélioration initiées en alignement étroit avec les méthodes et outils d'ingénierie et le service informatique interne.
+- Garantir la traçabilité des données
+- Maintenir une documentation centrale de tenue de dossiers sur tous les processus d'automatisation
+- Maintenir en permanence la mise en évidence de la feuille de route du changement
+La rémunération brute annuelle est à négocier selon votre expérience. ",2022-02-22T17:47:58.000Z,2022-02-22T19:43:44.000Z,G1302,Optimisation de produits touristiques,Analyst revenue management,MIS,Mission intérimaire - 18 Mois,Contrat travail,D,Débutant accepté,,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.4167,5.21667,,13054,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9640497, ,"[{'nom': 'AEROCONTACT', 'url': 'https://www.aerocontact.com/emploi-aeronautique/ingenieur-pmo-data-data-analyst-secteur-aeronautique-fh~566465.html?fromref=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/aerocontact80.png'}]",,,,,,,,,,,,,,,
+19,9637141,Data analyst   environnement (H/F),"
+Afin de continuer le développement de notre structure spécialisé dans l'accompagnements de collectivités ou d'acteurs privés de la gestion des déchets, nous recherchons un chef(fe) de projets data pour apporter cette compétence au sein de notre équipe.
+ Vous rejoindrez une équipe pluridisciplinaire et serez amené à gérer et ou accompagner des projets dans le secteur porteur l'économie circulaire plus particulièrement lié à la collecte des déchets.
+ Alors si vous souhaitez mettre vos compétences techniques au service de projets qui ont du sens, ce poste est fait pour vous !!
+ Vous serez ainsi en charge de :
+ 
+Définir des pistes d'optimisation via l'analyse des données disponibles, de l'entreprise ou en open data,Analyser les données disponibles chez nos différents clients,Construire des modèles, des algorithmes et des data visualisations en Python ou R, en vous appuyant sur les librairies statistiques et de data science, tre formé pour utiliser un SIG dédié à l'optimisation de la collecte,Accompagner le développement de la structure dans la définition d'outils de suivi BI pour l'ensemble de nos projets,Rédiger des rapports d'avancement d'études,Présenter les projets en comité technique,Travailler avec différents interlocuteurs au sein de l'entreprise,Travailler sur des projets innovants en lien avec la collecte des déchets.
+Exemples de projets déjà menés :
+ 
+Création d'un modèle prédictif des collectes des bennes d'apport volontaire, en fonction de leur environnement urbain et démographique, pour optimiser leur positionnement dans une ville.Suite à la mise en place de la tarification incitative dans une collectivité : analyse des données de levées de bacs d'ordures ménagères, comparées aux fréquences de tournées des véhicules de collecte, pour identifier les potentiels de réduction des tournées.
+Contrat : CDI 
+Diplômé d'une école d'ingénieur ou équivalent bac+5, vous avez acquis une première expérience dans un poste de data analyst data scientist.
+ Vous maîtrisez Python (ou à défaut R), et avez de bonnes compétences en data visualisation, modélisation statistique et machine learning (clustering, régression...).
+ Une expérience en manipulation de données géographiques est un plus.
+ Vous avez une bonne appétence pour les enjeux écologiques, le secteur de l'environnement et êtes capables d'aborder de nouvelles méthodes de travail.
+ Avec un esprit résolument analytique et rigoureux, vous êtes à l'aise pour manipuler les données.
+ Vous avez une bonne capacité de synthèse et de bonnes compétences rédactionnelles et de vulgarisation.
+ Vous êtes curieux curieuse, à l'écoute et motivé par des projets transverses (analyses de données et environnement). Vous êtes capable d'organisation, d'autonomie et faites preuve d'agilité face aux problèmes rencontrés.
+ Vous êtes force de proposition pour accompagner l'entreprise à exploiter ses données de façon pertinente.
+ 
+ ",2022-02-22T16:55:13.000Z,2022-02-22T16:55:13.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,False,1,False,,,,,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,Groupe BERTO,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9637141,"
+Afin de continuer le développement de notre structure spécialisé dans l'accompagnements de collectivités ou d'acteurs privés de la gestion des déchets, nous recherchons un chef(fe) de projets data pour apporter cette compétence au sein de notre équipe.
+ ","[{'nom': 'JOBTRANSPORT', 'url': 'https://www.jobtransport.com/offre-emploi/data-analyst-environnement-aix-en-provence-2048190.aspx?utm_source=pole-emploi&utm_medium=site-partenaire&utm_campaign=pole-emploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobtransport80.png'}]",,,,,,,,,,,,,,,
+20,9617231,INGÉNIEUR / PMO DATA - DATA ANALYST (SECTEUR AÉRONAUTIQUE) (H/F),"Nous recherchons pour le compte de notre client Airbus Helicopters, constructeur aéronautique, un Ingénieur / PMO Data - Data analyst (secteur Aéronautique) (F/H) - Anglais opérationnel / courant + Compétences sur Python et JavaDans le cadre de cette tâche de 4 mois (qui sera renouvelée jusqu'à 18 mois), basée sur Marignane, vous êtes en charge de :
+- Préparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Assurer tous les processus et la documentation développés et maintenus dans l'environnement informatique de l'hélicoptère.
+- Guider en permanence les étapes d'amélioration initiées en alignement étroit avec les méthodes et outils d'ingénierie et le service informatique interne.
+- Garantir la traçabilité des données
+- Maintenir une documentation centrale de tenue de dossiers sur tous les processus d'automatisation
+- Maintenir en permanence la mise en évidence de la feuille de route du changement
+La rémunération brute annuelle est à négocier selon votre expérience. ",2022-02-22T11:54:26.000Z,2022-02-22T11:54:26.000Z,M1403,Études et prospectives socio-économiques,Data analyst,MIS,Mission intérimaire - 18 Mois,Contrat travail,E,Expérience exigée de 3 An(s),,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.415837,5.220936,,13054,Expectra,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9617231,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Aéronautique vous proposent des opportunités de carrière. ","[{'nom': 'HANDICAP_JOB', 'url': 'https://www.handicap-job.com/recherche/detail/oid/4700394/ingenieur-pmo-data-data-analyst-secteur-aeronautique-fh.html', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/handicap_job80.png'}]",,,,,,,,,,,,,,,
+21,9597628,DATA ANALYST (H/F),"Recherche: DATA ANALYST (H/F)
+L'équipe dans lequel vous travaillerez a entre autres taches la digitalisation et automatisation de la gestion documentaire afin de renforcer la qualité et la robustesse de leurs archives qui sont régulièrement auditées par l'EASA.
+Voici les missions à remplir:
+- Preparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Assurer tous les processus et la documentation développés et maintenus dans la machine (aéronef).
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Garantir la traçabilité des donnees
+ ",2022-02-22T06:57:07.000Z,2022-02-22T06:57:07.000Z,M1403,Études et prospectives socio-économiques,Data analyst,MIS,Mission intérimaire - 4 Mois,Contrat travail,E,Expérience exigée,,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.415837,5.220936,,13054,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9597628, ,"[{'nom': 'JOBINTREE', 'url': 'https://www.jobintree.com/offre-emploi/randstad-vitrolles-559/data-analyst-42505335?utm_source=pole-emploi&utm_medium=flux-offres&utm_campaign=partenaire', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobintree80.png'}]",,,,,,,,,,,,,,,
+22,9556092,Data analyst (H/F),"Description du poste :
+Dans le cadre de cette mission de 4 mois (qui sera renouvelée jusqu'à 18 mois), basée sur Marignane, vous êtes en charge de :
+- Préparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Assurer tous les processus et la documentation développés et maintenus dans l'environnement informatique de l'hélicoptère.
+- Guider en permanence les étapes d'amélioration initiées en alignement étroit avec les méthodes et outils d'ingénierie et le service informatique interne.
+- Garantir la traçabilité des données
+- Maintenir une documentation centrale de tenue de dossiers sur tous les processus d'automatisation
+- Maintenir en permanence la mise en évidence de la feuille de route du changement
+La rémunération brute annuelle est à négocier selon votre expérience.
+Description du profil :
+De formation Bac+3 à Bac+5, vous justifiez d'une expérience de 3 années minimum comme Ingénieur Data ou en gestion de projet.
+--> Connaissances sur Python ou Java (capacité à programmer, niveau expert n'est pas requis non plus).
+--> Anglais opérationnel voire courant à l'oral : équipe & sujets transnationaux (Allemagne, Espagne) ",2022-02-21T08:46:56.000Z,2022-02-21T08:46:56.000Z,M1403,Études et prospectives socio-économiques,Data analyst,MIS,Mission intérimaire - 18 Mois,Contrat travail,E,Expérience exigée de 3 An(s),,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.415837,5.220936,,13054,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9556092,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Aéronautique vous proposent des opportunités de carrière. Nous recherchons pour le compte de notre client Airbus Helicopters, constructeur aéronautique, un Ingénieur / PMO Data - Data analyst (secteur Aéronautique) (F/H) - Anglais opérationnel / courant + Compétences sur Python et Java ","[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-analyst-h-f-marignane-provence-alpes-cote-d-azur-interim-21265705', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]",,,,,,,,,,,,,,,
+23,128JXRM,Développeur / Développeuse Big Data    (H/F),"Pour accompagner l'un de nos clients, nous recherchons un data engineer Scala / Kafka, H/F, ayant une bonne formation ou autodidacte confirmé(e), et qui rejoindra notre agence au sein du pôle Artificial Intelligence & Data Science . Nous te proposons de participer au développement de sa plateforme de service.
+
+Une première expérience professionnelle est requise (avec référence si possible) et des déplacements sont à prévoir.",2022-02-18T14:21:38.000Z,2022-02-21T12:09:42.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '109870', 'libelle': 'Langage informatique Java', 'exigence': 'S'}, {'code': '113277', 'libelle': 'Méthode AGILE', 'exigence': 'S'}, {'code': '118748', 'libelle': 'Méthodologie Scrum', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir et développer les programmes et applications informatiques', 'exigence': 'E'}, {'code': '113317', 'libelle': 'Développer une application en lien avec une base de données', 'exigence': 'E'}, {'code': '121055', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '121398', 'libelle': 'Analyser des problèmes techniques', 'exigence': 'E'}, {'code': '124517', 'libelle': 'Rédiger une Spécification Technique de Besoin (STB)', 'exigence': 'S'}, {'libelle': 'Environnement Kafka Spark', 'exigence': 'S'}, {'libelle': 'Langage informatique Scala', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,8,Agent de maîtrise,70,Conseil pour les affaires et autres conseils de gestion,"[{'libelle': 'Réactivité', 'description': ""Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance. Exemple : faire preuve de dynamisme, vivacité, énergie, comprendre vite""}, {'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}]",False,84 - AVIGNON,43.936694,4.845053,84000,84007,AGENCE GLANUM,False,Selon le profil d,Mutuelle,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128JXRM,,,,"[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'commentaire': 'Big Data', 'exigence': 'S'}]",,https://www.glanum.com/recrutement/developpeur-scala-kafka-spark/,,https://www.glanum.com/recrutement/developpeur-scala-kafka-spark/,,2,Ponctuels National,Autre,,,,,
+24,128JXDJ,Développeur / Développeuse Big Data    (H/F),"Pour accompagner l'un de nos clients, nous recherchons un data engineer Java / Spark, H/F, ayant une bonne formation ou autodidacte confirmé(e), et qui rejoindra notre agence au sein du pôle Artificial Intelligence & Data Science . Nous te proposons de participer au développement de sa plateforme de service. Une première expérience professionnelle est requise (avec référence si possible) et des déplacements sont à prévoir.",2022-02-18T14:12:17.000Z,2022-02-21T12:14:44.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,E,5 ans,"[{'code': '109870', 'libelle': 'Langage informatique Java', 'exigence': 'E'}, {'code': '113277', 'libelle': 'Méthode AGILE', 'exigence': 'S'}, {'code': '118748', 'libelle': 'Méthodologie Scrum', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir et développer les programmes et applications informatiques', 'exigence': 'E'}, {'code': '113317', 'libelle': 'Développer une application en lien avec une base de données', 'exigence': 'E'}, {'code': '121055', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '121398', 'libelle': 'Analyser des problèmes techniques', 'exigence': 'E'}, {'code': '124517', 'libelle': 'Rédiger une Spécification Technique de Besoin (STB)', 'exigence': 'S'}, {'libelle': 'Environnement Kafka Spark', 'exigence': 'S'}, {'libelle': 'Langage informatique Scala', 'exigence': 'S'}, {'libelle': 'Spring / Springboot / Spring Batch', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,8,Agent de maîtrise,70,Conseil pour les affaires et autres conseils de gestion,"[{'libelle': 'Réactivité', 'description': ""Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance. Exemple : faire preuve de dynamisme, vivacité, énergie, comprendre vite""}, {'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}]",False,84 - AVIGNON,43.936694,4.845053,84000,84007,AGENCE GLANUM,False,Selon le profil d,Mutuelle,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128JXDJ,,,,"[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'commentaire': 'Big Data', 'exigence': 'S'}]",,https://www.glanum.com/recrutement/ingenieur-ou-developpeur-java-spark/,,https://www.glanum.com/recrutement/ingenieur-ou-developpeur-java-spark/,,2,Ponctuels National,Autre,,,,,
+25,9458852,Responsable Data F/H (H/F),"Vous avez une forte appétence pour la visualisation de données et le développement ?Vous souhaitez travailler sur des technologies des solutions innovantes ?Vous êtes adepte de la veille technologique et du design ?  Au sein de VISEO nous recherchons un Responsable Data F/H  pour intervenir sur nos projets et contribuer au développement de notre Practice « Data Analytics »
+Vos Missions : La vie de votre équipe :Faire grandir le capital humain et l'expertise de vos équipesContribuer au processus de recrutement des équipes DataEncadrer et animer les équipes placées sous votre responsabilitéRéaliser le suivi de carrière des équipes (réalisation des entretiens annuels et semestriels, construction des plans de formation et de certifications en fonction des enjeux de l'agence.)
+ Commerce :Contribuer/piloter le processus d'avant-vente (proposition commerciale, présentation de l'offre.) des projets dans l'optique d'orienter et conseiller le client autour d'enjeux DataContribuer au développement commercial de l'activité Data
+ Delivery :Piloter les équipes, choisir les modes de delivery.Contribuer éventuellement à certaines phases projetsAssurer le suivi financier de l'activité Data et de ses projets
+ Conseil :Assurer une veille technologique, connaitre et comparer des solutions du marchéPiloter/réaliser des missions de conseilRéaliser les missions de cadrage afin d'analyser les besoins et l'organisation clients, de proposer des scénarii d'architecture, des choix d'outils, des solutions globales et le plan de mise en œuvreVotre Profil : 
+ Bac+5 école d'ingénieurs ou cursus universitaire avec spécialisation BI/Data
+Vous possédez 3 ans minimum d'expérience sur un poste similaire.
+
+Vous souhaitez diversifier vos compétences ou devenir expert autour de ces outils
+Une connaissance des dernières versions seraient un atout.Vos atouts : Rigueur, aisance relationnelle & rédactionnelle, sens du service, capacité de synthèse.Intégrer nos équipes au quotidien, ça veut dire quoi ?¿ Vous ferez partie de la communauté Data : la proximité et la taille humaine de notre organisation vous permettront de rendre visible vos initiatives et d'évoquer facilement vos projets. En parallèle, le dynamisme de l'entreprise et sa croissance perpétuelle multiplieront vos opportunités d'évolution. Vous bénéficierez d'un management de proximité par votre mentor tout au long de votre parcours chez VISEO : Votre mentor, consultant expérimenté de votre practice, viendra régulièrement échanger avec vous sur les challenges de votre mission, faire chaque semestre le bilan de vos réalisations et évoquer vos ambitions futures et les moyens de les réaliser.  Vous disposerez de multiples moyens pour monter en compétences et découvrir de nouveaux domaines : formations, certifications, Brown Bag Lunchs, ateliers, meet-ups, rencontre d'experts, séminaires techniques.   #VISEO SPIRIT :  Un programme d'apprentissage en e-learning : accès digital academy et 7-speaking  Un accompagnement pour le bien-être¿: Sophrologie, Yoga, Gymlib, IKVélo .  Deux jours de télétravail par semaine  Du matériel informatique puissant et un double écran  Des locaux agréables proches du parc de la Cité de l'EspaceN'attendez plus, rejoignez VISEO. Devenez un #PositiveDigitalMaker ! ",2022-02-17T19:06:03.000Z,2022-02-17T19:06:03.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),,,,False,1,False,,,,,,,13 - AIX EN PROVENCE,43.52974,5.44743,,13001,VISEO,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9458852, ,"[{'nom': 'CAREERBUILDER', 'url': 'https://www.lesjeudis.com/jobs/J3S2NV6YGTWFP2XLYC3?siteid=int_FRpoleemploi&utm_source=pole_emploi&utm_medium=aggregator&utm_campaign=organic', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/careerbuilder80.png'}]",De ,,,,,,,,,,,,,,
+26,9452382,DATA SCIENTISTE ET ANALYSTE  F/H (H/F),"Rejoindre le CSTB, c'est rejoindre une communauté composée de 971 collaborateurs experts au service de ses clients, de ses partenaires et de l'intérêt général avec pour ambition d'anticiper les bâtiments et la ville de demain, pour améliorer la qualité de vie des usagers. Nos activités clés sont axées autour de la recherche, de l'expertise, de l'évaluation, de la certification, des essais et de la diffusion de connaissances. Depuis 1947, nous accompagnons les acteurs dans l'innovation et la progression de la qualité et de la performance des produits, ouvrages, systèmes et services.
+
+
+
+Rejoindre le CSTB, c'est également rejoindre un employeur engagé, signataire de la Charte de la diversité, qui valorise le travail de chacun et qui s'engage en faveur de l'égalité professionnelle et de l'intégration des travailleurs handicapés. Grâce à ces actions, nous sommes classés parmi les 500 meilleurs employeurs de France d'après la revue économique Capital.
+
+
+
+Alors, prêt(e) à rejoindre l'aventure CSTB ?
+
+
+
+La Direction Technologie de l'Information (DTI) du CSTB recrutement un(e) data scientiste et analyste en CDI.
+
+
+
+La DTI est une équipe de 40 personnes composée d'experts pluridisciplinaires des métiers de la construction et des technologies de l'information. Nous accompagnons la filière construction dans la transition numérique et l'appropriation des nouvelles technologies, dans le cadre de missions d'expertise et de recherche et développement.
+
+
+
+Au sein de la DTI, la division SNO (Services Numériques et dOnnées), basée sur le technopôle de Sophia Antipolis, est constituée de 15 personnes travaillant dans les domaines suivants :
+
+- Le développement de logiciels, d'applicatifs web et de Preuves de concept (POC) pour la conception et la gestion des bâtiments et de la ville : modélisation et visualisation 3D (eveBIM®), gestion de l'Exploitation et de la Maintenance par le BIM (BIM GEM), développement de plateformes web support à la Règlementation (ministère)
+
+- L'utilisation des data sciences et de l'intelligence artificielle : l'élaboration de dictionnaires de données (référentiel) et de vérificateurs de modèles, création de Jumeaux Numérique (bâtiment et ville), élaboration de modèles de prédiction...
+
+
+
+A travers différents projets R&D, en équipe, vos missions seront de :
+
+- Travailler sur les modèles de données et les jeux de données multi sources du bâtiment et de la ville pour les faire interopérer, leurs donner du sens et de la valeur.
+
+- Travailler sur les modèles de données produits et catalogues et leurs liens avec les modèles de villes et bâtiments.
+
+- Utiliser l'IA pour compléter, contextualiser les informations et concevoir des modèles prédictifs de classification pour répondre à des cas d'usages sur le bâtiment ou le territoire.
+
+
+
+Le/la Data Scientiste et analyste, sera, chargé à terme :
+
+- de concevoir des dictionnaires de données (Référentiel) en Linked Data pour des domaines comme la sécurité incendie, l'accessibilité, la prescription de produit... et s'y appuyer pour développer des vérificateurs de modèles (checkers)
+
+- d'élaborer des modèles de prédiction pour évaluer l'évolution des territoires en se basant sur des campagnes d'acquisition annuelle d'images aériennes (dégradation toitures, nouvelles constructions, etc.)
+
+
+
+De formation supérieure BAC+4/5 Data science et data analyse, vous avez une première expérience significative (stage ou alternance).
+
+
+
+Compétences techniques attendues :
+
+- Langages de requête relationnelle et sémantique (SQL, SPARQL)
+
+- Systèmes de Gestion de Base de Données Relationnelles : Postgres,... et SGBD
+
+Sémantiques (GraphDB / Stardog / Virtuoso / Jena... )
+
+- Langage de programmation : Python, PHP, JavaScript
+
+- Frameworks, bibliothèques : PyTorch, TensorFlow,...
+
+
+
+Vous avez un bon niveau rédactionnel en Français. La maitrise de l'anglais, au moins lu est également requise.
+
+
+
+Compétences transverses : 
+
+travail en équipe
+
+curiosité, proactivité
+
+capacité d'analyse, esprit critique 
+
+
+
+Fourchette de rémunération : 34-38keuros
+
+
+
+
+Date de début : 01/02/2022 ",2022-02-17T17:02:25.000Z,2022-02-17T17:02:25.000Z,F1106,Ingénierie et études du BTP,Ingénieur / Ingénieure technique et études de prix,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,False,1,False,,,,,,,Provence-Alpes-Côte d'Azur,,,,,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9452382, ,"[{'nom': 'BATIACTU', 'url': 'https://emploi.batiactu.com/offre-emploi/cstb-data-scientiste-et-analyste--f-h-nice-565587.php?utm_source=candidat.pole-emploi.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/565587', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/batiactu80.png'}]",,,,,,,,,,,,,,,
+27,128FMVM,Data analyst H/F,"Titulaire d'un Bac +5 dans une filière scientifique (physique, chimie, mécanique, biologie, mathématiques...) ou d'un diplôme d'ingénieur et vous avez déjà des bases en programmation et une forte appétence en informatique. 
+
+Postes à pourvoir en CDI sur Aix-en-Provence ou Biot à l'issue de la formation. Vous souhaitez réorienter votre carrière vers un secteur recherché ? Nous vous proposons de vous intégrer à un programme de formation data / digital afin d'acquérir des compétences clés dans le domaine de l'informatique. 
+
+Pour cela, vous intégrerez un cursus de 57 jours avec au programme : 
+
+- Initiation au monde de l'informatique (Methode Agile, Algorithmie, programmation..) 
+- De la base de donnée, avec SQL, NoSql - Des compétences métier : Spark, Hadoop, Docker, PowerBi .. 
+
+Démarrage de la formation prévu le 14/03/2022 en ligne. Les missions qui vous seront confiées avec notre partenaire Sogeti à l'issue de ce programme de formation sont variées et à même de réaliser différents projets pour des clients grands comptes. En tant que Consultant Data, votre principale responsabilité sera d'intégrer une des équipes projet de développement et poursuivre votre montée en compétences autour des technologies/méthodologies digitales. 
+
+Vos compétences techniques consolidées durant la formation vous permettront de vous adapter aux différents projets auxquels vous participerez. Votre sens du service, votre esprit d'équipe, votre autonomie et votre relationnel sont des atouts essentiels qui vous permettront de mener à bien les missions qui vous seront confiées et d'évoluer rapidement au sein de Sogeti.
+",2022-02-16T11:52:42.000Z,2022-03-01T15:23:07.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",39H Horaires normaux,Temps plein,False,2,False,9,Cadre,62,Conseil en systèmes et logiciels informatiques,"[{'libelle': 'Force de proposition', 'description': 'Capacité à être proactif, à initier, à imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou pour améliorer une situation. Exemple : proposer des améliorations, être positif et constructif'}, {'libelle': 'Capacité à fédérer', 'description': ""Capacité à mobiliser une équipe et/ou des interlocuteurs et à les entraîner dans la poursuite d'objectifs partagés. Exemple : être un leader, rassembler""}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",False,13 - AIX EN PROVENCE,43.546605,5.402549,13090,13001,CAPGEMINI TECHNOLOGY SERVICES,False,,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128FMVM,"Sogeti est l'acteur technologique de proximité présent à vos côtés partout en France sur 16 sites. Il fait également partie du groupe Capgemini, et peut mobiliser la force et les savoir faire d'un groupe mondial qui compte plus de 290 000 collaborateurs dans plus de 50 pays à travers le monde. Pour le groupe Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie avec une devise : Get The Future You Want.
+",,"Annuel de 30000,00 Euros à 35000,00 Euros sur 12 mois","[{'niveauLibelle': 'Bac+5 et plus ou équivalents', 'commentaire': 'FILIERE SCIENTIFIQUE', 'exigence': 'E'}]",CAPGEMINI TECHNOLOGY SERVICES - M. Alexandre Pons,https://candidatures.gklearn.online/index.php?option=com_emundus&view=programme&cid=18&Itemid=1531,,https://candidatures.gklearn.online/index.php?option=com_emundus&view=programme&cid=18&Itemid=1531,,,,,"[{'libelle': 'Anglais', 'exigence': 'S'}]","[{'libelle': 'B - Véhicule léger', 'exigence': 'E'}]",https://entreprise.pole-emploi.fr/static/img/logos/g7MGJiLZ12UgBdddzGtPj1pHoNqmkHzj.png,https://www.fr.sogeti.com/a-propos-de-sogeti/sogeti-france/,
+28,9373505,Data scientist (H/F),"Description du poste :
+Rejoignez une équipe dynamique et une entreprise innovante pour devenir notre prochain alternant H/F!
+Diplôme préparé :
+Ingénieur en Intelligence Artificielle DataScience ou cycle universitaire Master 2
+Description du poste :
+La Direction Régionale Provence Alpes du Sud d'Enedis héberge un laboratoire d'intelligence artificielle situé au sein de la Cité de l'Innovation et des Savoir d'Aix Marseille. Ce dernier a pour rôle le développement et le déploiement d'applications intégrant de l'IA.
+Au sein de l'équipe vous aurez la charge des chaînes d'intégration et de déploiement continu des applications développées dans une démarche MLOps (Machine Learning Operations).
+Votre mission consiste à :
+- Identifier les besoins et la problématique des utilisateurs finaux.
+- Concevoir les architectures.
+- Concevoir les chaines CI/CD.
+- Assurer le déploiement sur la plateforme Kubernetes.
+Pour en savoir plus, allez sur www.enedis.fr et consultez nos fiches et vidéos métiers :
+https://youtu.be/GI1k-MoJNkk
+www.enedis.fr/alternance et www.enedis.fr/découvrir-nos-métiers
+Avantages :
+- Aides financières sous conditions (logement, mutuelle, transports, permis, restauration méridienne au tarif le plus bas.)
+- Prime d'intéressement avec possibilité d'abondement
+- 30 jours de congés payés par an, (quel que soit le type de contrat) + 5 jours de congés accordés pour les révisions
+- Comité d'entreprise (vacances, culturel...)
+Description du profil :
+Diplômes demandés :
+Titulaire du Master 1 Ingénieur en Intelligence Artificielle DataScience ou cycle universitaire.
+Vos atouts :
+Vous avez des compétences en data science (Gitlab CI/CD, Docker, Kubernetes). Des connaissances en technologie IA (python, torch ...) seront également appréciées.
+Aisance relationnelle
+Sens des responsabilités
+Capacité d'adaptation
+Rigueur
+Merci de joindre à votre candidature votre CV, une lettre de motivation, ainsi que vos bulletins scolaires des 2 dernières années.
+Conformément aux engagements pris par Enedis en faveur de l'accueil et de l'intégration des personnes en situation de handicap, cet emploi est ouvert à toutes et à tous sous réserve de l'accord de la médecine du travail. ",2022-02-16T12:42:51.000Z,2022-02-16T12:42:51.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDD,Contrat à durée déterminée - 12 Mois,Contrat apprentissage,D,Débutant accepté,,,,True,1,False,,,,,,,13 - MARSEILLE 07,43.282,5.405,,13207,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9373505,"Enedis est une entreprise de service public, gestionnaire du réseau de distribution d'électricité. Elle développe, exploite, modernise le réseau électrique et gère les données associées. Elle facilite la transition énergétique des territoires en les accompagnant dans le développement et la planification de leur production d'électricité d'origine renouvelable. Ses 39 000 collaborateurs assurent chaque jour les raccordements des clients, le dépannage 24h/24, le relevé des compt... ","[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-scientist-h-f-marseille-provence-alpes-cote-d-azur-energie-alternance-apprentissage-21108009', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]",,,,,,,,,,,,,,,
+29,9367380,Ingénieur Data (H/F),"Qui sommes-nous ? 
+ Fulll a pour mission d'aider les experts-comptables et les chefs d'entreprises à piloter leur activité et à accompagner leurs clients.
+ Fulll édite :
+ · Les outils SAAS les plus complets de production comptable, fiscale et social à destination des experts-comptables et des PME
+ · Les meilleurs outils de pilotage d'entreprises (TPE/PME) : gestion documentaire, tableau de bord, suivi des dépenses et des recettes
+ Toutes ces solutions permettent aux entreprises et à leurs experts-comptables de simplifier leur processus comptables et financiers, pour une meilleure capacité de pilotage et d'accompagnement.
+ Aujourd'hui fulll c'est 500 cabinets d'expertise-comptable accompagnés quotidiennement pour 200 000 entreprises connectés.
+ Fulll est né en mars 2021 de la réunion de plusieurs éditeurs. Aujourd'hui c'est 200 personnes sur 3 sites : Lyon, Aix en Provence et Rouen.
+ Sur 2022, nous recrutons 50 personnes dans notre équipe. JOIN US !
+ Qui cherchons-nous ? En tant qu'Ingénieur Data, vous avez la charge de la mise en place des pipelines d'intégration et de traitement de données pour pouvoir développer de nouveaux algorithmes de machine learning.
+ Vous avez aussi la charge du maintien et de la mise à jour de notre data lake et de nos nombreux ETL. Vous travaillez main dans la main avec nos architectes et data scientists pour mettre en place la gestion des données pour nos futurs produits. Vous avez pour objectif de rendre nos outils proactifs, de guider le chef d'entreprise dans ses décisions, grâce à l'analyse d'un ensemble de données (non) structurées et multisources.
+ Vous pourrez voir l'impact de votre travail sur des centaines de milliers de clients et contribuer de façon agile à l'ensemble de notre portfolio de services.
+ Quel sera votre quotidien ? · Concevoir et développer des preuves de concepts en réponse à des besoins clients
+ · Appuyer les équipes techniques dans l'implémentation de nouvelles fonctionnalités
+ · Traduire des problèmes business en schéma de données efficaces et scalables
+ · Mise en place de stack de transport et traitement de données comme source pour nos nouvelles applications
+ · Mise en production de ces pipelines et monitoring pour un impact direct sur des milliers de clients
+ · Explorer et donner du sens aux nombreuses sources de données que nous traitons sur les entreprises clientes de Fulll
+ · Participation au rayonnement technique de l'équipe
+ Quelles sont les qualités requises ? En tant qu'ingénieur data, vous avez un minimum de deux ans d'expérience de développement data ops et Big Data, et de mise en production des pipelines.
+ Vous avez de l'expérience dans la création d'API et le datamining. Vous avez même peut-être contribué à améliorer un ou plusieurs projets open source. Vous maîtrisez SQL et python et vous avez de l'expérience de la gestion de données non structurées comme structurées à grande échelle.
+ Vous prenez soin de créer un code propre et performant, utilisant de façon efficace les concepts de data structure/pattern. Vous êtes capable d'expliquer avec des mots simples vos choix techniques.
+ Vous maîtrisez l'anglais et pouvez lire des articles scientifiques en anglais. Une expérience avec les services AWS et infrastructures As code (Terraform) serait un atout.
+ Vous avez des compétences en :
+ · Data Pipelines : Serverless ETL tools (Airflow, Glue, Cloud Data Fusion)
+ · Data Lake : Mise en place d'un Data Lake avec Coordinating ETL jobs et donc les problématiques de Datamart, Access management, Anonymisations)
+ · Dataviz : Connaissance d'au moins un outil de BI (Tableau, Power BI.)
+ · MLOps : Connaissance d'outils (Sagemaker, AutoML, etc.)
+ · Infrastructure cloud, Docker, Kubernetes, RDS, Elastic search
+ Qu'est que nous vous offrons ? · Une rémunération fixe + bonus à la performance
+ · Toutes les 5 semaines : des workshops
+ · Du bon café gratuit pour bien travailler
+ · Des corbeilles de fruits pour faire le plein de vitamines
+ · Des participations aux conférences qui comptent (React Europe, Devoxxx, ...)
+ · Des horaires aménagés et du remote (3 jours par semaine)
+ · Une carte Swile
+ Statut : Cadre
+ Type d'emploi : Temps plein, CDI
+ Avantages :
+ * Horaires flexibles
+ * RTT
+ * Titre-restaurant
+ Horaires :
+ * Du Lundi au Vendredi
+ * Repos le week-end
+ * Travail en journée
+ Rémunération supplémentaire :
+ * Primes
+ ",2022-02-16T09:03:47.000Z,2022-02-16T09:03:47.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,False,1,False,,,,,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9367380, ,"[{'nom': 'INDEED', 'url': 'https://www.indeed.fr/emploi/ing%C3%A9nieur-data-5a55aa8828632fae?from=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/indeed80.png'}]",,,,,,,,,,,,,,,
+30,128CNDQ,Data Scientist Sénior      (H/F),"Au sein de nos équipes de data science, nous recherchons notre futur data scientist pour nous accompagner dans différents projets mettant en oeuvre les techniques fondamentales de statistiques prédictives (Machine Learning).
+ 
+Vous aurez de nombreuses missions telles que : 
+ 
+- Analyse et synthèses des attentes fonctionnelles et techniques 
+- Analyse du patrimoine de données 
+- Définition d'une modélisation statistique qui permette de répondre aux attentes
+- Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse
+- Etude et comparaison des méthodes statistiques (ACP, régression logistique, random forest )
+- Mise en oeuvre et exploitation des méthodes et modèles (R, SAS, Python, SPSS )
+- Recherche d'optimisation des performances des algorithmes 
+- Analyse et synthèse des informations et des résultats
+- Veille technologique autour du Big Data, machine learning et de la statistique décisionnelle
+- Participer à la qualification de la solution 
+ 
+Profil:
+ 
+Vous êtes diplômé(e) d'une école d'ingénieur ou universitaire
+La pratique quotidienne de l'anglais ne vous fait pas peur. Alors venez vivre l'expérience au sein d'une société dynamique et innovante !",2022-02-15T10:47:54.000Z,2022-02-28T12:54:22.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '118732', 'libelle': 'Réaliser une veille documentaire (collecte, analyse etc.)', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,71,"Ingénierie, études techniques",,False,06 - BIOT,43.628198,7.084843,06410,06018,CLEEVEN SE,False,,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128CNDQ,"Cleeven, Cabinet de conseil en technologie s'est construit autour de deux fortes convictions :
+L'excellence des Ingénieurs européens doit assurer la compétitivité mondiale
+Notre mission humaine ; l'accompagnement de nos collaborateurs dans leur développement personnel.
+Ces convictions se déclinent en implications concrètes dans le quotidien de chacun.
+
+",,"Annuel de 25000,00 Euros à 40000,00 Euros sur 12 mois",,CLEEVEN SE - Mme Laura Burcklé,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128CNDQ",,,,,,,,,,http://www.cleeven.com,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128CNDQ"
+31,128CKPJ,Ingénieur Big Data        (H/F),"Poste et mission:
+
+Nous recherchons notre futur talent Ingénieur Big Data pour rejoindre notre équipe de Sophia Antipolis. Vous interviendrez sur différents projets chez nos clients, des leaders reconnus. Les technologies concernées sont entre autres (Veille technologique aussi dans ce poste) :
+Apache Spark (développement Scala/Python), Hadoop (HDFS, Yarn), Notebook Jupyter, Git.
+
+Dans ce contexte, vous interviendrez sur les phases suivantes : 
+
+Pilotage projets :
+- Participation à l'organisation et la planification des projets.
+- La coordination des différents acteurs des projets.
+
+Phase de conception / de développement :
+- Définition du besoin avec les utilisateurs métiers.
+- Construction et évolution de la plateforme technique
+- Spécification et développement des applications.
+- Tests unitaires et intégrés.
+
+Phase de recette :
+- Conception, planification et coordination des tests avec l'équipe projet
+- Participation à la correction des incidents.
+- Suivi des corrections des incidents, mise à jour des documents projets
+
+Phase de déploiement :
+- Rédaction de guides utilisateurs
+- Formation
+- Transmission aux équipes de support
+
+
+Profil:
+
+Vous êtes diplômé(e) d'une école d'ingénieur ou universitaire ou d'un BAC +5 en école de commerce. 
+La pratique quotidienne de l'anglais ne vous fait pas peur. Alors venez vivre l'expérience au sein d'une société dynamique et innovante !",2022-02-15T10:14:04.000Z,2022-02-24T15:22:01.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,"[{'code': '109846', 'libelle': 'Concevoir et développer les programmes et applications informatiques', 'exigence': 'S'}, {'code': '117309', 'libelle': 'Établir un cahier des charges', 'exigence': 'S'}, {'code': '121055', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '121398', 'libelle': 'Analyser des problèmes techniques', 'exigence': 'S'}, {'code': '124517', 'libelle': 'Rédiger une Spécification Technique de Besoin (STB)', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,71,"Ingénierie, études techniques",,False,06 - BIOT,43.628198,7.084843,06410,06018,CLEEVEN SE,False,,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128CKPJ,"Cleeven, Cabinet de conseil en technologie s'est construit autour de deux fortes convictions :
+L'excellence des Ingénieurs européens doit assurer la compétitivité mondiale
+Notre mission humaine ; l'accompagnement de nos collaborateurs dans leur développement personnel.
+Ces convictions se déclinent en implications concrètes dans le quotidien de chacun.
+
+",,"Annuel de 25000,00 Euros à 40000,00 Euros sur 12 mois",,CLEEVEN SE - Mme Laura Burcklé,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128CKPJ",,,,,,,,,,http://www.cleeven.com,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128CKPJ"
+32,9325219,Ingénieur architecte Big-Data CEDRE - PIA IDeAL F/H (H/F),"RESPONSABILITÉS : 
+
+Aix-Marseille Université et ses partenaires sont lauréats du 3ème plan d'investissement d'avenir pour le projet « Integration and Development at Aix-Marseille through Learning » (IDeAL). L'une des actions phares d'IDeAL est la création du CEntre de formation et de soutien aux Données de la REcherche (CEDRE). CEDRE vise à structurer la communauté des acteurs de la recherche dans toutes les disciplines autour d'une problématique commune : les données.
+Missions
+L'ingénieur·e recruté·e sur le poste d'architecte big-data est l'expert en création et gestion de bases de données du programme CEDRE. Il intervient sur des missions variées auprès des laboratoires producteurs de données pour définir les solutions SGBD adapté à un besoin spécifique pour des données au format unique. Il assure la mise en fonction de ces solutions dans les unités de recherche ou au Data Center régional AMU en collaboration avec les administrateurs systèmes des laboratoires, de CEDRE et du Data Center. Enfin, l'ingénieur·e recruté·e participe à la création d'une toolbox et d'une offre de formation pour promouvoir les démarches FAIR appliquées aux SGBD aux acteurs de la recherche du site d'Aix-Marseille.
+Activités principales :  - Définir un modèle de base de données pour répondre à un besoin spécifique (architecture, contrôle qualité/intégrité, gestion des espaces et accès, sécurité) ;
+ - Créer des bases de données et des outils de gestion de ces bases en lien avec les scientifiques producteurs des données et les administrateurs systèmes locaux/CEDRE/Data-Center ;
+ - Créer une toolbox SGBD pour les acteurs de la recherche ;
+ - Assurer une veille technologique ;
+ - Assurer la documentation des outils développés et une continuité de service sur l'ensemble des missions ;
+ - Possibilité de participer à la création de formations et l'organisation d'événements autour de la donnée ;
+ - Possibilité de contribuer au développement des algorithmes d'analyses et aux outils de visualisation des données.
+
+PROFIL RECHERCHÉ : 
+
+Compétences « métier » :  - Compétences avancées en gestion et langages de bases de données (Oracle, MySQL, SyBase, SQL Server, NoSQL,...)
+ - Compétences en outils de traitement des données volumineuses
+ - Compétences dans un ou plusieurs langages de programmation : Python, C/C++, R, MatLab
+ - Compétences en environnements Linux et Windows
+ - Compétences en rédaction et communication technique et aptitudes à la vulgarisation
+ - Connaissance de l'anglais technique, écrit et parlé
+Seraient un plus :
+ - Connaissances en outils de visualisation et outils web : JAVA, HTML, .
+ - Connaissances en CI/CD.
+Compétences « transverses » :  - Capacité d'analyse méthodique et sens relationnel
+ - Sens de l'initiative et créativité
+ - Curiosité et ouverture d'esprit aux divers enjeux connectés à la problématique
+ - Savoir gérer des priorités et veiller au respect des délais
+ - Etre rigoureux et réactif
+ - Aptitude au travail collaboratif dans une équipe d'informaticiens et de chercheurs
+ - Capacité rédactionnelle, savoir rendre compte synthétiquement des actions entreprises et des réalisations
+Environnement et contexte de travail Connexion avec l'écosystème autour des données de la recherche :
+ - Unité de recherche - chercheurs et ingénieurs
+ - Mésocentre d'Aix-Marseille Université
+ - Data Center et Direction Opérationnelle des Systèmes d'Information (DOSI).
+Diplôme réglementaire exigé :  - Doctorat, diplômes d'ingénieur
+ - Domaine de formation : filière informatique.
+Rémunération à négocier. ",2022-02-15T21:19:47.000Z,2022-02-17T16:09:31.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDD,Contrat à durée déterminée - 36 Mois,Contrat travail,E,Expérience exigée,,35 H  Horaires normaux,Temps plein,False,1,False,9,Cadre,,,,,13,43.282,5.405,,13055,Aix Marseille Université,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9325219,"Et si vous rejoigniez une structure en pleine mutation vers l'université de demain ?
+Au premier rang des universités françaises et francophones, Aix-Marseille Université (AMU) regroupe 78 000 étudiants, 8 000 personnels,
+122 structures de recherche en lien avec les plus grands organismes dans ce domaine et un budget de 720 M€.
+5 grands campus accueillent les étudiants et tous les champs universitaires qu'il est possible d'étudier en France.
+La diversité des sit... ","[{'nom': 'BEETWEEN', 'url': 'https://emploi.beetween.com/apply/job/osulaje5558/ingenieur-architecte-big-data-cedre-pia-ideal-f-h', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/beetween80.png'}]",,,,,,,,,,,,,,,
+33,9325104,Ingénieur architecte Cloud Big-Data CEDRE - PIA IDeAL F/H (H/F),"RESPONSABILITÉS : 
+
+Aix-Marseille Université et ses partenaires sont lauréats du 3ème plan d'investissement d'avenir pour le projet « Integration and Development at Aix-Marseille through Learning » (IDeAL). L'une des actions phares d'IDeAL est la création du CEntre de formation et de soutien aux Données de la REcherche (CEDRE). CEDRE vise à structurer la communauté des acteurs de la recherche dans toutes les disciplines autour d'une problématique commune : les données.
+Missions L'ingénieur recruté sur le poste d'architecte cloud pour big-data développera un cloud scientifique mutualisant les ressources de calcul de plusieurs sites sur AMU. Ce système sera conçu à partir d'un système développé par les équipes scientifiques des laboratoires d'AMU et en collaboration avec l'ingénieur cloud du mésocentre. Ce système aura pour but de mutualiser les moyens de calcul (GPU et CPU en premier lieu) des laboratoires et d'administrer le déploiement de codes de calcul. L'ingénieur recruté assurera ensuite le déploiement du système sur d'autres sites et formera les ingénieurs des unités de recherche à l'administration du cloud. Par la suite, l'ingénieur·e recruté·e occupera le rôle d'expert en systèmes de traitement des données pour le calcul scientifique du programme CEDRE. Il accompagnera le chef de projet et le responsable technique dans le traitement des besoins en outils de calcul des acteurs de la recherche scientifique (choix des plateformes, dimensionnement des besoins, etc).
+ 
+Activités principales :  - Conception d'un système cloud soutenant plusieurs architectures (CPU et GPU, environnements HPC et HTC) et distribué sur plusieurs sites dans AMU
+ - Assurer la bonne migration des données dans le cloud pour son traitement sur différents sites 
+ - Mise en place du service d'administration dans les laboratoires et expert « on-call »
+ - Intégrer et maintenir en fonctionnement des systèmes de traitement des données et de calcul scientifique
+ - Développer des codes pour répondre à des problèmes spécifiques 
+ - Assurer une veille technologique
+ - Assurer la documentation des outils développés et une continuité de service sur l'ensemble des missions
+ - Possibilité de contribuer au développement des algorithmes d'analyses et aux outils de visualisation des données 
+ - Possibilité de participer à la création de formations et l'organisation d'événements autour de la donnée.
+ 
+
+PROFIL RECHERCHÉ : 
+
+Compétences « métier » :  - Compétences avancées en outils de déploiement/gestion de systèmes cloud (OpenStack, Kubernetes,...) 
+ - Compétences avancées en conteneurisation (Docker, LXC, singularity,...), CI /CD et virtualisation 
+ - Compétences en systèmes de calcul distribués et traitements big-data 
+ - Compétences dans un ou plusieurs langages de programmation : Python, C/C++, R, MatLab
+ - Compétences en environnements Linux et Windows
+ - Compétences en rédaction et communication technique et aptitudes à la vulgarisation
+ - Connaissance de l'anglais technique, écrit et parlé
+Seraient un plus :
+ - Connaissances en outils de visualisation et outils web : JAVA, HTML
+ - Connaissances en analyse statistique et/ou machine learning.
+Compétences « transverses » :  - Capacité d'analyse méthodique et sens relationnel
+ - Sens de l'initiative et créativité
+ - Curiosité et ouverture d'esprit aux divers enjeux connectés à la problématique
+ - Savoir gérer des priorités et veiller au respect des délais
+ - Etre rigoureux et réactif
+ - Aptitude au travail collaboratif dans une équipe d'informaticiens et de chercheurs
+ - Capacité rédactionnelle, savoir rendre compte synthétiquement des actions entreprises et des réalisations
+Environnement et contexte de travail Connexion avec l'écosystème autour des données de la recherche :
+ - Unité de recherche - chercheurs et ingénieurs
+ - Mésocentre d'Aix-Marseille Université
+ - Data Center et Direction Opérationnelle des Systèmes d'Information (DOSI).
+Diplôme réglementaire exigé :  - Doctorat, diplômes d'ingénieur
+ - Domaine de formation : filière informatique.
+Rémunération à négocier. ",2022-02-15T21:19:27.000Z,2022-02-17T16:09:08.000Z,M1802,Expertise et support en systèmes d'information,Expert / Experte méthodes et outils en informatique,CDD,Contrat à durée déterminée - 36 Mois,Contrat travail,E,Expérience exigée,,35 H  Horaires normaux,Temps plein,False,1,False,9,Cadre,,,,,13,43.282,5.405,,13055,Aix Marseille Université,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9325104,"Et si vous rejoigniez une structure en pleine mutation vers l'université de demain ?
+Au premier rang des universités françaises et francophones, Aix-Marseille Université (AMU) regroupe 78 000 étudiants, 8 000 personnels,
+122 structures de recherche en lien avec les plus grands organismes dans ce domaine et un budget de 720 M€.
+5 grands campus accueillent les étudiants et tous les champs universitaires qu'il est possible d'étudier en France.
+La diversité des sit... ","[{'nom': 'BEETWEEN', 'url': 'https://emploi.beetween.com/apply/job/ffr5vhdo1h8/ingenieur-architecte-cloud-big-data-cedre-pia-ideal-f-h', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/beetween80.png'}]",,,,,,,,,,,,,,,
+34,9277220,ALTERNANCE - INGÉNIEUR IA - DATA SCIENTIST (H/F),"Recherche: ALTERNANCE - INGÉNIEUR IA - DATA SCIENTIST (H/F)
+Rejoignez une équipe dynamique et une entreprise innovante pour devenir notre prochain alternant H/F!
+Diplôme préparé :
+Ingénieur en Intelligence Artificielle DataScience ou cycle universitaire Master 2
+Description du poste :
+La Direction Régionale Provence Alpes du Sud d'Enedis héberge un laboratoire d'intelligence artificielle situé au sein de la Cité de l'Innovation et des Savoir d'Aix Marseille. Ce dernier a pour rôle le développement et le déploiement d'applications intégrant de l'IA.
+Au sein de l'équipe vous aurez la charge des chaînes d'intégration et de déploiement continu des applications développées dans une démarche MLOps (Machine Learning Operations).
+Votre mission consiste à :
+- Identifier les besoins et la problématique des utilisateurs finaux.
+- Concevoir les architectures.
+- Concevoir les chaines CI/CD.
+- Assurer le déploiement sur la plateforme Kubernetes.
+Pour en savoir plus, allez sur  et consultez ... ",2022-02-15T10:01:13.000Z,2022-02-15T10:01:13.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDD,Contrat à durée déterminée - 12 Mois,Cont. professionnalisation,D,Débutant accepté,,,,True,1,False,,,,,,,13 - MARSEILLE 01,43.282,5.405,,13201,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9277220, ,"[{'nom': 'JOBINTREE', 'url': 'https://www.jobintree.com/offre-emploi/enedis-7896/alternance-ingenieur-ia-data-scientist-42204032?utm_source=pole-emploi&utm_medium=flux-offres&utm_campaign=partenaire', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobintree80.png'}]",,,,,,,,,,,,,,,
+35,9240350,Data scientist (H/F),"Rattaché(e) à l'équipe R&D constituée de deux Data Scientists, directement rattaché(e) au directeur technique, vous intervenez sur la conception et l'amélioration continue du socle de données BigData. Véritable interlocuteur des différentes équipes techniques (Equipes produits, Data Scientists, DevOps), vous avez comme principales responsabilités :-  La sélection et la mise en place de solutions techniques stockage et de traitement des données à grande échelle.-  Le développement et le maintien en condition opérationnelle des services et outils constituant le pipeline de collecte et d enrichissement des données-  Le traitement de données et la mise en place de Dashboard en lien direct avec les Data Analysts-  La participation sur des projets transverses en lien avec l'amélioration continue des bonnes pratiques de sécurité.Environnement technique : Linux, Python, Spark, Databricks, Synapse, Go, Git, Jenkins, VMware, Azure (VM, Blob, Service Bus, Datalake), Docker, Kubernetes, ELK, MongoDB, MySQL, API REST, SMTP De formation supérieure en Informatique, vous possédez un minimum de 2 années d'expérience sur un poste similaire dans lequel vous avez pu évoluer dans le traitement de gros volumes de données.Vous aimez le travail en équipe et avez une sensibilité pour les problématiques de cybersécurité.Vous maitrisez idéalement le langage Python (ou équivalent), SQL et les outils d'intégration continue GIT et Jenkins.Poste à pourvoir dans le cadre d'un CDI.Rémunération comprise entre 40K€ et 50K€ brut annuel selon profil et expérience + nombreux avantages.Période de préavis acceptée.  ",2022-02-14T22:01:42.000Z,2022-02-14T22:01:42.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),,,,False,1,False,,,,,,,13 - MARSEILLE 01,43.282,5.405,,13201,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9240350,"Manpower Digital Experts & Cadres recherche pour son client, acteur majeur dans le secteur de la cybersécurité, un Data Engineer (H/F) dans le cadre d'un CDI basé sur Marseille Centre-ville.  ","[{'nom': 'MANPOWER', 'url': 'http://www.manpower.fr/emplois/voirOffre?idOffre=1100527253&partenaire=PoleEmploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/manpower80.png'}]","Annuel de 40000,00 Euros ï¿½ 50000,00 Euros",,,,,,,,,,,,,,
+36,9236489,URBANISTE Data Center F/H (H/F),"En choisissant FDJ, vous rejoignez un groupe performant et responsable, à la pointe de la technologie. 
+Avec 23 millions de clients, 30 000 commerçants partenaires et 2500 collaborateurs, nous nous développons dans le secteur des jeux, et dans de nouvelles activités de divertissement, de paiements et de services BtoB dans un environnement international. 
+Chaque jour, plus de 750 collaborateurs des technologies de l'information - premier métier du Groupe - travaillent ensemble pour développer des solutions technologiques de haute performance. Nous rejoindre, c'est prendre part au développement de nos offres digitales en profitant de nombreuses opportunités dans un cadre de travail dynamique et bienveillant.
+Passionné(e) par la technologie et le numérique, vous aimez relever des challenges en équipe dans un environnement doté de moyens de premier plan et riche de nombreux projets ? Nous recherchons des professionnels de la tech talentueux, avec une expérience diversifiée, qui souhaitent donner un nouvel élan à leur carrière en ayant de l'impact dans la transformation du Groupe !
+Vous intégrerez le Data Center & Network Operations pour piloter l'activité du Data Center en définissant une roadmap à 5 ans et le capacity planning en proposant des évolutions d'architectures tout en tenant compte des contraintes techniques, organisationnelles et financières.
+Vous adapterez les règles et standards d'urbanisation des infrastructures en fonction des besoins nouveaux ou de leurs évolutions et piloterez l'activité Data Center en mettant en place une gouvernance et une comitologie du suivi exploitation basée sur des KPIs et le PUE.
+Vous aurez à collaborer avec les équipes internes FDJ afin de d'adapter et d'optimiser les paramètres environnementaux en regard des enjeux de la raison d'être de la Française Des Jeux.
+Vous participerez :
+- à la relation technique avec les fournisseurs / mainteneurs importants et les autres entités de la Direction Technique tout en assurant la gestion des contrats.
+- au Maintien en Condition Opérationnelle et la gestion de l'obsolescence des infrastructures Data Center.
+Vous accompagnerez la transformation par de l'automatisation de process sur le périmètre Data Center et des outils techniques de gestion des Data Center et participerez à la mise en œuvre de l'ensemble de ces infrastructures et mener les projets d'infrastructures techniques
+Vous effectuerez et participerez aux audits techniques concernant la bonne application des règles d'urbanisation
+Profil :
+Ingénieur(e) senior dans les domaines courant faible, mécanique et systèmes, vous maîtrisez les interactions d'unSystème d'Informations ?
+Vous disposez de bonnes connaissances en aérothermie, courant fort, ingénierie mécanique et normes Data Center ?
+N'hésitez plus, déposez votre candidature !
+Informations :
+Lieu: Vitrolles (13)
+Poste: URBANISTE DATA CENTER
+Outils informatique: Suite Office 365 / Service Now / BMC
+Coefficient mini: 2C
+Nombre de poste à pourvoir: 1
+Activités proposées / Relations internes & externes (Suite): Vous évoluerez au sein d'un environnement technique
+- Baie Rittal
+- Cablâge Systimax
+- PDU Legrand
+- Référentiel DataCenter BMC
+- Suite Office 365
+Missions principales et responsabilités permanentes: En choisissant FDJ, vous rejoignez un groupe performant et responsable, à la pointe de la technologie. 
+Avec 23 millions de clients, 30 000 commerçants partenaires et 2500 collaborateurs, nous nous développons dans le secteur des jeux, et dans de nouvelles activités de divertissement, de paiements et de services BtoB dans un environnement international.
+Chaque jour, plus de 750 collaborateurs des technologies de l'information - premier métier du Groupe - travaillent ensemble pour développer des solutions technologiques de haute performance. Nous rejoindre, c'est prendre part au développement de nos offres digitales en profitant de nombreuses opportunités dans un cadre de travail dynamique et bienveillant.
+Passionné(e) par la technologie et le numérique, vous aimez relever des challenges en équipe dans un environnement doté de moyens de premier plan et riche de nombreux projets ? Nous recherchons des professionnels de la tech talentueux, avec une expérience diversifiée, qui souhaitent donner un nouvel élan à leur carrière en ayant de l'impact dans la transformation du Groupe !
+Vous intégrerez le Data Center & Network Operations pour piloter l'activité du Data Center en définissant une roadmap à 5 ans et le capacity planning en proposant des évolutions d'architectures tout en tenant compte des contraintes techniques, organisationnelles et financières.
+Compétence linguistique :
+Anglais
+Scolaire ",2022-02-14T21:20:35.000Z,2022-02-14T21:20:35.000Z,K1802,Développement local,Urbaniste,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,6,Employé qualifié,,,,,13 - VITROLLES,43.445129,5.257679,,13117,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9236489, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/bdcbb21ceb80becb417d7f6f4535a642', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+37,9184579,Ingénieur Data Instructor - CEDRE - Projet PIA IDeAL F/H (H/F),"RESPONSABILITÉS : 
+
+Le projet IDeAL, « Integration and Development at Aix-Marseille through Learning », porté par AMU et ses partenaires académiques, est lauréat du 3ème Programme d'Investissement d'Avenir. En lien direct avec l'Initiative d'Excellence, il vise, au cours des prochaines années, à développer nos talents et à fédérer notre communauté. Il permettra de faciliter et d'accélérer la mise en œuvre de CIVIS, l'alliance d'universités européennes, et des projets PIA. Il fournira à la communauté les outils nécessaires pour faire face aux évolutions futures des métiers et des usages.
+L'activité s'exerce dans le cadre du programme 2 du projet Idéal qui consiste en la mise en œuvre du centre de formation et de soutien aux données de recherche (CEDRE). Ce centre vise à répondre aux besoins de la communauté universitaire sur tous les aspects du cycle de la vie des données de la recherche en fournissant des services de soutien et de formation pour développer de nouvelles pratiques parmi les chercheurs, ingénieurs et étudiants dans tous les domaines scientifiques. Ce centre est un pôle d'activité de la Direction Opérationnelle des Systèmes d'Information dédié à l'activité recherche. Il sera composé de trois divisions, une Division Technique de déploiement des services qui utilisera les ressources du Data Center d'AMU, une Division Data pour définir et mettre en places les moyens de gestion des données, et une Division pédagogique.
+Missions :
+Nous recrutons un ingénieur instructeur en données pour intégrer la division pédagogique du projet CEDRE. Il crée et anime des cours et événements (ateliers, hackatons...) pour former la communauté aux meilleurs pratiques en matière de gestion des données. L'ingénieur recruté travaillera également avec l'équipe data à la mise en place d'outils de visualisation des données et d'open data pour répondre aux besoins techniques de la recherche et faciliter la diffusion scientifique au grand public.
+Activités principales :
+ - Création et animation de formations pour les chercheurs, ingénieurs et étudiants en doctorat d'Aix-Marseille Université et ses partenaires (approche par compétence, cycles complets de formations,...) ;
+ - Création et animation d'événements de sensibilisation et d'ateliers autour des données de la recherche, organisation de hackatons ;
+ - Développer des outils de visualisation et d'analyse des données avec les data scientists et les acteurs de la recherche ;
+ - Réaliser un état des lieux des formations existantes, travailler avec les collaborateurs et les partenaires (notamment l'école de développement des talents du programme 1 IDeAL en cours de création sur le site d'Aix-Marseille) pour créer une offre complète de formations autour de la data ;
+ - Participer à la mise en place de plateforme numérique pour la formation sur les données de la recherche.
+
+PROFIL RECHERCHÉ : 
+
+Compétences « métier » :
+ - Expertise en planification et méthodes de gestion des données ;
+ - Compétences avancées dans un ou plusieurs langages de programmation : Python, C/C++, R, MatLab ;
+ - Compétences techniques avancées dans au moins deux des domaines suivants :
+ - Création et maintenance de bases de données (SQL, NoSQL, .),
+ - Outils de traitement des données volumineuses (Big Data),
+ - Intégrations de systèmes de calcul massifs (HPC, HTC, GPU, .),
+ - Analyse statistique, modélisation et intelligences artificielles ;
+ - Machine Learning et Deep Learning ;                                                                                     
+ - Compétences en outils de visualisation des données (JAVA scripting ou autres) ;
+ - Compétences en conception et animation de formation, en communication ;
+ - Connaissances avancées en réglementation et sécurité des données ;
+ - Compétences en rédaction et communication technique et aptitude à la vulgarisation ;
+ - Connaissance de l'anglais technique, écrit et parlé ;
+ - Expérience en enseignement appréciée.
+ 
+Compétences « transverses » :
+ - Capacité d'analyse méthodique et sens relationnel ;
+ - Savoir développer une approche pédagogique, être patient ;
+ - Sens de l'initiative et créativité ;
+ - Curiosité et ouverture d'esprit aux divers enjeux connectés à la problématique ;
+ - Savoir gérer des priorités et veiller au respect des délais ;
+ - Être rigoureux et réactif ;
+ - Aptitude au travail collaboratif dans une équipe d'informaticiens et de chercheurs ;
+ - Capacité rédactionnelle, savoir rendre compte synthétiquement des actions entreprises et des réalisations ;
+ 
+Environnement et contexte de trav  ",2022-02-13T11:42:27.000Z,2022-02-17T16:07:53.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDD,Contrat à durée déterminée - 36 Mois,Contrat travail,E,Expérience exigée,,35 H  Horaires normaux,Temps plein,False,1,False,9,Cadre,,,,,13,43.282,5.405,,13055,Aix Marseille Université,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9184579,"Et si vous rejoigniez une structure en pleine mutation vers l'université de demain ?
+Au premier rang des universités françaises et francophones, Aix-Marseille Université (AMU) regroupe 78 000 étudiants, 8 000 personnels,
+122 structures de recherche en lien avec les plus grands organismes dans ce domaine et un budget de 720 M€.
+5 grands campus accueillent les étudiants et tous les champs universitaires qu'il est possible d'étudier en France.
+La diversité des sit... ","[{'nom': 'BEETWEEN', 'url': 'https://emploi.beetween.com/apply/job/03h7qguah58/ingenieur-data-instructor-cedre-projet-pia-ideal-f-h', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/beetween80.png'}]",,,,,,,,,,,,,,,
+38,9168296,Data analyst (H/F),"Description du poste :
+L'équipe dans lequel vous travaillerez a entre autres taches la digitalisation et automatisation de la gestion documentaire afin de renforcer la qualité et la robustesse de leurs archives qui sont régulièrement auditées par l'EASA.
+Voici les missions à remplir:
+- Preparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Assurer tous les processus et la documentation développés et maintenus dans la machine (aéronef).
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Garantir la traçabilité des donnees
+Description du profil :
+Vous devez être titulaire d'un Bac+2 et avoir au moins 3 années d'expérience.
+Vous justifiez d'une première expérience sur un poste similaire (expérience réussie dans le pilotage de projet orientés data)
+Anglais courant impératif ",2022-02-11T08:58:22.000Z,2022-03-01T10:49:33.000Z,M1403,Études et prospectives socio-économiques,Data analyst,MIS,Mission intérimaire - 4 Mois,Contrat travail,E,Expérience exigée de 3 An(s),,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.415837,5.220936,,13054,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9168296,"Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !
+Parce que l'aéronautique est un métier d'experts, votre agence Randstad, 100 % spécialisée, est en recherche permanente de nouvelles compétences et vous offre de nombreuses opportunités d'emploi. Nous recherchons pour le compte de notre client, leader du secteur aéronautique, un data analyst (F/H) po... ","[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-analyst-h-f-marignane-provence-alpes-cote-d-azur-interim-21044403', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]","Mensuel de 2058,00 Euros",,,,,,,,,,,,,,
+39,9132531,Alternance - Ingénieur IA - Data scientist H/F,"Rejoignez une équipe dynamique et une entreprise innovante pour devenir notre prochain alternant H/F!
+Diplôme préparé :
+Ingénieur en Intelligence Artificielle DataScience ou cycle universitaire Master 2
+Description du poste :
+
+La Direction Régionale Provence Alpes du Sud d'Enedis héberge un laboratoire d'intelligence artificielle situé au sein de la Cité de l'Innovation et des Savoir d'Aix Marseille. Ce dernier a pour rôle le développement et le déploiement d'applications intégrant de l'IA.
+Au sein de l'équipe vous aurez la charge des chaînes d'intégration et de déploiement continu des applications développées dans une démarche MLOps (Machine Learning Operations).
+
+Votre mission consiste à :
+- Identifier les besoins et la problématique des utilisateurs finaux.
+- Concevoir les architectures.
+- Concevoir les chaines CI/CD.
+- Assurer le déploiement sur la plateforme Kubernetes.
+
+Pour en savoir plus, allez sur www.enedis.fr et consultez nos fiches et vidéos métiers :
+ https://youtu.be/GI1k-MoJNkk
+www.enedis.fr/alternance et www.enedis.fr/découvrir-nos-métiers
+
+Avantages :
+- Aides financières sous conditions (logement, mutuelle, transports, permis, restauration méridienne au tarif le plus bas.)
+- Prime d'intéressement avec possibilité d'abondement
+- 30 jours de congés payés par an, (quel que soit le type de contrat) + 5 jours de congés accordés pour les révisions
+- Comité d'entreprise (vacances, culturel...)
+Diplômes demandés :
+Titulaire du Master 1 Ingénieur en Intelligence Artificielle DataScience ou cycle universitaire.
+
+Vos atouts :
+Vous avez des compétences en data science (Gitlab CI/CD, Docker, Kubernetes). Des connaissances en technologie IA (python, torch ...) seront également appréciées.
+Aisance relationnelle
+Sens des responsabilités
+Capacité d'adaptation
+Rigueur
+
+Merci de joindre à votre candidature votre CV, une lettre de motivation, ainsi que vos bulletins scolaires des 2 dernières années.
+
+Conformément aux engagements pris par Enedis en faveur de l'accueil et de l'intégration des personnes en situation de handicap, cet emploi est ouvert à toutes et à tous sous réserve de l'accord de la médecine du travail. ",2022-02-10T21:56:46.000Z,2022-02-11T20:35:30.000Z,F1106,Ingénierie et études du BTP,Ingénieur / Ingénieure d'études en génie électrique,CDD,Contrat à durée déterminée - 12 Mois,Contrat apprentissage,E,Expérience exigée,,35 H  Horaires normaux,Temps plein,True,1,False,,,35,Distribution d'électricité,,,13 - MARSEILLE 02,43.298344,5.383221,,13202,,False,Interessement,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9132531,"Enedis est une entreprise de service public, gestionnaire du réseau de distribution d'électricité. Elle développe, exploite, modernise le réseau électrique et gère les données associées. ","[{'nom': 'ENEDIS', 'url': 'https://www.aplitrak.com/?adid=MTQyNU0uMTczNDcuMTEwNjJAZWRmZW5lZGlzLmFwbGl0cmFrLmNvbQ', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/enedis80.png'}]",,"[{'codeFormation': '24054', 'domaineLibelle': 'électrotechnique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'exigence': 'E'}, {'codeFormation': '24054', 'domaineLibelle': 'électrotechnique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'exigence': 'E'}]",,,,,,,,,"[{'libelle': 'Français', 'exigence': 'E'}]","[{'libelle': 'B - Véhicule léger', 'exigence': 'S'}]",,,
+40,9081985,"Data ingénieur Python/MLOps F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Nous recherchons plusieurs Data engineer avec une expérience significative en Python, pour rejoindre notre top équipe Data sur Aix-en-Provence (13).
+Environnement technique :
+- DataOps / MLOps
+- Python
+- Dataiku
+
+Profil recherché:
+
+Vous êtes diplômé(e) d'un Bac +5 dans le domaine de la Big Data, vous justifiez idéalement d'au moins 2 ans d'expérience sur ces sujets.
+La connaissance d'un Cloud tel qu'Azure ou AWS et la maîtrise des API est un plus.
+Doté(e) d'une grande qualité d'écoute et d'analyse, vous aimez travailler en équipe et êtes pédagogue. Vous êtes curieux(se) de nature et passionné(e) par la Data, avec le souhait de mettre vos compétences au service des clients. ",2022-02-10T13:11:05.000Z,2022-02-28T05:04:25.000Z,M1802,Expertise et support en systèmes d'information,Ingénieur / Ingénieure système réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),,,,False,1,False,9,Cadre,64,Activités des sociétés holding,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,NODYA GROUP,False,A partir de 35 k€ brut annuel,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9081985,"\nNODYA Group associe toutes les compétences nécessaires à la conception, la construction et au pilotage des scenarios de croissance digitale des grandes structures. NODYA Group a pour vocation d'investir sur la création de valeur à travers ses deux marques AYDON Technologies Numériques &amp; DIGGLERZ Factory (éditeur de solutions logicielles)\nL'offre d'AYDON Technologies Numériques intègre toutes les compétences nécessaires à la maîtrise de l'ensemble des aspects d'une transfo... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167623982W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,,,,,,,,,,,,,,
+41,9071835,DATA ANALYST (H/F),"Nous recherchons pour le compte de notre client, leader du secteur aéronautique, un data analyst (F/H) pour un tâche de 4 mois renouvelable.L'équipe dans lequel vous travaillerez a entre autres taches la digitalisation et automatisation de la gestion documentaire afin de renforcer la qualité et la robustesse de leurs archives qui sont régulièrement auditées par l'EASA.
+Voici les tâches à remplir:
+- Preparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Assurer tous les processus et la documentation développés et maintenus dans la machine (aéronef).
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Garantir la traçabilité des donnees ",2022-02-10T11:58:10.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,MIS,Mission intérimaire - 4 Mois,Contrat travail,E,Expérience exigée de 3 An(s),,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.415837,5.220936,,13054,Randstad,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9071835,"Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !
+Parce que l'aéronautique est un métier d'experts, votre agence Randstad, 100 % spécialisée, est en recherche permanente de nouvelles compétences et vous offre de nombreuses opportunités d'emploi. ","[{'nom': 'HANDICAP_JOB', 'url': 'https://www.handicap-job.com/recherche/detail/oid/4686070/data-analyst-fh.html', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/handicap_job80.png'}]",,,,,,,,,,,,,,,
+42,8934615,Consultant Data H/F,"Amiltone - Amiltone Agence d'Aix en Provence (Référence : 945001) / Vos missions ?
+Intégré à nos équipes, vous assurez les missions suivantes : 
+Analyse du besoin client
+Proposition d'une architecture au client
+Développement de flux (ETL/ESB)
+Implémentation du stockage (Relationnel/NoSQL)
+Proposition de restitution (Reporting/BI/Supervision)
+Préconisation matérielle selon besoin du client
+Implémentation chez le client
+La Stack Technique :
+ Outils :
+ETL/ESB : Talend, WSO2
+BI : Qlik, PowerBI, Jasper, BIRT, SpagoBI, Knowage
+Bases de Données :
+Relationnelle : Oracle, SQL Server, MySQL PostgreSQL
+NoSQL : MongoDB, Cassandra, InfluxDB, Elastic, SolR.
+Traitements Batch (ETL) et Bus de données
+Connaissance SI (infrastructure, réseau, Haute Dispo, Amazon)
+Connaissance développement : Java, Html, Javascript, Python, script Shell
+ Alors ? Prêt à devenir Amiltonien ? 
+N'hésitez pas à postuler si vous vous reconnaissez :
+Diplômé Bac+4/5 (Master ou école d'ingénieur) vous disposez de 2 ans d'expérience en tant que Consultant Data.
+Plus que des compétences techniques, vous avez une curiosité naturelle et un fort esprit d'analyse. Vous pouvez monter en compétences en autonomie et prendre en main de nouveaux projets pour répondre aux problématiques que vous gérez.
+Nos postes sont ouverts aux personnes en situation de handicap.
+  ",2022-02-06T04:02:12.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),,,,False,1,False,,,71,"Ingénierie, études techniques",,,13 - AIX EN PROVENCE,43.529742,5.447426,,13001,Amiltone,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8934615,"Qui sommes-nous ?
+Nous sommes passionnés par les nouvelles technologies, et vous ? 
+Rejoindre Amiltone, c'est intégrer des équipes dynamiques et soudées dans le cadre de projets novateurs et ambitieux. Nous relevons les challenges techniques de nos clients et les accompagnons dans leur transformation digitale.
+ 
+Pourquoi choisir Amiltone ? 
+Amiltone, plus qu'une entreprise, un état d'esprit !
+Notre objectif ? Votre épanouissement professionnel !
+Nou... ","[{'nom': 'TALENTS_IN', 'url': 'https://amiltone.candidats.talents-in.com/job/945001/consultant-data-hf#open', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/talents_in80.png'}]","Autre de 28000,00 Euros ï¿½ 38000,00 Euros",,,,,,,,,,,,,,
+43,8919959,Ingénieur « DATA SCIENCE » H/F ,"Votre mission consiste au traitement de données épidémiologiques et environnementales, notamment spatialisées, temporalisées, sur supports mobiles et mixtes issues de sources différentes pour soutenir une approche systémique et permettre le ciblage d'interventions, en France et dans les pays des Suds.
+Sous la responsabilité de Roch Giorgi, directeur du SESSTIM, vos activités seront les suivantes :
+Constitution, structuration, gestion et analyse de bases de données
+Mise en cohérence de différentes bases, sécurité, méta-data 
+Aide à la constitution de systèmes d'information, dont ceux épidémiologique, d'alertes précoces, et à la structuration du partage des données 
+Aide et appui au développement en e-santé 
+Soutien à la formation d'équipes d'agents de saisie et de data-managers dans le cadre de travaux multi-sites, en contexte multiculturel
+Recherche bibliographique, recherche de données (type méta-analyse) 
+Participation à la rédaction de projets et de publications dans des revues scientifiques internationales ",2022-02-05T13:45:25.000Z,2022-02-23T13:31:20.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDD,Contrat à durée déterminée - 36 Mois,Contrat travail,E,Expérience exigée de 2 An(s),,,,False,1,False,,,,,,,13 - Bouches du Rhône,,,,,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8919959,Institut de Recherche pour le Développement ,"[{'nom': 'PEP', 'url': 'https://place-emploi-public.gouv.fr/offre-emploi/2022-810542', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/pep80.png'}]",,,,,,,,,,,,,,,
+44,8919898,Ingénieur Système Data Center Projet CEDRE F/H (H/F),"RESPONSABILITÉS : 
+
+Le projet IDeAL, « Integration and Development at Aix-Marseille through Learning », porté par AMU et ses partenaires académiques, est lauréat du 3 ème Programme d'Investissement d'Avenir. En lien direct avec l'Initiative d'Excellence, il vise, au cours des prochaines années, à développer nos talents et à fédérer notre communauté en s'inspirant des meilleures pratiques internationales.
+L'activité s'exerce dans le cadre du programme 2 du projet Idéal qui consiste en la mise en œuvre du centre de formation et de soutien aux données de recherche (CEDRE). Ce centre vise à répondre aux besoins de la communauté universitaire sur tous les aspects du cycle de la vie des données de la recherche en fournissant des services de soutien et de formation pour développer de nouvelles pratiques parmi les chercheurs, ingénieurs et étudiants dans tous les domaines scientifiques. Ce centre est un pôle d'activité de la Direction Opérationnelle des Systèmes d'Information (DOSI) dédié à l'activité recherche. Il sera composé de trois divisions, une Division Technique de déploiement des services qui utilisera les ressources du Data Center d'AMU, une Division Data pour définir et mettre en places les moyens de gestion des données, et une Division pédagogique.
+Positionnement hiérarchique :
+Sous l'autorité fonctionnelle du responsable politique et du chef de projet du programme 2 du projet IDeAL, en lien avec le Responsable Scientifique et Technique du projet IDeAL. Sous l'autorité hiérarchique du responsable technique du pôle CEDRE, IDeAL programme 2, à la DOSI. Affecté à la DOSI.
+En lien étroit avec les personnels du datacenter et du mésocentre d'AMU.
+L'ingénieur·e système recruté·e est intégré à la division technique. Il·Elle assure la conception, la mise en place et le maintien d'architectures système nécessaires au soutien des données de la recherche. Il·Elle peut être force de proposition et contribuer à l'élaboration de solutions numériques innovantes. Il·Elle participe, dans son domaine de compétence, à l'ensemble des missions du groupe de CEDRE en coordination avec la division data pour la mise en place des environnements de management des données allant de l'infrastructure matérielle à l'interface utilisateur.
+Missions principales :
+ - Mettre en œuvre, administrer, optimiser et maintenir en condition opérationnelle les architectures logicielles Linux de l'infrastructure ;
+ - Planifier, installer, automatiser, superviser et améliorer les processus de production ;
+ - Sécuriser la production (sauvegarder, sécuriser les flux, prévoir et mettre en pratique des solutions de repli ou de contournement (PRA, PCA)) ;
+ - Possibilité de gérer des incidents sur des plages horaires étendues ;
+ - Assurer une veille technologique ;
+ - Assurer la continuité de service sur l'ensemble des missions.
+
+PROFIL RECHERCHÉ : 
+
+Vous faites preuve d'une capacité d'analyse méthodique et d'un bon sens relationnel. Vous détenez un sens d'initiative et de créativité. Vous savez gérer des priorités et veiller au respect des délais. Vous détenez une capacité rédactionnelle et vous savez rendre compte synthétiquement des actions entreprises et des réalisations.
+Les compétences clés :
+o Expertise environnements Linux ;
+o Compétences avancées sur des architectures n-tiers à forte résilience ;
+o Compétences avancées dans un ou plusieurs langages de scripting liée aux environnements sous Linux ;
+o Compétences en intégration et hébergement d'applicatifs PHP, JAVA, Python, c++ ;
+o Connaissance des architectures réseaux ;
+o Connaissance des infra stockage ;
+o Connaissance des solutions de virtualisation / conteneurisation ;
+o Seraient un plus : des connaissances en architectures GPU, FPGA, ou autre ASIC de calcul.
+Diplôme réglementaire exigé :
+o Licence ou diplôme homologués niveau II (Bac+3) ;
+o Domaine de formation : filière informatique. ",2022-02-05T13:45:15.000Z,2022-02-17T16:48:13.000Z,M1802,Expertise et support en systèmes d'information,Expert / Experte système d'exploitation,CDD,Contrat à durée déterminée - 12 Mois,Contrat travail,E,Expérience exigée,,35 H  Horaires normaux,Temps plein,False,1,False,9,Cadre,,,,,13,43.282,5.405,,13055,Aix Marseille Université,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8919898,"Et si vous rejoigniez une structure en pleine mutation vers l'université de demain ?
+Au premier rang des universités françaises et francophones, Aix-Marseille Université (AMU) regroupe 78 000 étudiants, 8 000 personnels,
+122 structures de recherche en lien avec les plus grands organismes dans ce domaine et un budget de 720 M€.
+5 grands campus accueillent les étudiants et tous les champs universitaires qu'il est possible d'étudier en France.
+La diversité des sit... ","[{'nom': 'BEETWEEN', 'url': 'https://emploi.beetween.com/apply/job/o3tibnxu778/ingenieur-systeme-data-center-projet-cedre-f-h', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/beetween80.png'}]",,,,,,,,,,,,,,,
+45,8917606,Data analyst (f/h) (H/F),"Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !
+Parce que l'aéronautique est un métier d'experts, votre agence Randstad, 100 % spécialisée, est en recherche permanente de nouvelles compétences et vous offre de nombreuses opportunités d'emploi.Nous recherchons pour le compte de notre client, leader du secteur aéronautique, un data analyst (F/H) pour un mission de 4 mois renouvelable.L'équipe dans lequel vous travaillerez a entre autres taches la digitalisation et automatisation de la gestion documentaire afin de renforcer la qualité et la robustesse de leurs archives qui sont régulièrement auditées par l'EASA.
+Voici les missions à remplir:
+- Preparer l'automatisation de l'archivage
+- Mettre en place une journalisation complète et constante du processus d'archivage.
+- Effectuer des contrôles de précision pour toutes les étapes d'automatisation dans le banc de tâches de processus manuel.
+- Analyser les problèmes d'interprétation OCR récurrents significatifs.
+- Assurer tous les processus et la documentation développés et maintenus dans la machine (aéronef).
+- Mettre en place un processus d'amélioration continu de l'automatisation
+- Sécuriser la phase de transition entre archivage manuel et la progressive automatisation.
+- Garantir la traçabilité des donnees ",2022-02-05T12:50:07.000Z,2022-02-11T20:35:30.000Z,G1302,Optimisation de produits touristiques,Analyst revenue management,MIS,Mission intérimaire - 4 Mois,Contrat travail,E,Expérience exigée,,,,False,1,False,,,78,Activités des agences de travail temporaire,,,13 - MARIGNANE,43.4167,5.21667,,13054,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8917606, ,"[{'nom': 'AEROCONTACT', 'url': 'https://www.aerocontact.com/emploi-aeronautique/data-analyst-fh~562833.html?fromref=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/aerocontact80.png'}]",,,,,,,,,,,,,,,
+46,8868667,Data Scientist (H/F) (IT),"�������� Vous aurez donc les missions principales suivantes : ��������
+���� Analyse de l'existant et diagnostic sur la base des rapports existants
+���� Structuration et priorisation des étapes du projet Dashboard UX
+���� Identification des KPIs probants relatifs aux objectifs utilisateur et métier
+���� Conception du modèle de données de la Dataviz
+���� Animation des ateliers de conception des Dataviz
+���� Création du Dashboard UX
+���� Proposition des restitutions graphiques et visuelles pour améliorer le pilotage de l'activité UX dans l'outil de Dataviz
+���� Alimentation des données et enrichissement du Datamart
+���� Recensement des hypothèses identifiées
+���� Exploration des données pour confirmer ou infirmer les hypothèses relatives à l'expérience client
+���� Développement de la connaissance client par l'exploration des données et contribution à la création des Personae
+���� Formation et accompagnement des utilisateurs sur l'exploitation du Dashboard UX
+���� Contribution à la montée en compétences des équipes métiers ",2022-02-04T21:10:10.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,6,Employé qualifié,,,,,13,43.282,5.405,,13055,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8868667, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/8be4f8d32e2c87e0b9c7cb82a49e60fc', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+47,8799042,"Ingénieur Big Data F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Nous recherchons notre futur talent Ingénieur Big Data pour rejoindre notre équipe de Sophia Antipolis. Vous interviendrez sur différents projets chez nos clients, des leaders reconnus. Les technologies concernées sont entre autres (Veille technologique aussi dans ce poste) :
+Apache Spark (développement Scala/Python), Hadoop (HDFS, Yarn), Notebook Jupyter, Git.
+Dans ce contexte, vous interviendrez sur les phases suivantes : 
+Pilotage projets :
+* Participation à l'organisation et la planification des projets.
+* La coordination des différents acteurs des projets.
+Phase de conception / de développement :
+* Définition du besoin avec les utilisateurs métiers.
+* Construction et évolution de la plateforme technique
+* Spécification et développement des applications.
+* Tests unitaires et intégrés.
+Phase de recette :
+* Conception, planification et coordination des tests avec l'équipe projet
+* Participation à la correction des incidents.
+* Suivi des corrections des incidents, mise à jour des documents projets
+Phase de déploiement :
+* Rédaction de guides utilisateurs
+* Formation
+* Transmission aux équipes de support
+
+Profil recherché:
+
+Vous êtes diplômé(e) d'une école d'ingénieur ou universitaire ou d'un BAC +5 en école de commerce. 
+La pratique quotidienne de l'anglais ne vous fait pas peur. Alors venez vivre l'expérience au sein d'une société dynamique et innovante ! ",2022-02-03T16:03:14.000Z,2022-03-02T05:55:36.000Z,M1802,Expertise et support en systèmes d'information,Ingénieur / Ingénieure système réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,71,"Ingénierie, études techniques",,,06 - BIOT,43.628198,7.084843,,06018,CLEEVEN SE,False,25 - 40 k€ brut annuel,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8799042,"\nQUI SOMMES NOUS ?\nCLEEVEN, cabinet de conseil en ingénierie à dimension internationale, s'est construit autour de 2 éléments extrêmement forts :\n* Notre MISSION : Augmenter le degré de conscience de soi et de ceux qui nous entourent.\n* Notre CONVICTION : L'excellence des Ingénieurs européens doit permettre à l'Europe de développer sa position de leader en terme d'Innovation Technologique, et de R & D. En tant qu'ingénieurs, nous participons activement aux côtés de nos clien... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167343165W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,,,,,,,,,,,,,,
+48,127JGBB,Data Architect (H/F),"Présentation de l'entreprise : 
+
+Kicklox est une plateforme d'ingénierie et de conseil en technologies. Concrètement, nous facilitons la rencontre entre des ingénieurs à la recherche d'un prochain défi, et nos clients qui recherchent de nouvelles compétences pour intervenir au sein de leur effectif.
+
+Nous fédérons aujourd'hui une communauté de 70.000 ingénieurs, qui trouvent leur prochain projet sur Kicklox grâce à notre plateforme digitale qui permet d'initier des processus de candidature en ligne. Retrouvez également toutes nos offres sur notre site internet, page ""nos offres"".
+
+
+
+
+Description du poste :
+
+Votre rôle est d'analyser, de concevoir, de planifier et de mettre en œuvre les capacités de traitement et la gouvernance des données en plaçant la Data au service des besoins des métiers et en entretenant des liens de co-construction avec les métiers et la DSIT.
+Pour cela, vos missions seront les suivantes :
+- organiser le partage des données dans l'entreprise, dans une perspective de mutualisation et réutilisation des ressources,
+- favoriser les relations avec les métiers pour identifier leurs besoins, prioriser les projets et favoriser leur réalisation en partenariat avec l'IT,
+- implémenter les normes et les standards liés aux données,
+- mettre en œuvre les processus pour améliorer la qualité, la protection, la conformité et la sécurité des données,
+- porter la vision du cadre d'architecture des données dans l'élaboration du cadre de gouvernance des données,
+- participer aux travaux sur la qualité des données,
+- concevoir, enrichir et maintenir le référentiel documentaire des données (modèle de données, axe d'analyse ) et s'assure de la mise en œuvre dans les projets Data,
+- travailler étroitement sur les projets d'évolution des référentiels de données (projet MDM, PIM, RCU ),
+- recommander la remédiation en cas de déviation du cadre d'architecture des données,
+- S'assurer que les données sont gérées tout au long de leur cycle de vie conformément à la politique des données,
+- Ëtre en veille sur les innovations et les benchmarks en pratique de Data et favoriser l'acculturation.
+
+Titulaire d'une formation informatique et/ou de statisticien de niveau BAC+4 minimum vous avez développé vos connaissances et compétences en travaillant sur des problématiques de Business Intelligence.
+- Vous possédez une expérience de 2 années minimum sur le métier.
+- Force de proposition, vous êtes en permanence à l'écoute de votre équipe et l'interlocuteur privilégié des utilisateurs.
+- Bon(ne) communicant(e), vous sensibilisez les acteurs du projet aux besoins métier.
+- Organisé(e) et rigoureux (se), vous maintenez votre backlog et définissez des objectifs associés à la mesure de résultats-clés.
+- Vous êtes doté(e) d'un fort esprit d'équipe.",2022-02-01T11:15:33.000Z,2022-02-24T15:31:26.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,4 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,62,Programmation informatique,"[{'libelle': 'Curiosité', 'description': ""Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée. Exemple : avoir l'envie d'apprendre""}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",True,83 - TOULON,43.136533,5.933601,83000,83137,KICKLOX,False,,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127JGBB,,,"Annuel de 45000,00 Euros à 65000,00 Euros sur 12 mois",,,https://www.kicklox.com/offres/07b45ad3-b47d-4325-b40c-ac2b4e3bd550/,,https://www.kicklox.com/offres/07b45ad3-b47d-4325-b40c-ac2b4e3bd550/,,,,,,,,,
+49,8488606,DATA ANALYST (IT) (H/F),"HN Services recrute sur Aix, un Data Analyste afin d'apporter son expertise dans l'ensemble des phases projet pour effectuer les analyses en phase think, les études ad-hoc et mise en forme KPI sur PowerBI
+Ta mission :
+ Identifier, regrouper et qualifier l'ensemble des données 
+ Concevoir les tableaux de bord de pilotage de l'activité, réaliser les extractions de données des systèmes d'information, analyser et commenter les données utiles à l'appréciation de la performance
+ Définir les approches et participer à la définition des outils permettant d'identifier, extraire et exploiter ces données, proposer de nouveaux modèles d'analyse, identifier des indicateurs permettant de faciliter la prise de décision
+ Optimiser la gestion des données : processus de recueil des informations, gestion des flux, vérification des données, transmission des données, mise en forme
+ Etre en relation permanente avec les interlocuteurs métiers et avoir la capacité de comprendre les enjeux business du périmètre pour accompagner les opérationnels dans leur pilotage grâce à des reportings et analyses
+ Préparer et animer les réunions du comité mensuel de pilotage et mettre la Data au service du pilotage dans cette instance. Restituer des résultats devant les métiers à travers des présentations simples et intuitives.
+Les plus du poste
+ Pilotage de chantier
+ Equipe solidaire dans laquelle ta force de proposition sera un véritable atout
+Environnement technique : Kibana, PowerBI, Javascript, Katalon ",2022-01-27T04:40:22.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,9,Cadre,,,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8488606,,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/62136a9508a1b9303374277601549bc6', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+50,8488540,INGENIEUR DATA ANALYST (IT) (H/F),"HN Services recrute sur Aix, un Data Analyste afin de participer à différents projets BI et notamment ma mise en uvre d'une solution de tableau de bord
+Ta mission :
+ Identifier, regrouper et qualifier l'ensemble des données 
+ Concevoir les tableaux de bord de pilotage de l'activité, réaliser les extractions de données des systèmes d'information, analyser et commenter les données utiles à l'appréciation de la performance
+ Définir les approches et participer à la définition des outils permettant d'identifier, extraire et exploiter ces données, proposer de nouveaux modèles d'analyse, identifier des indicateurs permettant de faciliter la prise de décision
+ Optimiser la gestion des données : processus de recueil des informations, gestion des flux, vérification des données, transmission des données, mise en forme
+ Etre en relation permanente avec les interlocuteurs métiers et avoir la capacité de comprendre les enjeux business du périmètre pour accompagner les opérationnels dans leur pilotage grâce à des reportings et analyses
+ Préparer et animer les réunions du comité mensuel de pilotage et mettre la Data au service du pilotage dans cette instance. Restituer des résultats devant les métiers à travers des présentations simples et intuitives.
+Les plus du poste
+ Pilotage de chantier
+ Equipe solidaire dans laquelle ta force de proposition sera un véritable atout
+Environnement technique : SAP BI, PowerBI, ODI, Stambia, (Knime, Python/CondaForge, Hadoop/Spark/Hive, Alterix ",2022-01-27T04:39:55.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,5,Employé non qualifié,,,,,13 - AIX EN PROVENCE,43.546605,5.402549,,13001,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8488540,,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/e1f4624494dab723fe82dafa9d4d1a0c', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+51,8395272,Data Analyst F/H (H/F),"Bienvenue chez FED IT, cabinet spécialisé dans le recrutement de profils informatiques et digitaux.
+
+Je vous propose de rejoindre une belle enseigne, spécialisée dans le retail, en qualité de Data Analyst F/H sur Villeneuve-Loubet (06).
+
+Dans le cadre d'un création de poste, vous rejoignez l'équipe contrôle de gestion, échangez avec les équipes métiers pour les besoins et intervenez sur le logiciel entreprise pour l'étude de la data.
+
+A ce titre, vous :
+- extrayez les données pertinentes du logiciel
+- analysez les données qui vont permettre l'orientation économique et business à suivre
+- développez et maintenez les bases de données et améliorez les process permettant une meilleure analyse de données
+
+De formation supérieure en informatique, vous avez une appétence pour la data et justifiez d'une expérience de 3 années à minima sur des missions similaires.
+
+Curieux, vous êtes force de proposition et souhaitez apporter une véritable plus-value sur votre poste.
+
+Vous possédez une bonne capacité d'analyse et savez travailler en équipe.
+
+Une formation sur le logiciel entreprise sera effectuée.
+Possibilité de télétravail 2j/semaine.
+
+Rémunération selon profil. ",2022-01-25T17:59:59.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 3 An(s),,,,False,1,False,,,,,,,06 - VILLENEUVE LOUBET,43.65789,7.12234,,06161,FED IT,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8395272, ,"[{'nom': 'CAREERBUILDER', 'url': 'https://www.lesjeudis.com/jobs/J3N1RP74D72XFVN8NQN?siteid=int_FRpoleemploi&utm_source=pole_emploi&utm_medium=aggregator&utm_campaign=organic', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/careerbuilder80.png'}]","De 40000,00 Euros ï¿½ 48000,00 Euros",,,,,,,,,,,,,,
+52,8335692,DATA SCIENTISTE ET ANALYSTE F/H (H/F),"La Direction Technologie de l'Information (DTI) du CSTB recrutement un(e) data scientiste et analyste en CDI.
+La DTI est une équipe de 40 personnes composée d'experts pluridisciplinaires des métiers de la construction et des technologies de l'information. Nous accompagnons la filière construction dans la transition numérique et l'appropriation des nouvelles technologies, dans le cadre de missions d'expertise et de recherche et développement.
+Au sein de la DTI, la division SNO (Services Numériques et dOnnées), basée sur le technopôle de Sophia Antipolis, est constituée de 15 personnes travaillant dans les domaines suivants :
+- Le développement de logiciels, d'applicatifs web et de Preuves de concept (POC) pour la conception et la gestion des bâtiments et de la ville : modélisation et visualisation 3D (eveBIM®), gestion de l'Exploitation et de la Maintenance par le BIM (BIM GEM), développement de plateformes web support à la Règlementation (ministère)
+- L'utilisation des data sciences et de l'intelligence artificielle : l'élaboration de dictionnaires de données (référentiel) et de vérificateurs de modèles, création de Jumeaux Numérique (bâtiment et ville), élaboration de modèles de prédiction.
+A travers différents projets R&D, en équipe, vos missions seront de :
+- Travailler sur les modèles de données et les jeux de données multi sources du bâtiment et de la ville pour les faire interopérer, leurs donner du sens et de la valeur.
+- Travailler sur les modèles de données produits et catalogues et leurs liens avec les modèles de villes et bâtiments.
+- Utiliser l'IA pour compléter, contextualiser les informations et concevoir des modèles prédictifs de classification pour répondre à des cas d'usages sur le bâtiment ou le territoire.
+Le/la Data Scientiste et analyste, sera, chargé à terme :
+- de concevoir des dictionnaires de données (Référentiel) en Linked Data pour des domaines comme la sécurité incendie, l'accessibilité, la prescription de produit. et s'y appuyer pour développer des vérificateurs de modèles (checkers)
+- d'élaborer des modèles de prédiction pour évaluer l'évolution des territoires en se basant sur des campagnes d'acquisition annuelle d'images aériennes (dégradation toitures, nouvelles constructions, etc.)
+Profil :
+De formation supérieure BAC+4/5 Data science et data analyse, vous avez une première expérience significative (stage ou alternance).
+Compétences techniques attendues :
+- Langages de requête relationnelle et sémantique (SQL, SPARQL)
+- Systèmes de Gestion de Base de Données Relationnelles : Postgres,... et SGBD
+Sémantiques (GraphDB / Stardog / Virtuoso / Jena... )
+- Langage de programmation : Python, PHP, JavaScript
+- Frameworks, bibliothèques : PyTorch, TensorFlow,...
+Vous avez un bon niveau rédactionnel en Français. La maitrise de l'anglais, au moins lu est également requise.
+Compétences transverses : 
+travail en équipe
+curiosité, proactivité
+capacité d'analyse, esprit critique 
+Fourchette de rémunération : 34-38k€
+Compétences Linguistiques :
+Niveau d'anglais: B2 - Intermédiaire supérieur ",2022-01-24T21:01:13.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,6,Employé qualifié,,,,,06 - NICE,43.712854,7.253866,,06088,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8335692, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/7cc30f5bb803aa07a629a098a04c10b2', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+53,7600006,Data Science Project Manager / marketing - H/F,"DESCRIPTION DU POSTE
+
+Sous la responsabilité du Chief Data & Technology Officer et au sein d'une équipe de 4 collaborateurs, vous travaillez en support à toutes les marques du groupe. Vous entretenez de fortes relations fonctionnelles avec le Group Marketing Director.
+
+Votre mission principale consiste à piloter les projets d'implémentations puis d'assurer la pérennité des outils Data Marketing (CDP, Web tracking.) du groupe. Vous jouez un rôle de facilitateur entre les différentes marques pour permettre une collaboration fluide et le choix des meilleurs outils.
+
+La dynamique du secteur de l'hôtellerie de plein air apporte une variété de projets et des défis à relever au sein d'une équipe et innovante, ce qui rend ce métier d'autant plus intéressant.
+
+
+PROFIL RECHERCHÉ
+
+Issu(e) d'une formation bac+3 minimum dans le domaine du Web Marketing, de l'Ingénierie informatique, Data Science ou Etudes statistiques, vous avez un minimum de 5 ans d'expérience en Data Marketing.
+
+Vous appréciez piloter des projets, travailler en équipe et/ou en collaboration avec différents services dans un environnement multiculturel, avez l'esprit d'analyse, êtes rigoureux et précis et êtes force de proposition.
+
+LES COMPÉTENCES INDISPENSABLES SONT LES SUIVANTES :
+
+ * Au moins 5 ans d'expérience dans le domaine de la Data marketing
+  * Au moins 3 ans d'expérience en gestion de projets
+  * Bonne connaissance des outils de Web tracking comme GA360
+  * Expérience avec un outil CDP (Segment, Tealium, mParticle.)
+  * Bonne connaissance du langage SQL
+  * Maîtrise de l'anglais (écrit et oral).
+
+Les connaissances suivantes sont fortement appréciées :
+
+ * Bonne connaissance de la plateforme marketing de Google
+  * Maitrise d'un outil d'analyse et de reporting (Tableau, Power BI.)
+  * Connaissance du langage javascript ou un langage de programmation similaire
+  * Expérience dans le développement Web
+  * Appétence pour les évolutions technologiques dans le domaine de la data (NoSQL, Cloud computing, Machine Learning.)
+
+LES CONDITIONS
+
+ * Poste en CDI basé à Aix en Provence
+  * Statut cadre
+  * Salaire 40-45K€ selon profil et expérience
+  * Possibilité de télétravail
+  * Tickets restaurant 
+  * CE, remises sur les séjours dans les 300 destinations du groupe
+
+ ",2022-01-12T09:58:54.000Z,2022-02-11T20:35:30.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,False,1,False,9,Cadre,,,,,13 - AIX EN PROVENCE,43.539537,5.40142,,13001,Homair,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/7600006,"European Camping Group est un leader européen de l'hôtellerie de plein air et des vacances en mobil-home. Organisé autour de marques complémentaires (notamment Homair Vacances, Marvilla Parks, Eurocamp, Roan ou encore CampingVision), le groupe propose à ses clients des séjours dans plus d'un millier de destinations dans toute l'Europe, de la Côte Atlantique à la Mer Adriatique, en passant par le pourtour Méditerranéen et l'Europe du Nord.
+
+Dans le cadre de son développem...","[{'nom': 'ALTAYS', 'url': 'https://www.homair.jobs/nos-offres-demploi/?NoSociete=194&NoOffre=2186317&NoLangue=1&NoSource=16003', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/altays80.png'}]",,,,,,,,,,,,,,,
+54,125YJVW,Développeur / Développeuse Big Data     (H/F),"Pour accompagner l'un de nos clients, nous recherchons un data engineer Java / Spark, (H/F), ayant une bonne formation ou autodidacte confirmé(e), et qui rejoindra notre agence au sein du pôle Artificial Intelligence & Data Science . 
+Nous vous proposons de participer au développement de sa plateforme de service. 
+Une première expérience professionnelle est requise (avec référence si possible) et des déplacements sont à prévoir.",2022-01-07T08:13:38.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,E,5 ans,"[{'code': '109870', 'libelle': 'Langage informatique Java', 'exigence': 'E'}, {'code': '113277', 'libelle': 'Méthode AGILE', 'exigence': 'S'}, {'code': '118748', 'libelle': 'Méthodologie Scrum', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir et développer les programmes et applications informatiques', 'exigence': 'E'}, {'code': '113317', 'libelle': 'Développer une application en lien avec une base de données', 'exigence': 'E'}, {'code': '121055', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '121398', 'libelle': 'Analyser des problèmes techniques', 'exigence': 'E'}, {'code': '124517', 'libelle': 'Rédiger une Spécification Technique de Besoin (STB)', 'exigence': 'S'}, {'libelle': 'Environnement Kafka Spark', 'exigence': 'S'}, {'libelle': 'Langage informatique Scala', 'exigence': 'S'}, {'libelle': 'Spring / Springboot / Spring Batch', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,8,Agent de maîtrise,70,Conseil pour les affaires et autres conseils de gestion,"[{'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': 'Réactivité', 'description': ""Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance. Exemple : faire preuve de dynamisme, vivacité, énergie, comprendre vite""}, {'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}]",True,84 - AVIGNON,43.936694,4.845053,84000,84007,AGENCE GLANUM,False,Selon le profil d,Mutuelle,1,https://candidat.pole-emploi.fr/offres/recherche/detail/125YJVW,,,,"[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'commentaire': 'Big Data', 'exigence': 'S'}]",,https://www.glanum.com/recrutement/ingenieur-ou-developpeur-java-spark/,,https://www.glanum.com/recrutement/ingenieur-ou-developpeur-java-spark/,,2,Ponctuels National,Autre,,,,,
+55,128CNXG,Ingénieur informatique décisionnel /BI         (H/F),"Poste et mission
+
+Nous recherchons notre futur ingénieur informatique décisionnel / BI pour rejoindre notre équipe de Sophia Antipolis. Vous interviendrez sur différents projets chez nos clients :
+
+Conception de l'architecture de l'entrepôt de données:
+
+- Concevoir l'architecture d'un entrepôt de données décisionnel (datawarehouse)
+- Définir les solutions de stockage et la structuration des données au sein d'un modèle
+- Rédaction de règles (guidelines) pour la bonne mise en œuvre des technologies ETL
+- Réaliser les tests et recette techniques pour vérifier l'alimentation et la cohérence des données
+
+Configuration des outils d'analyse et de reporting:
+
+- Réaliser le recueil et la définition des besoins utilisateurs ainsi que le cahier des charges
+- Définir les règles d'utilisation des technologies décisionnelles (use cases, arbres de décision...)
+- Exploiter et valoriser des données en utilisant des techniques statistiques ou des algorithmes (big data)
+- Concevoir les indicateurs et les calculer (en construisant des tables de type datamart)
+- Intégrer les nouvelles données dans le reporting existant
+
+Restitution des données et formation des utilisateurs:
+
+- Développer les « univers » et les rapports
+- Définir des outils de reporting dynamique (OLAP, bases multidimensionnelles)
+- Assurer la présentation des données selon les besoins de l'utilisateur
+- Assurer la formation des utilisateurs à l'utilisation des outils décisionnels
+
+Profil:
+
+Vous êtes diplômé(e) d'un diplôme d'ingénieur dans le domaine de l'informatique ou d'un bac + 5 informatique. Vous justifiez d'une expérience réussie en informatique de décisionnelle. Vous avez de bonnes compétences sur des outils de reporting (Business Object, Qlikview, etc.) et sur des ETL (Cognos, informatica, Datastage,ODI, etc.). La maîtrise de l'anglais est un plus. Alors venez vivre l'expérience d'une entreprise dynamique et innovante.",2022-02-15T10:57:26.000Z,2022-02-27T18:09:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,71,"Ingénierie, études techniques",,False,06 - BIOT,43.628198,7.084843,06410,06018,CLEEVEN SE,False,,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128CNXG,"Cleeven, Cabinet de conseil en technologie s'est construit autour de deux fortes convictions :
+L'excellence des Ingénieurs européens doit assurer la compétitivité mondiale
+Notre mission humaine ; l'accompagnement de nos collaborateurs dans leur développement personnel.
+Ces convictions se déclinent en implications concrètes dans le quotidien de chacun.
+
+",,"Annuel de 25000,00 Euros à 40000,00 Euros sur 12 mois",,CLEEVEN SE - Mme Laura Burcklé,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128CNXG",,,,,,,,,,http://www.cleeven.com,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128CNXG"
+56,8869659,Datascientist / Ingénieur IAML H/F,"La Poste Groupe change, nos métiers évoluent.
+Etre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.
+Chaque jour, sur l'ensemble du territoire, nos 250 000 collaborateurs imaginent les services de demain. 
+Rejoindre La Poste Groupe, c'est rejoindre une entreprise responsable !
+Vous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.
+Filiale de La Poste Groupe, Docaposte compte 6 400 collaborateurs et 70 sites.
+Référent de la confiance numérique en France, Docaposte permet aux entreprises et institutions publiques d'accélérer leur transformation avec une des offres les plus larges du marché alliant numérique et physique.
+Docaposte se porte garant de la souveraineté des données clients hébergées dans ses propres infrastructures, avec un haut niveau de sécurité et de conformité.
+www.docaposte.com
+Rattaché(e) à la BU « Digital Trust Services » dans le pôle IA & Vérification d'Identité, vos missions principales sont : 
+-Conception et mise en œuvre de techniques d'intelligence artificielle appliquées au traitement du langage (Natural Language Processing) et à la vision par ordinateur (computer vision)
+-Expérimentation de nouveaux algorithmes et outils de traitement de données
+-Développement d'outils destinés à l'explicabilité des modèles IA
+-Approfondissement des travaux de recherche appliquée en IA
+-Proposition d'idées innovantes pour résoudre certaines problématiques avec des algorithmes qui sortent du cadre IA/NLP
+-Développement des solutions de visualisation de données 
+-Nettoyage de données brutes (structurées et non structurées)
+-Mise en en production des modèles de prédiction
+-Bonne vision de l'état de l'art sur les principales tâches de computer vision et NLP
+-Veille technologique continue sur les sujets IA
+En interaction avec les acteurs du projet et à l'aide de vos connaissances, vous êtes intéressé pour progresser dans un écosystème hétérogène, transverse et multi compétences. 
+Vous avec de très bonnes compétences dans les techniques data science : entraînement supervisé/non supervisé, séries temporelles, réseaux de neurones, traitement du langage naturel, reconnaissance d'images, etc.
+Passionné par la technologie et votre métier, vous souhaitez trouver une ambiance dynamique et exigeante qui saura accompagner votre évolution.
+Compétences techniques : 
+*Maitrise:
+-Outils de vision par ordinateur: classification/détection et segmentation d'objets/PyTorch/TensorFlow/Keras/OpenCV/ Scikit-Learn
+-Outils Natural Language Processing: SpaCy/modèles transformers BERT
+-Techniques de modélisation statistiques
+-Python et librairies: Numpy, Pandas...
+-SQL+langages NoSQL
+*AGILE
+*Anglais
+Compétences comportementales:
+*Curieux
+*Capacité d'analyse
+*Esprit d'équipe
+*Curieux
+*Autonome
+*Sens de l'écoute
+*Flexible
+Issu de formation supérieure en informatique Bac +5 ou doctorat, école d'ingénieur ou cycle universitaire équivalent, vous disposez d'une expérience significative (5 ans minimum) dans le domaine de l'Intelligence artificielle ou de la datascience et maitrisez les environnements et technologies associées. ",2022-02-04T21:12:33.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 5 An(s),,,,False,1,False,6,Employé qualifié,,,,,06 - NICE,43.712854,7.253866,,06088,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8869659, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/1d0adcd8a06b99f8f4dc76899256e078', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,,,,
+57,9841160,Developpeur Salesforce Junior H/F,"Vous êtes développeur informatique et vous souhaitez travailler dans un environnement épanouissant et confortable sur les hauteurs d'Aix en Provence, ce poste est fait pour vous !
+ Créée en 2013, Isochronix est une société de conseil et d'intégration partenaire de SalesForce (leader mondial du CRM). Nos clients vont de la start-up/scale-up aux plus grands groupes de la grande distribution : Yousign, Payfit, Mirakl, Casino, e-Leclerc, Les mousquetaires... De la définition de la stratégie digitale de nos clients au déploiement de leurs plateformes CRM Salesforce, nous amenons nos clients à imaginer leur futur, en plaçant l'expérience utilisateur au centre des préoccupations.Notre expertise de Salesforce est reconnue par le marché. Nous intervenons au niveau national avec des bureaux basés sur Aix-en-Provence, mais aussi à Paris et Bordeaux.
+ Les Atouts de l'équipe :- Start-up dynamique en pleine croissance- Une équipe à taille humaine avec un projet ambitieux- Composée de passionnés de nouvelles technologies- Organisation du travail par gestion de projet sur des cycles courts- Problématiques techniques très variées et intéressantes
+ Vos missions :Votre rôle est d'accompagner nos clients dans la mise en place et/ou l'optimisation de Salesforce sur des projets de toute taille dans divers secteurs d'activité. En tant que Développeur Web/Salesforce, vous intervenez sur toutes les étapes clés du projet :- Développement front-end (LWC & Visualforce)- Développement back-end & intégration d'APIs (Classes & Triggers APEX)- Documentation des développements- Veille technologique des nouveautés Salesforce
+ Compétences attendues :
+ Idéalement vous justifiez d'une première expérience dans le déploiement de solution Salesforce auprès d'un Intégrateur ou êtes administrateur chez un client final.Vous êtes issu(e) d'une formation de développeur informatique (niveau Bac + 3 minimum)
+ Soft skills :
+ * Gestion des priorités
+ * Autonome
+ * Force de proposition
+ * Rigueur
+ * Aptitude à travailler en équipe
+ * Sens du service et du client
+ Hard skills :
+ * Connaissance des langages : Apex, JavaScript, Java, C#, Visualforce, SQL, HTML
+ * Méthodologie de projets Agile
+ * Modélisation de données
+ * Anglais professionnel
+ Poste basé sur Aix en Provence (parking assuré)
+ Type d'emploi : Temps plein, CDI
+ Salaire : 32 000,00€ à 52 000,00€ par an
+ Horaires :
+ * Du Lundi au Vendredi
+ * Périodes de travail de 8 heures
+ * Repos le week-end
+ Langue:
+ * Anglais professionnel (Exigé)
+ ",2022-02-25T14:02:39.000Z,2022-03-02T04:59:28.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,False,1,False,,,,,,,13 - ST REMY DE PROVENCE,43.796914,4.842711,,13100,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9841160, ,"[{'nom': 'INDEED', 'url': 'https://fr.indeed.com/job/developpeur-salesforce-junior-hf-3d49853f8866a9d2?from=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/indeed80.png'}]",,,,,,,,,,,,,,,
+58,9492396,Délégué à la protection des données (DPO) - H/F,"Depuis 130 ans, la fondation Lenval a pour mission de « recevoir tous les enfants, sans condition de ressources et sans distinction de culte ou de nationalité ». Aujourd'hui gestionnaire de 9 établissements répartis sur 16 sites, la fondation Lenval a su se moderniser et s'adapter à l'évolution de la pédiatrie, pour toujours mieux diagnostiquer, soulager et guérir les enfants et adolescents.
+ Le sanitaire et le médico-social sont au cœur de nos missions, au travers du 1er hôpital universitaire pédiatrique de la région PACA, d'un Centre de Ressources Autisme (CRA), d'une pouponnière sociale, d'établissements spécialisés pour enfants et adolescents polyhandicapés (surdité, dysphasie.).
+ Travailler à la fondation Lenval, c'est participer à soigner, protéger, soutenir et orienter nos petits protégés et leurs familles.
+ La Fondation LENVAL recherche un(e) Délégué(e) à la protection des données DPO.
+ Les missions principales sont :- Mettre en place un processus continu d'Audit ""RGPD"" des traitements- Informer, sensibiliser et diffuser une culture dans le cadre général « Informatique et Libertés »- Mener ou piloter les actions visant à sensibiliser la direction, les agents, aux règles à respecter en matière de protection des données à caractère personnel- Faire respecter le cadre légal relatif aux données personnelles- Établir et maintenir une documentation relative aux traitements de données à caractère personnel notamment au moyen d'un registre des traitements- Recevoir et traiter les réclamations et plaintes des personnes concernées et veiller au strict respect des personnes.- Effectuer chaque année un rapport aux responsables de traitement.
+ Savoir être professionnel :- Travail en équipe- Autonomie- Rigueur
+ Cadre contractuel et financier :- CDI- Temps de travail : temps plein- Le salaire est composé d'un fixe brut annuel+ une prime dite ""décentralisée"" correspondant à 5% du salaire annuel brut (reversée au mois de décembre, sous certaines conditions de présence). A cela peut s'ajouter, l'ancienneté acquise dans d'autres entreprises peut être pour partie reprise et valorisée sous forme d'une prime mensuelle.
+ Avantages périphériques :- Carte de parking possible- Proximité immédiate du Tramway- Remboursement 100% frais transport en commun- Mutuelle- Restauration d'entreprise- Comité d'entreprise avantageux
+ Le poste est à pourvoir dès avril 2022. Statut cadre
+ Type d'emploi : Temps plein, CDIStatut : Cadre
+ Avantages :
+ * Participation au Transport
+ * Réfectoire
+ * RTT
+ Horaires :
+ * Travail en journée
+ Rémunération supplémentaire :
+ * Prime annuelle
+ ",2022-02-18T07:53:59.000Z,2022-02-28T04:55:18.000Z,K1903,Défense et conseil juridique,Délégué(e) à la protection des données - DPO,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,False,1,False,,,,,,,06 - Alpes Maritimes,,,,,,False,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9492396, ,"[{'nom': 'INDEED', 'url': 'https://fr.indeed.com/job/d%C3%A9l%C3%A9gu%C3%A9-%C3%A0-la-protection-des-donn%C3%A9es-dpo-hf-c4e68dd140504c0e?from=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/indeed80.png'}]",,,,,,,,,,,,,,,
+59,128JVXX,Ingénieur / Ingénieure de production  (H/F),"Pour accompagner l'un de nos clients, nous recherchons un ingénieur Data Ops, H/F, ayant une bonne formation ou autodidacte confirmé(e), et qui rejoindra notre agence au sein du pôle AI & DS. Nous te proposons de participer au développement de sa plateforme de service. Une première expérience professionnelle est requise (avec référence si possible) et des déplacements sont à prévoir au niveau national.",2022-02-18T13:43:10.000Z,2022-02-21T12:07:47.000Z,H2502,Management et ingénierie de production,Ingénieur / Ingénieure de production,CDI,Contrat à durée indéterminée,Contrat travail,E,2 ans,"[{'code': '115839', 'libelle': 'Démarche qualité', 'exigence': 'E'}, {'code': '116844', 'libelle': ""Démarche d'amélioration continue"", 'exigence': 'E'}, {'code': '122425', 'libelle': 'Méthodes et outils de résolution de problèmes', 'exigence': 'S'}, {'code': '105632', 'libelle': 'Suivre et faire évoluer la planification de la production en fonction des flux, délais, approvisionnement, ...', 'exigence': 'S'}, {'code': '120789', 'libelle': ""Proposer des actions afin d'améliorer la productivité d'une activité"", 'exigence': 'S'}, {'code': '121051', 'libelle': ""Définir les modalités d'industrialisation des productions"", 'exigence': 'S'}, {'code': '121220', 'libelle': ""Contrôler et rédiger l'application des consignes"", 'exigence': 'S'}, {'code': '122112', 'libelle': ""Analyser les données d'activité d'une production"", 'exigence': 'S'}, {'code': '123564', 'libelle': ""Contrôler le fonctionnement d'un outil ou équipement"", 'exigence': 'S'}, {'code': '123624', 'libelle': ""Contrôler la conformité d'un produit"", 'exigence': 'S'}, {'code': '123863', 'libelle': 'Déterminer des actions correctives', 'exigence': 'S'}, {'libelle': 'Approche CI / CD et dev ops', 'exigence': 'E'}, {'libelle': 'Environnement Kafka Spark', 'exigence': 'S'}, {'libelle': 'Industrialisation des process data', 'exigence': 'E'}, {'libelle': 'Langage informatique Scala', 'exigence': 'S'}, {'libelle': 'Maintien de la qualité des flux de données', 'exigence': 'E'}, {'libelle': ""Maîtrise d'un ETL (airflow luigi et/ou talend)"", 'exigence': 'E'}, {'libelle': 'Mise en production en environnement industrialisé', 'exigence': 'E'}, {'libelle': ""Proposition d'architecture et d'outils"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,8,Agent de maîtrise,70,Conseil pour les affaires et autres conseils de gestion,"[{'libelle': 'Persévérance', 'description': ""Capacité à maintenir son effort jusqu'à l'achèvement complet d'une tâche, quels que soient les imprévus et les obstacles de réalisation rencontrés. Exemple : faire preuve de volonté, d'assiduité, de régularité, rebondir après une erreur""}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': ""Sens de l'organisation"", 'description': 'Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité'}]",False,84 - AVIGNON,43.936694,4.845053,84000,84007,AGENCE GLANUM,False,Selon le profil d,Mutuelle,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128JVXX,,,,"[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'commentaire': 'Ingénierie logiciel ', 'exigence': 'S'}]",,https://www.glanum.com/recrutement/ingenieur-data-ops/,,https://www.glanum.com/recrutement/ingenieur-data-ops/,,2,Ponctuels National,Autre,,,,,
