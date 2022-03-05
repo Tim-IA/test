@@ -1,0 +1,846 @@
+,id,intitule,description,dateCreation,dateActualisation,romeCode,romeLibelle,appellationlibelle,typeContrat,typeContratLibelle,natureContrat,experienceExige,experienceLibelle,formations,competences,dureeTravailLibelle,dureeTravailLibelleConverti,alternance,nombrePostes,accessibleTH,qualificationCode,qualificationLibelle,secteurActivite,secteurActiviteLibelle,qualitesProfessionnelles,offresManqueCandidats,lieuTravail.libelle,lieuTravail.latitude,lieuTravail.longitude,lieuTravail.codePostal,lieuTravail.commune,entreprise.nom,entreprise.entrepriseAdaptee,salaire.libelle,contact.nom,contact.coordonnees1,contact.courriel,origineOffre.origine,origineOffre.urlOrigine,entreprise.description,origineOffre.partenaires,contact.urlPostulation,salaire.commentaire,salaire.complement1,contact.commentaire,langues,entreprise.logo,entreprise.url,contact.coordonnees2,contact.coordonnees3,deplacementCode,deplacementLibelle,agence.courriel
+0,128YGXG,Data et Pricing Analyst (H/F),"Vous contribuez à projeter et à piloter la performance commerciale de l'entreprise à travers vos analyses de marge et de politiques tarifaires. Vos missions dans ce contexte seront :
+- Analyser les sources de données internes liées au Pricing et en contrôler la fiabilité
+- Participer au développement de méthodes et process pour suivre l'activité et la performance commerciale.
+- Définir les outils de suivi et d'analyse et les produire afin de fournir un soutien aux Directeur régionaux des Ventes dans le pilotage de leur région.
+- Optimiser les processus et automatiser les tâches récurrentes.
+- Accompagner les opérationnels dans l'analyse et les prises de décisions liées à la performance commerciale.
+- Accompagner les opérationnels dans l'utilisation des tableaux de bord.
+- Produire les matrices de préparation budgétaire, en relation avec le département finance.
+- Analyser la cohérence de la politique tarifaire par gamme produits /clients.
+- Construire et alimenter les outils de suivi et d'analyse de la performance commerciale.
+- Concevoir, optimiser et analyser les matrices de suivi de rentabilité
+
+Vous êtes issu(e) d'une formation Bac + 2 à Bac + 5 intégrant une forte dimension statistique et/ou analyse/Crunshing de Data et avez une expérience similaire de 3 ou 4 ans minimum. Vous êtes curieux de découvrir notre secteur d'activité et notre marché, votre vision opérationnelle sera un vrai atout dans la réussite de ce projet.
+La maitrise des fonctions avancées d'EXCEL est indispensable. Vous avez idéalement travailler avec un CRM.
+La pratique de l'Anglais et / ou de l'Allemand sera nécessaire pour travailler en lien avec notre groupe.
+Proximité Nantes
+
+ 
+
+- 13eme mois en cous de mise en place
+- Tickets Restaurants
+- Intéressement et Participation
+- Avantages CSE",2022-03-01T15:20:39.000Z,2022-03-01T15:20:40.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'niveauLibelle': 'Bac+2 ou équivalents', 'exigence': 'E'}]","[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,78,Activités des agences de placement de main-d'œuvre,"[{'libelle': 'Force de proposition', 'description': 'Capacité à être proactif, à initier, à imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou pour améliorer une situation. Exemple : proposer des améliorations, être positif et constructif'}, {'libelle': 'Autonomie', 'description': 'Capacité à prendre en charge son activité sans devoir être encadré de façon continue. Exemple : travailler efficacement sans responsable'}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",False,85 - LA COPECHAGNIERE,46.850779,-1.348826,85260,85072,OU EST CHARLIE RECRUTEMENT,False,"Annuel de 40000,00 Euros à 55000,00 Euros sur 12 mois",OU EST CHARLIE RECRUTEMENT - Mme Nouara BOUKHANOUFA,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128YGXG","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128YGXG",1,https://candidat.pole-emploi.fr/offres/recherche/detail/128YGXG,,,,,,,,,,,,,,
+1,9993655,Responsable Organisation Data F/H (H/F),"Rejoignez la Direction Technologie et Système d'Information du Groupe Covéa et plus précisément l'équipe « Offre de services Data », rattachée à la structure « TSI Data et Usages » en tant que Responsable Conseil / Organisation F/H.
+ 
+ L'équipe « Offre de services Data » est une nouvelle équipe qui sera créée dans le cadre de l'évolution de l'organisation du département TSI Data et Usages et effective à compter du 1er septembre 2021. Elle sera prochainement composée d'un manager et de 4 collaborateurs / collaboratrices en charge de porter l'offre de services data de Covéa et qui seront pour cela en lien avec de nombreux interlocuteurs Métiers et DTSI. Ce poste est à pourvoir sur le site de Californie au Mans.
+ 
+ Votre mission ?
+ 
+ Endosser le rôle de Business Partner auprès des Directions Métiers sur le volet Data
+ 
+ Être garant de l'offre de services de la TSI Data et Usages de Covéa
+ 
+ Construire et porter l'offre de services pour tous les domaines de la data et de la BI ainsi que le catalogue de services associés
+ 
+ Accompagner la transformation data en cohérence avec le Schéma Directeur du Système d'Informations de Covéa
+ 
+ Et concrètement ?
+ 
+ Formaliser l'offre de services de l'ensemble de la TSI Data et Usages, la communiquer aux équipes métier et DTSI et veiller à sa bonne utilisation / application
+ 
+ Porter la déclinaison du SDSI sur le périmètre data et accompagner sa démultiplication et son appropriation
+ 
+ Contribuer à l'élaboration des cibles et des trajectoires de transformation data
+ 
+ Conseiller et accompagner, avec l'aide des équipes Conseil Métiers et Projets Data, les Directions métier sur l'alignement de leur SI avec la stratégie métier Data.
+Qui êtes-vous ?
+ 
+ BAC +5 avec a minima 5 ans d'expériences professionnelles
+ 
+
+ * Compétences techniques :
+ Une bonne connaissance des technologies et des outils décisionnels et big data
+ 
+ Une expérience de pilotage de projets métiers autour de la donnée et des usages avec une coordination multi-métiers
+ 
+
+ * Compétences comportementales :
+ Autonomie
+ 
+ Sens de l'organisation, capacité à gérer plusieurs sujets en parallèle et agilité
+ 
+ Sens du service et du travail en équipe
+ 
+ Planification et organisation
+ 
+ Rigueur et ténacité
+ 
+ Aisance relationnelle et communication
+ 
+ Force de proposition
+ 
+ Esprit d'analyse et de synthèse
+
+ Parce que chez Covéa, nous sommes attachés à la diversité dans nos recrutements et à l'égalité des chances, nous vous offrons, à compétences égales, les mêmes possibilités de parcours professionnels ! ",2022-03-01T05:55:53.000Z,2022-03-01T05:55:53.000Z,M1402,Conseil en organisation et management d'entreprise,Responsable des projets organisation,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 4 An(s),,,,,False,1,False,,,65,Autres assurances,,,72 - LE MANS,47.988525,0.20003,,72181,Covea,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9993655,"Envie de choisir votre avenir par passion ou par raison ? Et pourquoi pas les deux ?
+Covéa , c'est un groupe d'assurances puissant réunissant trois marques complémentaires (MAAF, MMA, GMF).
+C'est également 21 000 collaborateurs qui mettent en commun leur talent et leur enthousiasme pour accompagner nos clients sociétaires et construire le futur de l'assurance.
+
+Alors, envie de construire le futur ? Rejoignez-nous ","[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=Ti5MZW1vaW5lLjM4ODM1LjY3MDZAY292ZWFmci5hcGxpdHJhay5jb20', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,,,,,
+2,128VWSH,Data controleur (H/F),"Au sein du bureau de FITECO Mayenne, composé de 45 personnes, vous serez rattaché aux experts-comptables associés.
+
+Vous prendrez en charge la responsabilité opérationnelle d'assistants comptables dédié et la gestion d'un portefeuille constitué de TPE / PME. 
+
+Vous êtes l'interlocuteur privilégié de vos clients et en lien avec l'Expert-Conseil, vous prendrez en charge les missions suivantes :
+- L'accompagnement et le conseil client sur les aspects réglementaires, leur gestion quotidienne (tableau de bord, budget de trésorerie) et le développement de leur entreprise,
+- La révision et déclaration fiscale de dossiers et autres éléments déclaratifs associés en lien avec le data assistant, 
+- La préparation du bilan, les travaux d'inventaire, la réalisation des plaquettes et des déclarations fiscales annuelles, en vous appuyant d'un expert-comptable au quotidien et sur notre outils MyFITECO,
+- Assurer les rendez-vous clients dans la mise en place de l'organisation digitalisée avec le cabinet.
+
+Vous serez amené à rendre visite aux clients afin d'assurer une relation personnalisée et de proximité.
+Vous apporterez une aide technique à l'équipe et favoriserez le partage d'expérience.
+
+Les indispensables : 
+-Vous êtes diplômé d'études supérieures type Bac+2 en comptabilité, 
+-Vous avez une expérience de 3 ans accompagnée d'une expérience managériale, 
+-Vous êtes à l'aise avec la digitalisation, vous avez le sens du service client et vous êtes doté d'un excellent relationnel. 
+
+Nous vous proposons : 
+-Un poste en CDI en temps pleins (38h00) au sein de nos locaux à Mayenne, 
+-Des horaires flexibles, permettant un équilibre entre votre vie professionnelle et personnelle,
+-Une rémunération à partir de 28000 € brut annuel selon expérience,
+- La construction d'un plan de carrière évolutif,
+-Un management participatif et une équipe dynamique,
+-Les avantages : CSE, participation 
+
+N'hésitez plus, rejoignez FITECO Mayenne ! 
+",2022-02-28T11:48:17.000Z,2022-02-28T11:48:19.000Z,M1202,Audit et contrôle comptables et financiers,Contrôleur(se) comptable et financier(ère),CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,,,39H Horaires normaux,Temps plein,False,1,False,8,Agent de maîtrise,69,Activités comptables,"[{'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}, {'libelle': ""Sens de l'organisation"", 'description': 'Capacité à planifier, à prioriser, à anticiper des actions en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser. Exemple : planifier, ordonner ses actions par priorité'}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",False,53 - MAYENNE,48.303387,-0.617261,53100,53147,FITECO,False,"Annuel de 22000,00 Euros sur 12 mois",,https://recrute.fiteco.com/emplois/comptabilite-gestion-fr/1043-data-controleur-h-f-fr/,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128VWSH,,,https://recrute.fiteco.com/emplois/comptabilite-gestion-fr/1043-data-controleur-h-f-fr/,,,,,,,,,,,
+3,9956699,Expert Conception et architecture de données d'entreprise (Data Designer) H/F - 1-0003311,"Mission :
+Au sein du service Architecture de la DSI de la banque des territoires et dans l'équipe « modélisation des données et des échanges », vous êtes responsable de construire et maintenir un modèle de données d'entreprise performante et commune à l'ensemble du SI de la Banque des Territoires, de diffuser les règles et les bonnes pratiques qui les régissent ainsi que de les faire évoluer.
+Vous êtes le référent du domaine SI Banque des Territoires et Moyens de Paiement sur les sujets d'expertise de la donnée vis-à-vis des métiers mais également l'ensemble des parties prenantes de la DSI.
+Vous prenez en charge les évolutions des modèles de données d'entreprise en lien avec les équipes projets et les architectes du domaine.
+Vous assurez l'expertise et la supervision des méthodes et des standards de modélisation de données au sein des produits SI en lien avec le Data Office de la Banque des Territoires.
+Activités :
+Participer à la mise en place de la gouvernance et la classification des données d'entreprise avec toutes les parties prenantes (équipes SI métiers, SI data, Architectes, Data Office, .)
+Construire, enrichir et maintenir le dictionnaire et les modèles de données de référence pour l'ensemble de la Banque des Territoires
+Contribuer aux études d'architecture dans la description, l'usage et les impacts des données
+Être garant des normes et des standards de modélisation définis par le domaine BDT
+Mettre en place et faire évoluer les modèles de données des systèmes d'échange inter et intra produits de type API Gateway ou Bus de données
+Donner de la visibilité à toutes nos parties prenantes sur les évolutions des données et modèles de données ainsi que les socles technologiques mis en place au sein de l'établissement public
+Être le point d'appui de l'ensemble des parties prenantes de l'écosystème Data (Data Office, Équipe Data, Socle Technologique, .) sur les volets modélisation et méthode
+Participer aux analyses d'impacts des modèles de données du SI en lien avec les Architectes de l'équipe : processus métier et SI, urbanisation et rationalisation du SI, cohérence fonctionnelle, impacts applicatifs, .
+Planifier, organiser, établir et suivre les plans de conception et de livraison de modèles de données en lien avec les équipes projets
+Mettre à jour les modèles et leurs documentations dans les outils référentiels (Sparx EA)
+Assurer le suivi des implémentations techniques des modèles mis en œuvre avec les équipes applicatives et techniques de la Caisse des Dépôts
+Poste Expert ",2022-02-28T12:30:42.000Z,2022-02-28T12:30:42.000Z,M1802,Expertise et support en systèmes d'information,Architecte technique informatique,CDD,Contrat à durée déterminée - 36 Mois,Contrat travail,E,Expérience exigée de 2 An(s),,,,,False,1,False,,,,,,,49 - Maine et Loire,,,,,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9956699,Caisse des Dépôts et Consignations ,"[{'nom': 'PEP', 'url': 'https://place-emploi-public.gouv.fr/offre-emploi/2022-826683', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/pep80.png'}]",,,,,,,,,,,,
+4,9955529,"Commercial Sédentaire Spécialiste DATA F/H - Chargé d'affaires, technico-commercial (H/F)","Descriptif du poste:
+
+Vous intégrerez une équipe commerciale composée de commerciaux sédentaires spécialisés sur la vente de marques ou activités du groupe Itancia. Votre objectif : Devenir le référent du portefeuille de produits Data qui vous sera confié, afin de conseiller vos collègues et nos clients tout au long du processus de vente sur les caractéristiques et configurations des produits, mais également sur leurs prix et la disponibilité.
+Pour cela, vous serez formé par une équipe déjà opérationnelle et bénéficierez également de formations des constructeurs.
+Rattaché(e) au Responsable du Service Commercial Sédentaire, après une formation de deux à trois mois en immersion dans notre service commercial, vos missions seront les suivantes :
+ 
+Vendre les produits et services commercialisés par le Groupe :
+· Conseiller les clients sur les solutions produits et/ou service
+· Vendre des produits et/ou services
+· Générer des ventes additionnelles
+· Rédiger les propositions de prix
+ 
+Assurer la prospection et le développement commercial :
+· Identifier les besoins immédiats et futurs des prospects
+· Rédiger les propositions de prix
+· Renseigner l'outil de suivi commercial CRM
+· Gérer les ouvertures de compte
+· Suivre les dossiers commerciaux
+ 
+Fidéliser le portefeuille client :
+· Etre à l'écoute et se rendre disponible pour les clients du secteur
+· Analyser les demandes et les besoins des clients du secteur pour apporter et proposer les solutions les plus adaptées
+· Faire l'interface avec les services techniques internes pour trouver les solutions spécifiques adaptées à la demande initiale des clients
+· Proposer l'ensemble des produits et/ou services
+ 
+Recueillir et renseigner dans l'outil de suivi commercial CRM toutes les informations sur l'état du marché (concurrence, tarification, constructeur, .)
+
+Profil recherché:
+
+H/F, vous êtes issu(e) d'une formation minimum Bac +2 dans le domaine commercial avec de fortes capacités relationnelles. Vous avez aussi un réel intérêt pour les nouvelles technologies d'informations et de communications, et de bonnes connaissances du monde des télécoms.
+De plus, vous êtes parfaitement à l'aise avec l'outil informatique et notamment Excel. Vous êtes également force de proposition, vous avez le sens du client et voulez vivre des challenges. Vous gérez la relation client dans une optique de fidélisation.
+Vous êtes à la recherche de nouveaux défis dans une entreprise en pleine croissance ? Le groupe ITANCIA vous accompagnera dans vos projets et contribuera à votre montée en compétences. ",2022-02-28T05:38:17.000Z,2022-02-28T05:38:17.000Z,D1407,Relation technico-commerciale,Responsable technico-commercial / technico-commerciale,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,,False,1,False,8,Agent de maîtrise,95,Réparation de produits électroniques grand public,,,49 - BEAUPREAU EN MAUGES,47.203865,-0.982956,,49023,ITANCIA,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9955529,"\nGroupe écoresponsable spécialiste des technologies de communication, collaboration, réseaux et sécurité d'entreprise, Itancia accompagne depuis plus de 30 ans ses partenaires revendeurs, intégrateurs et opérateurs dans l'adoption de pratiques responsables grâce à des solutions & services sur mesure, au plus juste équilibre entre technologie, économie et écologie.\n \nLe groupe s'appuie sur 3 piliers d'activités complémentaires, dont la maîtrise et la combinaison offrent d... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167740427W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,27 - 30 k€ brut annuel,,,,,,,,,,
+5,9854545,Développeur Expert Data (H/F),"Talents IT cabinet de recrutement national spécialisé dans les métiers de l'IT et du Digital proche de ses clients et candidats est résolument tourné vers l'humain. Notre équipe soudée et toujours de bonne humeur est là pour vous conseiller et vous accompagner dans votre projet professionnel.
+Nous sommes à la recherche d'un candidat pour le poste de Développeur Expert Data H/F. Notre client est groupe industriel allemand. Le poste proposé est un CDI temps plein basée à Angers.
+Directement rattachées au responsable du développement applicatif, vos missions seront:
+- Développement d'interfaces d'échanges de données entre divers systèmes
+- Développement d'interfaces d'échanges de données avec des API
+- Développement de process pour de la data intégration
+- Alimentation des données sur un datawharehouse.
+- Participation à la mise en place de l'architecture des bases de données.
+- Archivage de données
+- Développement et exposition d'API
+- Support sur des projets existants
+- Rédaction de spécifications techniques
+- Optimisations des performances
+- Veille technologique ",2022-02-25T21:50:37.000Z,2022-02-25T21:50:37.000Z,M1805,Études et développement informatique,Développeur / Développeuse informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,,False,1,False,5,Employé non qualifié,,,,,49 - ANGERS,47.466735,-0.56191,,49007,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9854545, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/6956d9d40c81f576f5d83790f75aa132', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,
+6,9853398,Data Analyst h/f (IT),"Vous travaillez en relation directe avec le client et intégrez une équipe de consultants Siderlog, vous devrez :
+- Collecter les besoins et assister à la rédaction de cahiers des charges auprès des directions fonctionnelles (outils, modèles, choix d'indicateurs, )
+- Concevoir et développer des applications statistiques, tableaux de bord, scoring
+- Créer des algorithmes de recherche de données.
+- Obtenir des données adéquates et pertinentes.
+- Gérer l'administration, la modélisation et l'architecture de gisements de données.
+- Interpréter les résultats des analyses sous forme de propositions et de conseils.
+- Accompagner les métiers dans des ateliers de travail, réunions, formations, recettes et supports utilisateurs. ",2022-02-25T21:45:33.000Z,2022-02-25T21:45:33.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,,False,1,False,6,Employé qualifié,,,,,44 - NANTES,47.239367,-1.555335,,44109,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9853398,,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/71376c78583d6b6a4e961e152d2328e2', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,
+7,9840227,Assistant Comptable Data Operator F/H (H/F),"En collaboration avec l'équipe Expertise Services Conseil, constituée d'une trentaine de personnes, vous avez envie de :
+
+ * Contribuer à la transformation numérique du cabinet, en créant (numérisation, vidéocodage, codification) et en interfaçant des données avec des outils d'intégration.
+ * Etre former aux nouvelles technologies liées à notre métier
+ * Travailler en mode connecté avec des outils modernes et collaboratifs et bénéficier d'un encadrement de proximité pour intervenir sur des missions variées d'expertise comptable (tenue, justification des comptes, déclarations fiscales, rapprochements bancaires.).
+
+Et bien sûr vous épanouir au sein de notre équipe de Le Mans !
+Vous êtes titulaire d'un diplôme Bac+3 (par exemple DCG ou Licence Gestion et Traitement des données).
+
+Vous disposez idéalement d'une expérience en cabinet comptable.
+
+Vous êtes très à l'aise avec l'outil informatique et en particulier Excel (macros, formats et transformations de données).
+
+Vous êtes motivé par les projets de dématérialisation et le travail en équipe.
+
+Vous vous reconnaissez dans cette description ?
+
+. n'hésitez plus, postulez et rencontrons-nous !
+
+Localisation :
+
+Vous serez basé à Le Mans dans le cadre d'un contrat CDI.
+
+N'attendez plus, rejoignez un environnement de travail de qualité où le sens du collectif est clé.
+
+Tous nos postes sont ouverts aux personnes en situation de handicap.
+
+BAC + 2/3, BTS, DUT, Licence ",2022-02-25T13:59:58.000Z,2022-02-25T13:59:58.000Z,M1203,Comptabilité,Comptable,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,,False,1,False,,,69,Activités comptables,,,72 - LE MANS,47.988525,0.20003,,72181,KPMG France,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9840227, ,"[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=T1VFU1QuMDUyMDIuNjcwNkBrcG1nZnJhbmNlLmFwbGl0cmFrLmNvbQ', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,,,,,
+8,9838962,Assistant Comptable Data Operator F/H (H/F),"Vos challenges
+
+En collaboration avec l'équipe Expertise Services Conseil, vous avez envie de :
+
+ * Contribuer à la transformation numérique du cabinet, en créant (numérisation, vidéocodage, codification) et en interfaçant des données avec des outils d'intégration.
+ * Etre former aux nouvelles technologies liées à notre métier
+ * Travailler en mode connecté avec des outils modernes et collaboratifs et bénéficier d'un encadrement de proximité pour intervenir sur des missions variées d'expertise comptable (tenue, justification des comptes, déclarations fiscales, rapprochements bancaires.).
+
+Et bien sûr vous épanouir au sein de notre équipe de Rezé !
+Vous êtes titulaire d'un diplôme Bac+3 (par exemple DCG ou Licence Gestion et Traitement des données).
+
+Vous disposez idéalement d'une première expérience en cabinet comptable.
+
+Vous êtes très à l'aise avec l'outil informatique et en particulier Excel (macros, formats et transformations de données).
+
+Vous êtes motivé par les projets de dématérialisation et le travail en équipe.
+
+Vous vous reconnaissez dans cette description ?
+
+. n'hésitez plus, postulez et rencontrons-nous !
+
+Localisation :
+
+Vous serez basé à Rezé dans le cadre d'un contrat CDI.
+
+N'attendez plus, rejoignez un environnement de travail de qualité où le sens du collectif est clé.
+
+Tous nos postes sont ouverts aux personnes en situation de handicap.
+
+BAC + 2/3, BTS, DUT, Licence ",2022-02-25T13:56:48.000Z,2022-02-25T13:56:48.000Z,M1203,Comptabilité,Assistant / Assistante comptable,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,,False,1,False,,,69,Activités comptables,,,44 - REZE,47.176235,-1.549664,,44143,KPMG France,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9838962,"Pourquoi devenir Assistant Comptable Data Operator F/H chez KPMG ?
+
+Les métiers de l'Audit, du Conseil, de l'Expertise comptable ou du Juridique & fiscal vous attirent et vous cherchez un quotidien qui bouge ?
+
+Au bureau, chez le client, en formation, dans notre incubateur d'intrapreneuriat ou avec notre Fondation, nous vous offrons l'environnement stimulant qui vous permettra d'exprimer votre potentiel, vos idées novatrices et vos valeurs au service de projets porteurs... ","[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=T1VFU1QuNTg4NTAuNjcwNkBrcG1nZnJhbmNlLmFwbGl0cmFrLmNvbQ', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,,,,,
+9,9838929,Assistant Comptable Data Operator F/H (H/F),"Vos challenges
+
+En collaboration avec l'équipe Expertise Services Conseil, constituée d'une trentaine de personnes, vous avez envie de :
+
+ * Contribuer à la transformation numérique du cabinet, en créant (numérisation, vidéocodage, codification) et en interfaçant des données avec des outils d'intégration.
+ * Etre former aux nouvelles technologies liées à notre métier
+ * Travailler en mode connecté avec des outils modernes et collaboratifs et bénéficier d'un encadrement de proximité pour intervenir sur des missions variées d'expertise comptable (tenue, justification des comptes, déclarations fiscales, rapprochements bancaires.).
+
+Et bien sûr vous épanouir au sein de notre équipe de Nantes !
+Vous êtes titulaire d'un diplôme Bac+3 (par exemple DCG ou Licence Gestion et Traitement des données).
+
+Vous disposez idéalement d'une première expérience en cabinet comptable.
+
+Vous êtes très à l'aise avec l'outil informatique et en particulier Excel (macros, formats et transformations de données).
+
+Vous êtes motivé par les projets de dématérialisation et le travail en équipe.
+
+Vous vous reconnaissez dans cette description ?
+
+. n'hésitez plus, postulez et rencontrons-nous !
+
+Localisation :
+
+Vous serez basé à Nantes dans le cadre d'un contrat CDI.
+
+N'attendez plus, rejoignez un environnement de travail de qualité où le sens du collectif est clé.
+
+Tous nos postes sont ouverts aux personnes en situation de handicap.
+
+BAC + 2/3, BTS, DUT, Licence ",2022-02-25T13:56:42.000Z,2022-02-25T13:56:42.000Z,M1203,Comptabilité,Assistant / Assistante comptable,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,,False,1,False,,,69,Activités comptables,,,44 - NANTES,47.231636,-1.54831,,44109,KPMG France,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9838929,"Pourquoi devenir Assistant Comptable Data Operator F/H chez KPMG ?
+
+Les métiers de l'Audit, du Conseil, de l'Expertise comptable ou du Juridique & fiscal vous attirent et vous cherchez un quotidien qui bouge ?
+
+Au bureau, chez le client, en formation, dans notre incubateur d'intrapreneuriat ou avec notre Fondation, nous vous offrons l'environnement stimulant qui vous permettra d'exprimer votre potentiel, vos idées novatrices et vos valeurs au service de projets porteurs... ","[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=T1VFU1QuNzY3NjkuNjcwNkBrcG1nZnJhbmNlLmFwbGl0cmFrLmNvbQ', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,,,,,,,,
+10,128QXHW,Data Analyst Marketing H/F (H/F),"Rattaché(e) à la Direction Marketing et sous la responsabilité du Data Manager, vous avez pour responsabilité de produire de la connaissance Client utile aux différents services de la Direction.
+
+Vous devez pour cela connaître les enjeux d'un Marketing Data-Driven et maîtriser les techniques/outils de Data Visualisation.
+
+Vos principales missions seront les suivantes :
+
+1/Attribution Marketing & funnel d'acquisition:- Construction de tableaux de bord afin de piloter la performance des leviers d'acquisition à destination de l'équipe digitale et du service relation client.
+- Intervenir comme Product Owner dans le développement de l'entrepôt de données de l'entreprise pour répondre aux besoins de la direction.
+- Répondre ponctuellement à des demandes spécifiques non couvertes par les dashboards.
+
+2/ Marketing relationnel: - Analyse des campagnes & scénarios marketing
+- Support data aux équipes de l'expérience client
+
+Vous serez également amené à intervenir sur les différents projets de l'entreprise en fonction de vos compétences et aspirations.
+
+Vous disposez d'un niveau bac +3/5 et d'une d'une première expérience dans l'analyse de données et l'exploitation d'un datawarehouse.
+
+Passionné(e) par la data et en veille sur les nouvelles tendances et outils, vous aimez manipuler les données quantitatives et qualitatives. Vous êtes rigoureux, autonome et n'hésitez pas à tester de nouvelles approches.
+
+Qualités et aptitudes requises :- Maîtrise des modèles de données relationnels et construction de requêtes SQL;
+- Maîtrise d'un outil de data visualisation (Power BI, Tableau,...);
+- Connaissances de l'approche agile : product backlog, sprint planning, démo, rétrospective ;
+- Connaissance CRM et Marketing Automation souhaitée ;
+
+Poste basé au Mans, à 5 min à pied de la gare. Télétravail possible",2022-02-24T08:35:57.000Z,2022-02-26T01:56:46.000Z,M1805,Études et développement informatique,Analyste développeur / développeuse,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,"[{'code': '109846', 'libelle': 'Concevoir et développer les programmes et applications informatiques', 'exigence': 'S'}, {'code': '117309', 'libelle': 'Établir un cahier des charges', 'exigence': 'S'}, {'code': '118637', 'libelle': 'Analyser les besoins du client', 'exigence': 'S'}, {'code': '121055', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '124517', 'libelle': 'Rédiger une Spécification Technique de Besoin (STB)', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,7,Technicien,81,Nettoyage courant des bâtiments,,False,72 - Sarthe,,,,,OUI CARE HUMAN RESOURCES,False,,,https://emploi.o2recrute.fr/fr/annonce/1585975-data-analyst-marketing-hf-le-mans,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128QXHW,,,https://emploi.o2recrute.fr/fr/annonce/1585975-data-analyst-marketing-hf-le-mans,Selon profil,Autre,,,,,,,,,
+11,9784746,Data analyst (H/F),"Description du poste :
+Afin de répondre à des enjeux stratégiques, notre client renforce son équipe par un développeur BI pour mener des projets internes. Vous intégrerez la DSI et plus particulièrement l'équipe Solutions Logicielles composée de développeurs BI et Web. Vous serez amené à concevoir, développer et automatiser les flux de données et interfaces pour les équipes métiers (Finance, Ressources Humaines, Commerce, .). Vous assurerez le maintien en conditions opérationnelles du datawarehouse et réaliserez le développement des reportings dans les solutions BI.
+A ce titre, vos missions seront les suivantes :
+- Comprendre les besoins des équipes métiers, participer à la conception technique des solutions, et estimer la charge nécessaire aux développements
+- Etudier la disponibilité et le format des sources de données
+- Développer de nouveaux process ETL scalables et maintenir les process déjà en place pour assurer l'intégrité des données (flux de données ou interfaces)
+- Maintenir en conditions opérationnelles les environnements BI en collaboration avec l'équipe Infrastructure
+- Développer et maintenir la structure et les performances du datawarehouse
+- Maintenir et développer les rapports basés sur les indicateurs métiers dans les solutions BI
+- Mettre en place les tests associés aux développements de rapports
+- Rédiger et maintenir la documentation technique
+- Evaluer des technologies et mettre en production pour résoudre les problématiques métier
+Description du profil :
+Vous possédez les connaissances techniques et intérêts suivants :
+- Expérience dans les outils de reporting/data visualization tel que : SSAS, Jedox, Power BI,.
+- Bonne connaissance de la structure nécessaire à un datawarehouse
+- Maitrise d'un outil ETL
+- Langages SQL (Mysql, SQL server, PostgreSQL, SQL Server)
+Vous avez évolué dans un environnement Cloud ou On-premise et vous êtes reconnu pour votre capacité à travailler en équipe et votre aptitude à réaliser des projets (développement, reporting, tests.). Vous faites preuve de rigueur, de proactivité et d'organisation et vous attachez de l'importance au fonctionnement de l'entreprise. Réactif, force de proposition en matière de bonnes pratiques BI et autonome, vous souhaitez vous investir dans un projet d'entreprise en plein développement.
+De formation supérieure en informatique décisionnelle ou mathématiques (Bac +3 Minimum), vous possédez une première expérience dans le domaine de la BI. ",2022-02-24T22:01:25.000Z,2022-02-24T22:01:25.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),,,,,False,1,False,,,,,,,44 - ST NAZAIRE,47.275284,-2.243754,,44184,,False,"Annuel de 35000,00 Euros",,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9784746,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Informatique & Télécoms vous proposent des opportunités de carrière. Nous recherchons pour le compte de notre client, groupe reconnu sur le marché de la sécurité, un Développeur Business Intelligence (F/H) en CDI. ","[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-analyst-h-f-saint-nazaire-pays-de-la-loire-cdi-21325895', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]",,,,,,,,,,,,
+12,9758623,Data owner F/H (H/F),"Data owner F/H
+Et si vous deveniez Data Owner des données de la relation client pour la marque MMA ?
+Le poste est basé au Mans au sein de la Direction Marketing et Communication MMA Assurances.
+La donnée & Covéa?
+=> Un actif stratégique, moteur d'innovation pour le groupe et ses marques,
+=> Un patrimoine de données unique sur le marché
+Dans la dynamique de montée en puissance du déploiement du Data Management au sein de Covéa et de ses marques, la Direction Data Covéa s'appuie aujourd'hui sur un réseau de Data Owners permettant de développer la donnée comme « actif stratégique de l'entreprise ».
+Votre mission ?
+Data Owner pour la marque MMA, point d'entrée et ambassadeur Data Client, vous accompagnez les métiers MMA dans l'application du Data Management (DAMA).
+Votre conviction ? La Data : source de richesse et de performance
+Et concrètement ?
+Référent des données de la relation client chez MMA, relatives aux clients, à leurs interactions avec la marque, leurs pistes et opportunités commerciales, leur navigation web :
+- Vous construisez la feuille de route annuelle des projets ou activités à fort impact DATA à accompagner :
+- Organiser et animer les réunions de travail pour challenger l'impact de la Data sur les enjeux métiers / business. Appréhender les besoins métiers, apporter des propositions quant au diagnostic Data et s'assurer que les solutions Data retenues couvrent bien les besoins et les enjeux métiers
+- Appliquer la méthode de datamanagement DAMA by Covea : la documentation, la structuration, l'accès à la donnée, la qualité et la conformité. Analyser les bénéfices / risques liés à la data, proposer des plans d'action, les mettre en œuvre et les suivre une fois validés.
+- Faire le lien entre le métier et l'informatique, révéler les enjeux métiers portés par les données clients, mettre sous contrôle les actions DATA qui concourent à la réussite des projets dans la durée. (Documentation, qualité, etc.)
+- Fédérer le réseau DATA DG MMA et mettre en relation les acteurs projets qui traitent des mêmes données pour mutualiser nos patrimoines et créer de la valeur
+o Optimiser la collecte de données pour une meilleure connaissance client
+o Propager la donnée au bénéfice de la personnalisation de la relation client
+- Favoriser et accompagner l'acculturation des équipes autour de la Data
+Vous travaillez avec un chargé de projet Data Management pour mener à bien les actions de documentation et de mesure de qualité.
+Coopération et représentation :
+- Au sein de la communauté Data de Covea, vous êtes membre du Data Office et contribuez aux travaux de construction du Data Management et de son déploiement
+- Vous collaborez avec vos homologues MAAF et GMF à des fins de convergence et de mutualisation.
+- Vous participez au comité utilisateur Covéa de la donnée, au Comité Pilotage Data Centrics, vous appréhendez les socles technologiques déployés par Covéa et en faites la pédagogie au sein de la DG MMA ( DATA HUB, DATA Viz, Data Science, etc.) .
+Encore une hésitation sur les atouts de ce poste ?
+- Participer activement au déploiement du data management Covéa au sein de MMA et au renforcement de la culture Data, dans une équipe en construction
+- Développer un rôle de relais et de soutien Data des métiers dans le cadre de leurs projets
+- Un quotidien riche d'interactions
+- Une contribution à la stratégie de la marque MMA
+Et si c'était vous ?
+- Formation en SI, data / analytics ou en management des données et/ou expérience dans le domaine de la gestion du cycle de vie ou de l'exploitation de la donnée
+- Expérience dans l'éco système Data et/ou connaissance pratique des outils de gestion de bases de données (SAS, outils BI, .)
+- Intérêt pour découvrir des contextes nouveaux et évolutifs, pour construire, pour apporter votre vision
+- Appétence pour endosser un rôle d''ambassadeur' du Data Management auprès des directions métier
+Compétences comportementales
+- S'adapter
+- Analyser et synthétiser
+- Communiquer avec pédagogie et capacité à promouvoir les sujets
+- Argumenter et négocier
+- Coopérer en développant et animant des travaux collectifs/transverses
+- Expérimenter et innover
+Envie de choisir votre avenir par passion ou par raison ? Et pourquoi pas les deux ?
+Covéa, c'est un groupe d'assurances puissant réunissant trois marques complémentaires (MAAF, MMA, GMF).
+C'est également 21 000 collaborateurs qui mettent en commun leur talent et leur enthousiasme pour accompagner nos clients sociétaires et construire le futur de l'assurance.
+Alors, envie de construire le futur ? Rejoignez-nous. ",2022-02-24T14:58:54.000Z,2022-02-24T14:58:54.000Z,M1802,Expertise et support en systèmes d'information,Data manager,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,,False,1,False,9,Cadre,,,,,72 - LE MANS,45.878704,0.17397,,72181,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9758623, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/dafa36c512914fbf6889098895856b7e', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,
+13,128MPZB,Data analyst (F/H),"Afin de répondre à des enjeux stratégiques, notre client renforce son équipe par un développeur BI pour mener des projets internes. Vous intégrerez la DSI et plus particulièrement l'équipe Solutions Logicielles composée de développeurs BI et Web. Vous serez amené à concevoir, développer et automatiser les flux de données et interfaces pour les équipes métiers (Finance, Ressources Humaines, Commerce,  ). Vous assurerez le maintien en conditions opérationnelles du datawarehouse et réaliserez le développement des reportings dans les solutions BI.
+
+A ce titre, vos missions seront les suivantes :
+- Comprendre les besoins des équipes métiers, participer à la conception technique des solutions, et estimer la charge nécessaire aux développements
+- Etudier la disponibilité et le format des sources de données
+- Développer de nouveaux process ETL scalables et maintenir les process déjà en place pour assurer l'intégrité des données (flux de données ou interfaces)
+- Maintenir en conditions opérationnelles les environnements BI en collaboration avec l'équipe Infrastructure
+- Développer et maintenir la structure et les performances du datawarehouse
+- Maintenir et développer les rapports basés sur les indicateurs métiers dans les solutions BI
+- Mettre en place les tests associés aux développements de rapports
+- Rédiger et maintenir la documentation technique
+- Evaluer des technologies et mettre en production pour résoudre les problématiques métier",2022-02-22T09:51:18.000Z,2022-02-23T16:04:07.000Z,M1403,Études et prospectives socio-économiques,Chargé / Chargée d'études économiques,CDI,Contrat à durée indéterminée,Contrat travail,E,2 ans,"[{'codeFormation': '31054', 'domaineLibelle': 'informatique', 'niveauLibelle': 'Bac+3, Bac+4 ou équivalents', 'exigence': 'S'}]","[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '118732', 'libelle': 'Réaliser une veille documentaire (collecte, analyse etc.)', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,78,Activités des agences de travail temporaire,,False,44 - ST NAZAIRE,47.275284,-2.243754,44600,44184,EXPECTRA,False,"Annuel de 35000,00 Euros sur 12 mois",EXPECTRA - M. Christophe LAMI,https://www.expectra.fr/offre/307-S39-R000943_01R/A?utm_source=pole-emploi&utm_medium=jobboard&utm_campaign=offres,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128MPZB,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Informatique & Télécoms vous proposent des opportunités de carrière.",,https://www.expectra.fr/offre/307-S39-R000943_01R/A?utm_source=pole-emploi&utm_medium=jobboard&utm_campaign=offres,,,Candidater sur le site du recruteur,,,,,,,,
+14,9622630,"Data Analyst F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Vos missions :
+Guider / recommander le Métier dans l'exploitation et la valorisation des multiples sources de données et identifier des leviers d'optimisation et d'amélioration des processus Business.
+Être l'intermédiaire entre le Métier et la DSI.
+Accroître la connaissance de la clientèle d'une entreprise, il conduit des études sur les bases de données, suit les outils datamining pour analyser l'impact des actions marketing.
+Mener et conduire des études (coordination/pilotage)
+
+Profil recherché:
+
+Compétences techniques :
+Maitrise MS Office
+Connaissance des requêtages SQL
+Connaissance des outils BI Fonction Expertise sur les données du Métier
+Connaissance en statistiques
+Connaissance poussée des solutions Analytiques (Data Science ou Data Mining / BI)
+Maitrise des Outils Dataviz.
+Connaissances poussées en préparation de données
+&nbsp;
+&nbsp; ",2022-02-22T13:15:23.000Z,2022-02-22T13:15:23.000Z,M1805,Études et développement informatique,Analyste réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),,,,,False,1,False,9,Cadre,64,Activités des sociétés holding,,,44 - ST HERBLAIN,47.227082,-1.625284,,44162,JEMS Ouest,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9622630,"\ndata et cloud&nbsp;computing.&nbsp;Nous conseillons nos clients dans le choix des technologies les plus appropriées et les accompagnons de l'expression des besoins&nbsp;à la&nbsp;mise en production.&nbsp;&nbsp;\nNantes a tout pour plaire. Entre sorties entre amis, ballades sur les quais de la Loire et visites de monuments historiques, vous ne saurez plus où mettre la tête. JEMS n'attend plus que vous&nbsp; ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167480293W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,33 - 50 k€ brut annuel,,,,,,,,,,
+15,9620955,"Consultant Master Data Management (MDM) F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Vos missions
+Recueil des besoins métiers
+Animation d'ateliers de conception fonctionnelle et technique
+Description des processus métiers liés aux données
+Réalisation des modèles de données
+Conception et paramétrage des solutions de MDM
+Suivi et participation aux développements logiciels
+Mise à jour des documentations fonctionnelles et techniques
+Coordination des échanges entre les différentes équipes: chef de projets, techlead
+Partage et diffusion des bonnes pratiques
+Participation à la conduite du changement
+
+Profil recherché:
+
+À propos de vous :
+Vous êtes diplômé d'une école d'ingénieur ou d'un parcours universitaire technique. Vous avez une expérience d'au minimum un an dans la mise en œuvre fonctionnelle et technique de projets de Master Data Management/Gestion des données de référence.
+Nous recherchons avant tout un collaborateur curieux qui saura être créatif grâce à une veille technologique accrue.
+Ce qu'on attend de vous :
+Maitrise d'un ou plusieurs outils MDM tels que Tibco EBX, Semarchy, Blueway ou Talend MDMainsi que de la plateforme Java Entreprise Edition JEE.
+Avoir un esprit d'analyse et de synthèse
+Disposer d'une forte capacité d'adaptation
+Être orienté service et satisfaction client
+Aimer travailler en équipe et être doté d'un excellent relationnel
+Avoir de bonnes capacités rédactionnelles
+La maitrise de l'anglais est un plus. Ce poste estouvert aux personnes en situation de handicap.
+ 
+A compétences égales, tous nos postes sont ouverts à des personnes en situation de handicap. La priorité sera donnée et leurs candidatures seront particulièrement valorisées. JEMS s'engage dans la diversité, une de nos valeurs fondamentales ",2022-02-22T12:10:31.000Z,2022-02-22T12:10:31.000Z,M1806,Conseil et maîtrise d'ouvrage en systèmes d'information,Consultant / Consultante réseaux informatiques,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),,,,,False,1,False,9,Cadre,64,Activités des sociétés holding,,,44 - ST HERBLAIN,47.227082,-1.625284,,44162,JEMS Ouest,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9620955,"\nCréée en 2002, JEMS est un industriel de la donnée. Notre métier est de créer, manager et exploiter le patrimoine de données de nos clients.  \nNotre savoir-faire repose sur une méthodologie unique et éprouvée de modélisation de ce patrimoine. Nous transformons les données de nos clients en véritable asset et nous industrialisons la création de leurs cas d'usages. Notre offre couvre toutes les dimensions d'une data plateforme et se décline en 3 sous-ensembles¿:\nCréer av... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167480704W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,33 - 50 k€ brut annuel,,,,,,,,,,
+16,9424077,DATA MANAGER (H/F),"Recherche: DATA MANAGER (H/F)
+Notre client va participer à une mission nationale dans le cadre du dispositif de soutien à l'innovation en santé et vos actions prioritaires de la mission -Réceptionner des données pseudonymisées en provenance des expérimentateurs et les déposer dans un espace projet dédié sur le portail SNDS de la Cnam, accessible uniquement aux évaluateurs -Vérifier la qualité des données transmises (complétude et cohérence des données transmises par rapport à la description faite par l'expérimentateur et à la demande exprimée par les évaluateurs) - Gérer les contacts nécessaires à la fois avec les expérimentateurs, le tiers de confiance en charge de la pseudonymisation situé à la Caisse d'Assurance Maladie -d'Ille-et-Vilaine, les évaluateurs, ainsi qu'avec le data manger de la Cnam dédié au pilotage général de ces opérations.
+Vous devrez globalement assurer la mise à disposition des données provenant des expérimentations aux évaluateurs. Pour cela, vous serez
+le... ",2022-02-17T09:13:24.000Z,2022-02-17T09:13:24.000Z,M1802,Expertise et support en systèmes d'information,Data manager,MIS,Mission intérimaire - 12 Mois,Contrat travail,E,Expérience exigée,,,,,False,1,False,,,78,Activités des agences de travail temporaire,,,44 - NANTES,47.239367,-1.555335,,44109,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9424077, ,"[{'nom': 'JOBINTREE', 'url': 'https://www.jobintree.com/offre-emploi/randstad-nantes-559/data-manager-42560489?utm_source=pole-emploi&utm_medium=flux-offres&utm_campaign=partenaire', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobintree80.png'}]",,,,,,,,,,,,
+17,9360142,Data Analyst - (F/H) (H/F),"Poste et missions
+
+Au sein de la Direction Informatique et Data, notre Département Etudes et CRM (7 personnes) œuvre au quotidien dans l'analyse et l'exploitation des données nécessaires à la réalisation de la stratégie de la CEBPL.
+
+Pour déployer l'ensemble de nos projets, nous recherchons un/e Data Analyst.
+
+ En tant que Data Analyst, vous aurez pour principales missions :
+
+ * Identifier et concevoir des outils d'analyses, études, tableaux de bords. afin d'aider nos clients internes à prendre la bonne décision
+ * Exploiter le système d'information et accompagner les évolutions de l'activité et des modes opératoires
+ * Proposer de nouvelles idées, pistes. pour améliorer nos outils de reporting et d'aide à la décision
+ * Gérer les actions commerciales avec le logiciel Adobe Campaign (CRM) : une formation est possible en interne J
+
+ Ce poste est lien permanent avec l'ensemble des Directions opérationnelles.
+Passionné.e par la data, vous aimez faire parler les données pour en extraire le meilleur au service de vos clients internes. Vous savez analyser, questionner, challenger et surtout proposer des approches ou méthodes pour aider à la décision. Vous savez faire preuve de rigueur, d'autonomie et êtes organisé.e pour piloter votre activité dans le respect des délais. Au-delà de ça, vous faites preuves de qualités relationnelles et de pédagogie vous permettant de partager le fruit de votre travail aux opérationnels métier. Enfin, vous aimez travailler en équipe et partager toutes vos (bonnes) idées !
+
+Vous avez idéalement une formation avec une spécialisation en statistiques et marketing, maîtrisez l'exploitation des bases de données (SQL), les outils informatiques (Excel, VBA, HTML) et les méthodes statistiques.
+
+Poste basé à Orvault (44)
+
+Télétravail possible après une période de formation / intégration ",2022-02-16T07:53:07.000Z,2022-02-16T07:53:07.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,,False,1,False,,,,,,,44 - ORVAULT,47.273983,-1.623239,,44114,Caisse d'Epargne Bretagne Pays de Loire,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9360142,"Au sein du 2ème groupe bancaire français, la Caisse d'Epargne Bretagne Pays de Loire intervient sur une région attractive et poursuit une politique de développement ambitieuse et réussie depuis plusieurs années. Acteurs essentiels de cette réussite, nos 2800 collaborateurs accompagnent l'ensemble de nos clients (particuliers, professionnels, entreprises.) en leur proposant une large gamme de produits et de services.
+
+  ","[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=dGVhbS44NjEyMS42NzA2QGJwY2UuYXBsaXRyYWsuY29t', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,"[{'libelle': 'Français', 'exigence': 'E'}]",,,,,,,
+18,128CSWF,Data Engineer (H/F),"Venez nous rencontrer le mardi 1er mars de 9h à 13h au forum de Thouaré sur Loire, salle du Pré Poulain, rue de Carquefou à Thouaré sur Loire (bus C7).
+
+Descriptif du poste
+Au sein de notre équipe Recherches et Développement, vous mettrez en œuvre les missions suivantes :
+
+-	Contribuer au développement et l'amélioration des automates collectant les données exploitées pour l'activité de veille d'Explore (open-data, crawls et scrapping) et alimentant nos data-lakes.
+-	Contribuer au développement et l'amélioration des référentiels de données assemblant Open-Data et données stratégiques produites par EXPLORE
+-	Contribuer au maintien et à l'amélioration des ressources techniques soutenant les modèles et automates de data-mining et machine-learning à l'usage des services de productions et des clients EXPLORE
+-	Promouvoir la culture de la qualité des données et accompagner les équipes dans l'usage des outils de documentation et des bonnes pratiques du cycle de vie de la donnée.
+-	Assurer une veille sur les innovations des disciplines de la data science et proposer l'intégration des nouvelles technologies de Big Data aux solutions de Data Management. 
+-	Se former et communiquer sur ces solutions
+
+Ce poste est fait pour vous si 
+-	Vous disposez d'une formation supérieure (de Bac+2 à Bac+5)
+-	Vous avez des connaissances :
+                 générales des technologies et framework big data usuels 
+                 en Data-Management, Audit de qualité des données et usage des ETL
+                 en Systèmes Linux, gestion et administration des containers (docker, kubernetes)
+                 en Développement / Scripts : Python ++ (avec Spark), JavaScript
+                 en Base de données : 
+-	SQL Server ou autres SGBD Relationnels
+-	MongoDB ou Azure Cosmos DB
+-	Elastic Search
+-	Bases de données orientés Graph
+
+Nos avantages
+-	Titres restaurant
+-	Complémentaire Santé/Prévoyance
+-	Comité d'entreprise
+-	Prime Vacances
+-	Remboursement à 50% des titres de transports
+
+En bonus
+-	Flexibilité dans l'organisation de votre travail grâce à la mise en place d'un Accord Télétravail
+-	Équilibre vie pro et vie perso respecté
+-	Cadre de travail agréable, aménagé en Flex-office
+-	Frigo connecté, alimenté quotidiennement
+-	Kiné présent 2 fois par mois pour des séances de 20 min de détente
+
+
+Derniers détails
+
+-	Lieu de travail : 44 CARQUEFOU
+-	Type de contrat : CDI, Cadre, forfait jours
+-	Date de début de contrat : ASAP
+-	Secteur d'activité : Études de marché et sondages 
+
+
+",2022-02-15T11:44:40.000Z,2022-03-01T16:24:40.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,E,2 ans,,"[{'libelle': 'forumthouare', 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,73,Études de marché et sondages,,False,44 - CARQUEFOU,47.297116,-1.466824,44470,44026,Stand EXPLORE,False,,Stand EXPLORE - M. Forum Thouaré sur Loire,"Mardi 1er mars de 9h à 13h, rue de Carquefou",,1,https://candidat.pole-emploi.fr/offres/recherche/detail/128CSWF,"EXPLORE a été créée en 1997 à Nantes, par ses deux associés fondateurs. Nous développons pour nos 1400 clients des solutions de veille personnalisées pour booster leur business. EXPLORE compte aujourd'hui 160 collaborateurs experts de la veille et à l'affût des technologies du Big Data. Rejoindre EXPLORE, c'est saisir l'opportunité de vous épanouir au sein d'une entreprise en forte croissance avec une qualité de vie au travail que vous ne trouverez pas ailleurs : kiné, frigo connecté...",,,Selon profil,Autre,,,https://entreprise.pole-emploi.fr/static/img/logos/lwngd70nkzDgMxJ1X5rtoGMgODLIpgAw.png,https://www.explore.fr/,Salle du Pré Poulain,44470 THOUARE SUR LOIRE,,,
+19,9231577,Senior consultant - Data Gouvernance - Nantes - F/H (H/F),"Votre rôle et votre mission
+Votre futur environnement de travail :Intégré(e) dans une équipe énergique et pluridisciplinaire, vous contribuez au développement interne et externe de notre agence sur un modèle agile et collaboratif.Vos missionsEn tant que Consultant(e) Senior expert(e) Data, vous intervenez chez nos clients grands comptes pour les conseiller et les accompagner sur leurs projets de transformation digitale et data :- Vous participez à la définition des cas d'usage en relation avec le client ;- Vous concevez et pilotez des architectures Data et Cloud pour nos clients en suivant le modèle Data Centric (architecture, choix des solutions, mise en oeuvre) ;- Vous mettez en oeuvre les processus de gouvernance des données chez nos clients ;- Vous vous positionnez comme référent, aussi bien chez nos clients qu'au sein de notre agence vis-à-vis de l'acculturation Data (approche Datadriven) ;- Vous mettez en place des solutions intégrant les pratiques DevOps et MLops pour renforcer l'Agilité et la capacité d'innover de nos clients.En tant que Consultant(e) Senior, vous participez également au développement des activités de conseil et au suivi de consultant(e)s juniors et/ou stagiaires.Ce que nous vous proposons :Au sein de l'agence Conseil Nantes-Niort, nous vous accompagnons tout au long de votre parcours professionnel pour vous permettre de :- Progresser et développer vos compétences ;- Construire un avenir positif en mettant le digital au service de l'humain ;- Evoluer dans une entreprise qui encourage l'audace, la curiosité et l'envie d'apprendre et d'entreprendre.
+Votre profil
+Votre profilDiplômé(e) d'une Ecole d'ingénieur ou d'une Ecole de commerce, vous bénéficiez d'une expérience significative et réussie d'au moins 4 ans au sein d'un cabinet de conseil et/ou dans une DSI dans le domaine de la BI, du Big Data, de l'Intelligence Artificielle, de la Data Science ou en tant qu'Expert Data.Vous êtes en capacité d'intervenir au sein de comptes clients de différentes tailles et d'appréhender des sujets stratégiques, opérationnels, organisationnels métiers et/ou IT.Vous êtes proactif(ve), rigoureux(se) et savez convaincre vos interlocuteurs par votre posture.Votre capacité d'adaptation est agrémentée d'un véritable sens du relationnel.Vous vous reconnaissez ?! Nous serions ravis de vous accueillir au sein de notre équipe nantaise et niortaise !Chez Sopra Steria, nous sommes engagés pour lutter contre toute forme de discrimination.Nous favorisons un environnement de travail inclusif et respectueux de toutes les différences.Tous nos postes sont ouverts aux personnes en situation de handicap.Pour en savoir plus : https://www.soprasteria.fr/nous-connaitre/nos-engagements
+A propos de nous
+Sopra Steria Next est la marque de conseil en transformation digitale du Groupe Sopra Steria. Ses 3 400 consultants en Europe conçoivent des stratégies visionnaires, réellement actionnables et s'engagent sur des résultats tangibles pour les entreprises, leurs collaborateurs et leurs clients.Sopra Steria Next fait partie du Groupe Sopra Steria, l'un des leaders européens du conseil, des services numériques et de l'édition de logiciels. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. Fort de 46 000 collaborateurs dans près de 30 pays, le Groupe a réalisé un chiffre d'affaires de 4,3 milliards d'euros en 2020.The world is how we shape it. Pour plus d'informations, retrouvez-nous sur http://www.soprasterianext.fr
+Votre environnement de travail
+Le Groupe en un clin d'oeil
+Un Groupe où il fait bon travailler !
+Découvrez les avis de nos collaborateurs
+Quelles sont les étapes ? ",2022-02-14T21:05:35.000Z,2022-02-14T21:05:35.000Z,M1203,Comptabilité,Comptable gérance immobilière,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,,False,1,False,9,Cadre,,,,,44 - NANTES,47.239367,-1.555335,,44109,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9231577,,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/3b93290fbee93105e1999980d4c970ce', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,
+20,127XZHK,Data analyst,"Vous êtes demandeur d'emploi et titulaire d'un Bac +5 dans une filière scientifique (physique, chimie, mécanique, biologie, mathématiques...) ou d'un diplôme d'ingénieur et vous avez déjà des bases en programmation et une forte appétence en informatique. 
+Postes à pourvoir en CDI sur Nantes à l'issue de la formation. 
+Vous souhaitez réorienter votre carrière vers un secteur recherché ? Nous vous proposons de vous intégrer à un programme de formation data / digital afin d'acquérir des compétences clés dans le domaine de l'informatique. 
+Pour cela, vous intégrerez un cursus de 57 jours avec au programme : - Initiation au monde de l'informatique (Methode Agile, Algorithmie, programmation..) - De la base de donnée, avec SQL, NoSql - Des compétences métier : Spark, Hadoop, Docker, PowerBi .. 
+Démarrage de la formation prévu le 14/03/2022 en ligne. Les missions qui vous seront confiées avec notre partenaire Sogeti à l'issue de ce programme de formation sont variées et à même de réaliser différents projets pour des clients grands comptes. En tant que Consultant Data, votre principale responsabilité sera d'intégrer une des équipes projet de développement et poursuivre votre montée en compétences autour des technologies/méthodologies digitales. Vos compétences techniques consolidées durant la formation vous permettront de vous adapter aux différents projets auxquels vous participerez. Votre sens du service, votre esprit d'équipe, votre autonomie et votre relationnel sont des atouts essentiels qui vous permettront de mener à bien les missions qui vous seront confiées et d'évoluer rapidement au sein de Sogeti.",2022-02-11T09:45:50.000Z,2022-03-01T20:14:51.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,39H Horaires normaux,Temps plein,False,1,False,6,Employé qualifié,62,Conseil en systèmes et logiciels informatiques,,False,44 - NANTES,47.239367,-1.555335,44000,44109,CAPGEMINI TECHNOLOGY SERVICES,False,"Annuel de 32000,00 Euros à 34000,00 Euros sur 12 mois",,,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127XZHK,,,,,,,,,,,,,,
+21,9179509,Data analyst (H/F),"Description du poste :
+Au sein d'une DSI à taille humaine (environ 10 personnes), vous êtes l'interface entre les interlocuteurs Métiers et le Développement, vous orientez sur le choix des solutions dans un objectif d'efficience et d'évolution des outils BI et des flux applicatifs.
+Vos missions principales sont :
+- Modélisation et mise en œuvre d'entrepôts de données, développement de flux d'intégration : traduction technique des besoins fonctionnels, conception et développement, tests et recette, mise en production et intégration ;
+- Coaching technique : aide et support aux développements, rédaction de standards et documentations techniques à destination des internes ou des prestataires ;
+- Maintenance évolutive et corrective ;
+- Pilotage, suivi et coordination de projet ;
+- Suivi de l'activité des prestataires.
+Dans un contexte de croissance, vous interviendrez sur le suivi des projets actuels et futurs de l'entreprise dans le domaine de la BI et de l'intégration de flux.
+Force de proposition, vous participez à améliorer l'efficacité des systèmes d'informations et apporterez votre expertise sur l'ensemble des solutions adaptées aux futurs projets.
+Description du profil :
+De formation BAC +3 à BAC +5 en informatique, vous justifiez d'une expérience de plus de 5 ans, dont 3 années dans le développement et la modélisation d'entrepôts de données.
+Vous savez faire preuve d'autonomie et d'une grande rigueur. Vous faite preuve d'un bon sens relationnel, d'ouverture d'esprit et de sens du service.
+Vos valeurs ajoutées :
+- La maîtrise d'un ou plusieurs outils décisionnels (Qlik, Power Bi, Cognos) ;
+- La maîtrise du langage SQL et des bases de données relationnelles (Oracle, MySql) ;
+- La maîtrise du développement de flux d'intégration ou applicatifs via un ETL (idéalement les solutions de l'éditeur SEEBURGER) ;
+- L'expérience de la conduite de Projet ;
+Vous connaissez idéalement les métiers de la logistique, du transport et les standards EDIFACT. ",2022-02-11T14:30:50.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 3 An(s),,,,,False,1,False,,,,,,,53 - LA GRAVELLE,47.932999,1.189681,,53108,,False,"Annuel de 45000,00 Euros",,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9179509,"Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.
+Les consultants du Département Informatique & Télécoms vous proposent des opportunités de carrière. Nous recherchons pour le compte de notre client, acteur majeur du transport de produits frais, un chef de projet BI (F/H) en CDI. ","[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-analyst-h-f-la-gravelle-pays-de-la-loire-banque-finance-cdi-21128441', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]",,,,,,,,,,,,
+22,9165790,"Ingénieur Data aéronautique F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Alten Ouest recherche des Ingénieurs Data H/F dédiés au secteur de l'aéronautique pour des postes basés en région Pays de Loire.
+A ce poste, vous intervenez en support des activités de production dans leurs problématiques nouvelles liées au Big Data et à la Business Intelligence.
+-          Recenser les différentes data liées à la production
+-          Sélectionner les données les plus pertinentes
+-          Mettre en forme les tableaux de bords pour suivre et aider la production
+-          Proposer des solutions d'amélioration des process en collaboration avec les différents services
+Vous êtes à même de pouvoir proposer des avancées technologiques et pour cela vous assurez une veille permanente sur les nouveaux outils.
+
+Profil recherché:
+
+Diplômé à bac+5 d'une école d'ingénieur ou université technique, avec une spécialisation en informatique, vous avez des compétences en développement informatique et/ou en gestion de projet, sur des activités de Big Data ou de Business Intelligence avec une première expérience dans le milieu industriel.
+La connaissance de Power BI et de SKYWISE sont de véritables atouts.
+Vous avez idéalement déjà fait vos preuves dans un secteur industriel ou bien cultivez un véritable attrait pour l'industrie High-Tech et notamment l'aéronautique. Bon niveau d'anglais souhaité. ",2022-02-11T08:01:52.000Z,2022-02-13T14:27:00.000Z,M1802,Expertise et support en systèmes d'information,Ingénieur / Ingénieure système réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),,,,,False,1,False,9,Cadre,62,Conseil en systèmes et logiciels informatiques,,,44 - ST NAZAIRE,47.275284,-2.243754,,44184,ALTEN NANTES,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9165790,"\nLeader mondial de l'Ingénierie et du Conseil en Technologies (ICT), ALTEN accompagne la stratégie de développement de ses clients dans les domaines de l'innovation, de la R&D et des systèmes d'information.\n\nCréé il y a 30 ans et présent dans plus de 30 pays, le Groupe a réalisé un chiffre d'affaires de plus de 2 milliards d'euros en 2018 et compte actuellement 40 000 collaborateurs, dont 90% sont des ingénieurs.\nLabellisé top employeur 2021, ALTEN intervient auprès des grand... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167635284W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,32 - 36 k€ brut annuel,,,,,,,,,,
+23,9151140,Data engineer - Performance Energétique - H/F,"DESCRIPTIF DU POSTE
+
+Dalkia Froid Solutions, acteur majeur de la réfrigération, spécialisée dans les services énergétiques pour les process industriels et tertiaires recrute un Data Engineer pour intégrer le service performance énergétique.
+
+Le service performance énergétique veille au bon fonctionnement du suivi de la consommation de nos clients.
+
+Rattaché au Responsable Performance énergétique et en étroite collaboration avec la DSI, vos missions seront :
+
+-         Le maintien et l'amélioration des bases de données et scripts de calcul en phase de pré production
+
+-          L'amélioration des scripts de calculs et des tables de la base de données de la production
+
+-         La rédaction d'expression de besoin à destination de la DSI
+
+-         L'amélioration des IHM, tables et scripts de l'outil de modélisation des performances
+
+-         L'amélioration des rapports automatiques
+
+-         Le développement d'applicatifs légers à durée de vie limitée pour une utilisation interne au service
+
+-         Le maintien des différents flux de données
+
+ 
+
+AVANTAGE LIÉS AU POSTE : prime vacances + titres restaurant + Compte Epargne Temps (CET) + Intéressement et Participation + Mutuelle et Prévoyance + Comité d'Entreprise
+
+
+COMPÉTENCES REQUISES
+
+Diplômé d'une formation BAC+5 en Data engineer ou Data analyst, vous avez un intérêt pour la thermodynamique et la performance énergétique, et avez les compétences suivantes :
+
+ * Modèle de données, administration de base de données, requêtes SQL
+  * Langages informatiques python, R et C#
+  * Modélisation mathématique
+  * Environnement de suivi de version (Git)
+  * Système de BI (Qlik sense)
+  * Travail en mode projet
+
+Ce poste est ouvert à un profil junior.
+
+ 
+
+Dalkia Froid Solutions s'engage en faveur de la diversité et de l'intégration des personnes en situation de handicap. C'est pourquoi cette offre d'emploi est ouverte à toutes et à tous.
+
+ 
+
+ ",2022-02-11T05:58:32.000Z,2022-02-13T14:27:00.000Z,M1802,Expertise et support en systèmes d'information,Ingénieur / Ingénieure système informatique,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,,False,1,False,9,Cadre,,,,,49 - ANGERS,47.466735,-0.56191,,49007,DALKIA Recrutement,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9151140,"Dalkia, filiale du Groupe EDF, est le leader des services énergétiques en France. Proposer des solutions sur-mesure à l'échelle de chaque bâtiment, chaque ville, chaque collectivité, chaque territoire et de chaque site industriel, telle est notre vocation. ","[{'nom': 'DALKIA', 'url': 'https://www.altays-progiciels.com/dalkia-recrutement-externe/back/offre/redirectOffreSiteCarriere/1?NoLangue=1&NoSociete=89&NoOffre=2193002&NoSource=8', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/dalkia80.png'}]",,,,,,,,,,,,
+24,9071572,DATA MANAGER (H/F),"Nous recherchons pour le compte de notre client un organisme de prévoyance sociale à régime général de la Sécurité Sociale, un DATA MANAGER (F/H) .Notre client va participer à une tâche nationale dans le cadre du dispositif de soutien à l'innovation en santé et vos actions prioritaires de la tâche -Réceptionner des données pseudonymisées en provenance des expérimentateurs et les déposer dans un espace projet dédié sur le portail SNDS de la Cnam, accessible uniquement aux évaluateurs -Vérifier la qualité des données transmises (complétude et cohérence des données transmises par rapport à la description faite par l'expérimentateur et à la demande exprimée par les évaluateurs) - Gérer les contacts nécessaires à la fois avec les expérimentateurs, le tiers de confiance en charge de la pseudonymisation situé à la Caisse d'Assurance Maladie  -d'Ille-et-Vilaine, les évaluateurs, ainsi qu'avec le data manger de la Cnam dédié au pilotage général de ces opérations.
+Vous devrez globalement assurer la mise à disposition des données provenant des expérimentations aux évaluateurs. Pour cela, vous serez 
+le contact privilégié du porteur de projet, de la plateforme article 51, de l'évaluateur et du tiers de confiance en charge de la pseudonymisation (Caisse d'Assurance Maladie d'Ille-et-Vilaine) pour toutes les extractions hors SNDS- Vous assurez une aide technique au porteur de projet pour les aider à pseudonymiser leurs données -Réaliser la concaténation de l'ensemble des informations nécessaires à l'évaluation, celles émanant directement des porteurs de projets, ainsi que celles transmises par la plateforme de facturation « Article 51 », à l'exception des données issues du SNDS- Effectuer des travaux de data management sur les données (nettoyage, contrôle de cohérence.). - Serez néanmoins en contact avec le data manager SNDS pour pseudonymiser les données et participer à la gestion des droits d'opposition et de rectification des patients. 
+Salaire et conditions 
+Déplacements : Des déplacements pourront avoir lieu à Paris
+Rémunération :salaire de 1 929,09 € brut mensuel (en annuel 27 007,25 €) +13 eme mois
+Début de la tâche : 1er mars 2022
+Durée de la tâche : 18 mois ",2022-02-10T11:57:23.000Z,2022-02-11T20:35:30.000Z,M1802,Expertise et support en systèmes d'information,Data manager,MIS,Mission intérimaire - 99 Jour(s),Contrat travail,E,Expérience exigée de 3 An(s),,,,,False,1,False,,,78,Activités des agences de travail temporaire,,,44 - NANTES,47.239367,-1.555335,,44109,Randstad,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9071572,"Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !
+Votre agence, Pôle d'expertise relation client, vous offre de nombreuses opportunités d'emploi et vous accompagne tout au long de votre carrière. ","[{'nom': 'HANDICAP_JOB', 'url': 'https://www.handicap-job.com/recherche/detail/oid/4684039/data-manager-fh.html', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/handicap_job80.png'}]",,,,,,,,,,,,
+25,8942271,"Data Analyst F/H - Système, réseaux, données (H/F)","Descriptif du poste:
+
+Nous recherchons un Data Analyst pour l'un de nos clients. Vous évoluerez au sein d'une équipe dynamique et nous vous confierons les responsabilités suivantes : 
+-        Recueillir, traiter et étudier les données statistiques pour produire des analyses métiers et des recommandations.
+-        Construire et faire évoluer les rapports issus du Business Intelligence & Web Analytics pour permettre aux différentes équipes d'avoir une vision cohérente sur les résultats d'activité des produits et leur bon fonctionnement technique.
+-        Gérer les outils d'analyses permettant aux décideurs internes ou aux clients de suivre l'évolution de leurs sites ou produits et pouvoir anticiper les décisions.
+-        Assurer la bonne interprétation et la diffusion des rapports d'analyses résultant du Business Intelligence & Web Analytics.
+ 
+Vous êtes force de proposition et vous souhaitez évoluer sur des missions innovantes. 
+
+Profil recherché:
+
+Diplômé(e) de Poudlard vous êtes la solution miracle à tous les problèmes ���� 
+Non plus sérieusement : au-delà du CV, nous recherchons avant tout un excellent tempérament. 
+Vous maîtrisez un ou plusieurs logiciels parmi les suivants : Tableau, Qliksense, Qlikview, Python, R ? Vous êtes au bon endroit !  
+Vous justifiez d'au moins deux ans d'expérience ainsi qu'un bon niveau d'anglais ? En plein dans le mille. 
+ 
+Vous voulez rejoindre l'aventure ? N'hésitez pas à postuler pour vous joindre à nos équipes����  ",2022-02-07T04:53:58.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Analyste réseau informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 2 An(s),,,,,False,1,False,9,Cadre,62,Conseil en systèmes et logiciels informatiques,,,44 - NANTES,47.239367,-1.555335,,44109,Guarani Atlantique,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8942271,"\nGUARANI ? Une entreprise regroupant plus de 200 collaborateurs pleins d'énergie, d'idées, de compétences et d'ambition.  \n \nDepuis sa création en 2010 et de par son expertise, GUARANI accompagne tous types d'entreprises : Grands-Comptes, PME, Start-ups, Editeurs de Logiciel dans leurs besoins IT. \n \nDésormais 5 tipis sont implantés en France : Lyon, Bordeaux, Marseille, Toulouse et Nantes. \n \nIls nous permettent d'être proches de nos collaborateurs et de fai... ","[{'nom': 'APEC', 'url': 'https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/167586193W?xtor=AL-406', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/apec80.png'}]",,28 - 50 k€ brut annuel,,,,,,,,,,
+26,8910971,Alternance - DATA ANALYST (H/F) - Nantes (44),"Poste et missions
+
+QUELLE SERAIT VOTRE PLACE PARMI NOUS ? 
+
+Nous recherchons un(e) Data Analyst / Scientist pour une alternance afin d'accompagner notre équipe Etudes et Data Marketing dans leurs projets.
+
+En proximité avec votre tuteur au sein de l'équipe :
+
+ * Vous pensez que l'une des clés pour réussir son alternance c'est de faire preuve de proactivité dans votre montée en compétences. 
+ * Vous avez le goût du challenge : participer au développement commercial de l'entrepris en détectant le potentiel d'équipements sur notre clientèle des Professionnels ne vous fait pas peur et relever des défis pour des causes qui vous sont chères vous tient à cœur. 
+ * Vous aimez l'innovation : Vous identifierez des leviers de développement commercial à intégrer dans les actions à construire en collaboration avec notre marché des Professionnels
+ * Vous aimez les « moutons à 5 pattes » : trouver des solutions pour permettre la naissance ou le développement d'un projet innovant, c'est pour vous très épanouissant. 
+ * Vous êtes audacieux, vous savez qu'intégrer la BPGO vous permettra de trouver votre place dans une entreprise qui croît en vous et vous propose de réelles opportunités en CDI à l'issue de votre alternance. 
+ * Vous avez des convictions, relever des défis pour des causes qui vous sont chères vous tient à cœur et faire partie d'un collectif qui agit avec solidarité et responsabilité donnerait du sens à votre métier, notamment au sein d'une communauté de près de 200 alternants. 
+
+Bonus : vous êtes fan de Stevie Wonder et la mer est votre terrain de jeu favori ? Foncez !
+Vous intégrez une formation en Bac+3 à Bac+5 (Statistiques décisionnelles en Marketing, ou Econométrie et Statistiques, ou Génie Mathématiques) et vous reconnaissez dans tout ou partie de ces affirmations ci-dessus ? Rejoignez-nous, cette place est faite pour vous !
+
+LISTE (NON EXHAUSTIVE) DES AVANTAGES QUI VOUS SERONT RÉSERVÉS
+
+ * Rémunération sur 13 mois 
+ * Des primes d'intéressement et de participation 
+ * Un accompagnement de proximité par votre tuteur et la direction des Ressources Humaines
+ * De réelles perspectives d'évolution en interne
+ * Des tickets restaurants 
+ * Une mutuelle d'entreprise individuelle ou familiale 
+ * Un comité d'entreprise 
+ * Une agence bancaire collaborateurs, avec des conseillers dédiés à la gestion de vos comptes et ceux de votre famille 
+ * Une culture d'entreprise résolument coopérative, responsable et innovante où l'enthousiasme est clé, à découvrir ici : www.bpgototheplace.fr ",2022-02-05T10:40:16.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDD,Contrat à durée déterminée - 24 Mois,Contrat apprentissage,E,Expérience exigée,,,35 H ,Temps plein,True,1,False,7,Technicien,,,,,44 - NANTES,-1.54831,47.231636,,44109,Banque Populaire Grand Ouest,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8910971,"UN « PETIT » MOT SUR NOUS 
+
+La Banque Populaire Grand Ouest est une grande équipe de près de 3 000 collaborateurs, répartis sur tout le Grand Ouest, dans 12 départements, avec nos 2 marques, Banque Populaire Grand Ouest et Crédit Maritime Grand Ouest. Selon nos expertises et nos métiers, nous accompagnons nos 900 000 clients (dont plus de 350 000 sociétaires) soit dans l'une de nos 350 agences, soit dans l'un de nos 3 sites centraux de Rennes, Nantes et Angers. ","[{'nom': 'BROADBEAN', 'url': 'https://www.aplitrak.com/?adid=Z28uMjkxMTguNjcwNkBicGNlLmFwbGl0cmFrLmNvbQ', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/broadbean80.png'}]",,,,,"[{'libelle': 'Français', 'exigence': 'E'}]",,,,,,,
+27,8858368,Développeur Master Data Management (H/F),"La Poste Groupe change, nos métiers évoluent.
+Etre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.
+Chaque jour, sur l'ensemble du territoire, nos 250 000 collaborateurs imaginent les services de demain. 
+Rejoindre La Poste Groupe, c'est rejoindre une entreprise responsable !
+Vous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.
+Venez participer à la transformation digitale du Groupe La Poste en intégrant le CSM SI (Centre de Services Mutualisés SI) pour travailler sur la nouvelle offre Groupe de Master Data Management.
+Vous intégrerez  le Centre de Solutions Siège et Support (C3S) qui a pour objectif d'accompagner ses clients dans la mise en œuvre de leur SI en cohérence avec le plan stratégique La Poste 2030.
+En tant que développeur Master Data Management, vous accompagnerez la mise en œuvre des référentiels de l'entreprise pour optimiser et valoriser leurs données. Au quotidien, vous interviendrez sur des activités de cadrage, de développement dans un environnement de projet agile.
+Vos activités principales :
+- Recueil des besoins métiers
+- Animation d'ateliers de conception fonctionnelle et technique
+- Description des processus métiers liés aux données
+- Réalisation des modèles de données
+- Conception et paramétrage des solutions de MDM
+- Suivi et participation aux développements logiciels
+- Mise à jour des documentations fonctionnelles et techniques
+- Coordination des échanges entre les différentes équipes : chef de projet, techlead, .
+- Partage et diffusion des bonnes pratiques
+- Participation à la conduite du changement
+Issu(e) d'une formation Ingénieur ou équivalent, vous êtes familier avec la mise en place de solutions Master Data Management (MDM). Vous détenez les notions d'acquisition, mise en qualité, création de golden record et diffusion des données de référence. Vous connaissez une ou plusieurs bases de données relationnelles (Oracle, SQL Server, .).
+Vous avez 3 à 5 années d'expériences avec une expérience sur une des principales solutions de Master Data Management du marché : principalement TIBCO EBX, Semarchy ou autres. 
+Vous connaissez les méthodes agiles (SCRUM, SAFE, .). 
+Poste situé à Nantes. Déplacements ponctuels sur Paris
+ ",2022-02-04T17:46:14.000Z,2022-02-11T20:35:30.000Z,M1805,Études et développement informatique,Développeur / Développeuse informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 1 An(s),,,,,False,1,False,,,53,Activités de poste dans le cadre d'une obligation de service universel,,,44 - NANTES,47.239367,-1.555335,,44109,GROUPE LA POSTE,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8858368, ,"[{'nom': 'SAP SuccessFactors', 'url': 'https://lapostegr.contactrh.com/jobs/6469/37899921', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/multiposting80.png'}]",,,,,,,,,,,,
+28,127JWMN,Data manager (F/H),"Notre client va participer à une mission nationale dans le cadre du dispositif de soutien à l'innovation en santé et vos actions prioritaires de la mission -Réceptionner des données pseudonymisées en provenance des expérimentateurs et les déposer dans un espace projet dédié sur le portail SNDS de la Cnam, accessible uniquement aux évaluateurs -Vérifier la qualité des données transmises (complétude et cohérence des données transmises par rapport à la description faite par l'expérimentateur et à la demande exprimée par les évaluateurs) - Gérer les contacts nécessaires à la fois avec les expérimentateurs, le tiers de confiance en charge de la pseudonymisation situé à la Caisse d'Assurance Maladie  -d'Ille-et-Vilaine, les évaluateurs, ainsi qu'avec le data manger de la Cnam dédié au pilotage général de ces opérations.
+
+Vous devrez globalement assurer la mise à disposition des données provenant des expérimentations aux évaluateurs. Pour cela, vous serez 
+le contact privilégié du porteur de projet, de la plateforme article 51, de l'évaluateur et du tiers de confiance en charge de la pseudonymisation (Caisse d'Assurance Maladie d'Ille-et-Vilaine) pour toutes les extractions hors SNDS- Vous assurez une aide technique au porteur de projet pour les aider à pseudonymiser leurs données -Réaliser la concaténation de l'ensemble des informations nécessaires à l'évaluation, celles émanant directement des porteurs de projets, ainsi que celles transmises par la plateforme de facturation « Article 51 », à l'exception des données issues du SNDS- Effectuer des travaux de data management sur les données (nettoyage, contrôle de cohérence ). - Serez néanmoins en contact avec le data manager SNDS pour pseudonymiser les données et participer à la gestion des droits d'opposition et de rectification des patients. 
+
+Salaire et conditions 
+
+Déplacements : Des déplacements pourront avoir lieu à Paris
+Rémunération :salaire de 1 929,09 € brut mensuel (en annuel 27 007,25 €)
+Début de la mission : 1er mars 2022
+Durée de la mission : 18 mois",2022-02-01T15:32:33.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Directeur / Directrice d'études économiques,MIS,Mission intérimaire - 12 Mois,Contrat travail,E,2 ans,"[{'codeFormation': '71654', 'domaineLibelle': 'logiciel système gestion bases données', 'niveauLibelle': 'Bac+2 ou équivalents', 'exigence': 'E'}]","[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite (études, synthèses, rapports, bulletins, ...) et établir des prévisions, des évaluations, des recommandations, des perspectives, ..."", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '122609', 'libelle': ""Définir les méthodes et les outils de traitement de l'information"", 'exigence': 'S'}]",35H Horaires normaux,Temps plein,False,1,False,7,Technicien,78,Activités des agences de travail temporaire,,False,44 - NANTES,47.239367,-1.555335,44000,44109,RANDSTAD TERTIAIRE,False,"Mensuel de 1929,09 Euros sur 12 mois",RANDSTAD TERTIAIRE - Mme Nadia LE PAGE,https://www.randstad.fr/offre/001-376-0005880_01C/A?utm_source=pole-emploi&utm_medium=jobboard&utm_campaign=offres,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/127JWMN,"Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !
+Votre agence, Pôle d'expertise relation client, vous offre de nombreuses opportunités d'emploi et vous accompagne tout au long de votre carrière.",,https://www.randstad.fr/offre/001-376-0005880_01C/A?utm_source=pole-emploi&utm_medium=jobboard&utm_campaign=offres,,,Candidater sur le site du recruteur,,https://entreprise.pole-emploi.fr/static/img/logos/7sXx35Y6yLf2t2Ytrzn4LcuLMoUIl5OA.png,,,,,,
+29,8671364,Data analyst - H/F,"DESCRIPTIF DU POSTE
+
+ 
+
+Dalkia Froid Solutions, acteur majeur de la réfrigération, spécialisée dans les services énergétiques pour les process industriels et tertiaires, recrute un(e) DATA ANALYST - Statisticien, mathématiques appliquées, contrôleur de gestion.
+
+ 
+
+Rattaché(e) à la Responsable Contrôle de Gestion, vous prenez en charge la conception des reportings financiers et opérationnels pour les différentes filières de l'entreprise.
+
+ 
+
+Dans ce cadre, vos missions principales seront:
+
+- Recueillir les besoins utilisateurs et établir le cahier des charges des demandes
+
+- Préparer les données (vérification, formatage, nettoyage)
+
+- Analyser et interpréter les données pour résoudre les anomalies et apporter des améliorations opérationnelles
+
+- En lien avec la DSI, développer des reportings dans notre outil de BI Qlik Sense. Aider les autres utilisateurs de la DAF à s'approprier l'outil et à construire leurs propres rapports. Assurer la création de rapports complexes.
+
+- Optimiser les processus et automatiser les taches récurrentes
+
+- Améliorer en continu les outils de gestion avec les contrôleurs de gestion
+
+- Participer à la création de modèles de simulation sur Excel ou dans l'outil de BI
+
+- Participer à l'élaboration du budget et à l'optimisation d'outils
+
+- Assister, conseiller, accompagner vos collègues pour une exploitation optimale des rapports
+
+ 
+
+Vous travaillez étroitement avec la DSI pour déterminer le modèle de récupération des données.
+
+Vous assurez le support utilisateurs pour d'éventuelles évolutions ou corrections.
+
+ 
+
+Le poste est basé au siège de la société à Angers (Verrières-en Anjou -49).
+
+
+COMPÉTENCES REQUISES
+
+ 
+
+Spécialiste du traitement de la donnée et des systèmes d'information appliqués à la gestion, vous disposez d'une expérience confirmée sur un poste similaire, si possible dans un environnement multi-sites.
+
+Vous maitrisez parfaitement les requêtes SQL, Excel, ses fonctions avancées et l'utilisation de VBA. Idéalement, vous avez une première expérience en système de BI, idéalement Qlik sense.
+
+Vous êtes reconnu(e) pour votre rigueur et votre autonomie au travail.
+
+Vos compétences relationnelles vous permettront d'appréhender rapidement l'environnement Dalkia Froid Solutions et vous assureront une bonne intégration au sein des équipes techniques avec lesquelles vous serez amené(e) à travailler. 
+
+Dalkia Froid Solutions s'engage en faveur de la diversité et de l'intégration des personnes en situation de handicap. C'est pourquoi cette offre d'emploi est ouverte à toutes et à tous.
+
+ 
+
+ ",2022-02-01T13:01:05.000Z,2022-02-11T20:35:30.000Z,H2502,Management et ingénierie de production,Chef d'unité de production,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,,False,1,False,9,Cadre,,,,,49 - ANGERS,47.466735,-0.56191,,49007,DALKIA Recrutement,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8671364,"Dalkia, filiale du Groupe EDF, est le leader des services énergétiques en France. Proposer des solutions sur-mesure à l'échelle de chaque bâtiment, chaque ville, chaque collectivité, chaque territoire et de chaque site industriel, telle est notre vocation. ","[{'nom': 'DALKIA', 'url': 'https://www.altays-progiciels.com/dalkia-recrutement-externe/back/offre/redirectOffreSiteCarriere/1?NoLangue=1&NoSociete=89&NoOffre=2190901&NoSource=8', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/dalkia80.png'}]",,,,,,,,,,,,
+30,8620158,Actuaire/Data Scientist Référent F/H (H/F),"Actuaire/Data Scientist Référent F/H
+La Direction Audit Interne Covéa recherche un actuaire expérimenté F/H (certifié de préférence mais pas exclusivement), ayant aussi une appétence (ou mieux encore une expérience) en data analytics, afin de renforcer :
+- d'une part l'évaluation des modèles de tarification, de provisionnement et de gestion des risques du Groupe, lors des missions d'audit,
+- d'autre part les travaux d'analyse de données et de data science au service des missions d'audit, dans le cadre des investigations menées (travaux du pôle Data Analytics de la Direction).
+Rattachée à la Présidence, la Direction Audit interne, composée d'une trentaine de collaborateurs, apporte aux organes de direction un éclairage indépendant sur le fonctionnement de l'Entreprise et propose des améliorations afin de renforcer son efficacité, sa fiabilité et sa sécurité financière.
+Missions principales :
+Rattaché au Manager du pôle du Mans ou de Paris et sous la supervision du Practice Manager, vous serez responsable des études actuarielles visant à évaluer les modèles et systèmes de tarification, provisionnement et gestion des risques, mais aussi leader des travaux de data analysis/data science du pôle Data Analytics.
+Sur le volet « actuariat » du poste :
+· Vous effectuerez toutes les analyses nécessaires à l'évaluation des modèles (tarification, provisionnement, gestion des risques) dans le cadre des audits de société ou d'activité menés.
+· Vous contribuerez aux analyses de la performance économique des sociétés et branches d'assurance.
+Sur le volet « data analytics » :
+- Vous aurez l'opportunité d'appréhender et d'exploiter l'ensemble des données du groupe Covéa et de ses 3 marques (MAAF, MMA, GMF).
+- Vous utiliserez tout l'éventail des méthodes statistiques et de data science (de nature descriptive ou exploratoire le plus souvent, en recourant parfois au machine learning ou au text mining) pour détecter et mesurer les dysfonctionnements et anomalies, contribuant à établir le diagnostic de la maîtrise des activités.
+- Vous serez chargé de suivre et d'encadrer pour une part l'activité du data scientist junior que vous accompagnerez dans son développement.
+- Vous intégrerez le réseau des data scientists du groupe Covéa, via la comitologie existante et des contacts plus informels, afin de maintenir et développer le savoir-faire du pôle dans le traitement des données.
+Dans les 2 cas, vous décrirez formellement vos analyses et leurs conclusions que vous partagerez avec les auditeurs internes et présenterez si besoin aux responsables des activités auditées.
+Qualités requises :
+- Formation académique bac+5 en actuariat ou statistiques/data science.
+- Expérience d'au moins 3 ans dans un pôle actuariat (avec une appétence/expérience en data science)
+- Maîtrise des outils bureautiques usuels (Excel, Powerpoint notamment) et connaissance des logiciels ou langages de manipulation de données et de traitement statistique tels que SAS ou R (voire Python, SQL, outils DataViz ou Excel VBA).
+- Curiosité intellectuelle et capacité à appréhender des sujets nouveaux
+- Rigueur, capacité d'analyse et de synthèse.
+- Capacité de mobilisation et de travail en équipe, avec le souci de bien communiquer par écrit ou oralement.
+Poste basé au Mans ou à Paris, avec des déplacements ponctuels possibles sur tous les sites de Covéa.
+Envie de choisir votre avenir par passion ou par raison ? Et pourquoi pas les deux ?
+Covéa, c'est un groupe d'assurances puissant réunissant trois marques complémentaires (MAAF, MMA, GMF).
+C'est également 21 000 collaborateurs qui mettent en commun leur talent et leur enthousiasme pour accompagner nos clients sociétaires et construire le futur de l'assurance.
+Alors, envie de construire le futur ? Rejoignez-nous. ",2022-01-31T20:11:07.000Z,2022-02-11T20:35:30.000Z,M1403,Études et prospectives socio-économiques,Data scientist,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,,,,False,1,False,9,Cadre,,,,,72 - LE MANS,47.99337,0.190947,,72181,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/8620158, ,"[{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/8c9a58c2618766444d1a18e0572c210f', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]",,,,,,,,,,,,
+31,125WZHY,Développeur / Développeuse Big Data - BI (H/F),"Et si vous viviez l'expérience du changement ? Développer, imaginer, créer, digitaliser, accompagner, transformer : l'expérience du changement est stimulante et épanouissante.
+
+Nous vous proposons de venir la vivre avec nous, en rejoignant un univers où le design de solutions rencontre la technologie de pointe.  Faites bouger les lignes en gagnant en agilité et en créativité et en prenant place dans un large réseau d'experts international. Construisez une carrière agile dans un environnement de travail flexible.
+
+Rejoignez Accenture certifiée Great Place To Work, et venez imaginer, transformer et impacter positivement le monde.
+
+En tant que Développeur/se BigData - Business Intelligence, quelles seront vos missions ? 
+-	Participer à la conception, au développement et à la maintenance d'applications Bigdata visant à alimenter les Datalakes de nos clients ou à en consommer les données qui y sont stockées ;
+-	Contribuer à la mise en œuvre de l'infrastructure technique : plateformes, serveurs, préparatifs liés à l'entreprise et au logiciel, sécurité et gestion des opérations ;
+-	Définir les architectures logicielles en tenant compte des enjeux en matière d'évolutivité et de maintenabilité ;
+-	Participer à l'intégration des composantes techniques et logicielles pour répondre aux besoins de l'entreprise ;
+-	Être garant de la qualité et de la performance des réalisations, en respect des spécifications techniques et fonctionnelles.
+
+Le métier de Développeur/se BigData est fait pour vous si : 
+-	Vous êtes titulaire d'un Bac +2/3 ou êtes formé sur des langages de programmation; 
+-	Vous avez une ou plusieurs expériences BigData (Python, Hadoop, Spark, Hive, HQL, Sqoop, Scala), ou l'envie de monter en compétences sur ces technologies ;
+
+Une formation préalable au recrutement est envisageable (POE de 600H du 04/04/2022 au 05/08/2022 à Simplon - prérequis : être inscrit sur la liste des demandeurs d'emploi)",2022-01-06T10:03:42.000Z,2022-03-01T09:42:15.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,"[{'code': '109846', 'libelle': 'Concevoir et développer les programmes et applications informatiques', 'exigence': 'S'}, {'code': '117309', 'libelle': 'Établir un cahier des charges', 'exigence': 'S'}, {'code': '121055', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '121398', 'libelle': 'Analyser des problèmes techniques', 'exigence': 'S'}, {'code': '124517', 'libelle': 'Rédiger une Spécification Technique de Besoin (STB)', 'exigence': 'S'}]",37H Horaires normaux,Temps plein,False,1,False,7,Technicien,62,Autres activités informatiques,"[{'libelle': 'Curiosité', 'description': ""Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée. Exemple : avoir l'envie d'apprendre""}, {'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}, {'libelle': 'Rigueur', 'description': ""Capacité à respecter les règles et codes de l'entreprise, à réaliser des tâches en suivant avec précision les procédures et instructions fournies , à transmettre des informations avec exactitude. Exemple : être ponctuel, respecter les engagements, résister à la distraction""}]",False,44 - ST HERBLAIN,47.227082,-1.625284,44800,44162,ACCENTURE TECHNOLOGY SOLUTIONS,False,"Annuel de 24000,00 Euros à 35000,00 Euros sur 12 mois",Pôle Emploi ST HERBLAIN,4 RUE DE LA GIRONDE,,1,https://candidat.pole-emploi.fr/offres/recherche/detail/125WZHY,,,,,,,"[{'libelle': 'Anglais', 'exigence': 'S'}]",,,44800 ST HERBLAIN,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/125WZHY",2,Ponctuels National,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/125WZHY"
+32,7238894,Data analyste #client final# (H/F),"Data analyste #client final# (H/F)
+Envie d'un nouveau challenge dans un beau groupe international bien implanté à Angers depuis des années ?Alors lisez ce qui va suivre !Je recrute pour mon client , acteur dans le domaine industriel, unData Analyst H/Fen CDI dans le cadre d'une création de poste. Je vous parle du QUOI !?Intégré au sein de l'équipe Data Excellence pilotée par le Data Manager.L'équipe Data Excellence regroupe un pôle de compétences expertes, transverses à l'organisation du groupe en France et complémentaires (BI, Ingénieur, Architecte, Business Analyst, Data Analyst, Expert métiers, ...)Vous travaillez dans un contexte international avec des acteurs en France et à l'étranger, dans d'autres Business Units ainsi qu'au siège en Suède.Vos missions: - comprendre les problématiques métiers, participez à l'expression des besoins, identifiez et qualifiez les données nécessaires pour les cas d'usage - proposer les règles de gestion des données et la mise à jour évolutive du catalogue de données et référentiel commun. Vous fournissez pour les cas d'usage, les cahiers des charges du data Ingeneer et aux collègues impliqués - travailler avec les Data Stewards en les guidant dans la détection des erreurs et leur correction - aider l'équipe de développement BI dans l'identification et l'usage des bonnes données ou algorithmes - développer et déployer les rapports BI, formez les utilisateurs, produisez des analyses et êtes en capacité de les commenter?Rémunération: fixe sur 13 mois + restauration d'entreprise + mutuelle et prévoyance + intéressement et participationMobilité: un déménagement est à prévoir sur Angers ? Manpower peut vous accompagner dans votre mobilité. Et si on parlait de VOUS !De formation BAC +3 (type Licence en statistiques et traitement de l'information), vous justifiez d'au moins 2 ans sur un poste similaire.Compétences techniques: - Power BI - Outils de data visualisation - Connaissance de Snowflake ou équivalent - gestion des sécurités dans les datasets - Vous êtes familier avec Devops et les méthodes AgilesVous êtes à l'aise en Anglais, tant à l'oral qu'à l'écrit.Les +:- un cadre de travail épanouissant- des possibilités de formation en interne et externe- une possibilité d'évolution encouragéeBesoin de plus d'infos ?Contactez moi !Aurélie MAURYConsultante en recrutement ITDans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap
+Profil :
+Data analyste #client final# (H/F)
+Poste en CDI
+ ",2022-01-04T13:17:58.000Z,2022-02-22T20:30:11.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,,False,1,False,,,78,Activités des agences de travail temporaire,,,49 - ANGERS,47.466735,-0.56191,,49007,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/7238894,Activité du client : Industries manufacturières et production ,"[{'nom': 'METEOJOB', 'url': 'https://www.meteojob.com/candidat/offres/offre-d-emploi-data-analyst-h-f-angers-pays-de-la-loire-recrutement-et-placement-cdi-20296246', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/meteojob80.png'}]",,,,,,,,,,,,
+33,9908610,Études et développement informatique,"Sopra Steria, l'un des leaders européens du conseil, des services numériques et de l'édition de logiciels, aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Il apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. Fort de 45 000 collaborateurs dans 25 pays, le Groupe a réalisé un chiffre d'affaires de 4,1 milliards d'euros en 2018.The world is how we shape it.Sopra Steria (SOP) est coté sur Euronext Paris (Compartiment A) - Code ISIN : FR0000050809Pour plus d'informations, retrouvez-nous sur www.soprasteria.comLa division « Transport » fait face à de nouveaux défis technologiques, de fiabilité et de réduction de l'impact environnemental. Transporter n'est plus suffisant, il faut être au rendez-vous à chaque instant : assurer le service et les nouveaux services. Pour cela, les experts Sopra Steria interviennent notamment sur la production ferroviaire, le parcours voyageur, les nouveaux services postaux, la vente omni-canal, le data management et l'asset management.Votre futur environnement de travail :Au sein de l'agence Transport de Nantes, vous intégrez le Centre de compétences BI & Big Data qui accompagne notre client sur les technologies de traitement et de valorisation des données. Nos équipes à taille humaine y mènent des projets Agiles.Votre rôle et tâches :Dans le cadre de la transformation du SI Post-Opérationnel vers l'offre Big Data d'un acteur majeur du transport public, vous intervenez sur les phases de réalisation des solutions délivrées, de leur conception technique à leur déploiement sur les environnements du client, et sur les phases amont d'études :- Etudes fonctionnelles et techniques ;- Ingestion des flux de données ;- Modélisation, traitement et archivage des données ;- Restitution et valorisation des données au sein de solutions de data viz ;- Utilisation des techniques DevOPS.Ce que nous vous proposons :- Un accompagnement sur mesure, à travers des actions de formation, un suivi opérationnel et RH fort et individualisé ;- Une montée en compétences et une évolution de carrière dont vous êtes le principal acteur ;- Un environnement de travail agréable et collaboratif ;- Un cadre dans lequel la créativité de nos collaborateurs fait partie intégrante de notre processus d'innovation.Diplômé(e) d'une école d'Ingénieurs ou équivalent Universitaire, vous justifiez d'une expérience en informatique dans les technologies BI & Big Data.Proactif(ve), vous aimez participer à la vie des projets, partager vos connaissances et en acquérir de nouvelles.Vous êtes en recherche d'une nouvelle aventure dans un environnement de travail motivant ?Vous souhaitez monter en compétences et travailler sur des projets qui vous boostent ? Alors, ce poste est fait pour vous !Toutes nos opportunités sont ouvertes aux personnes en situation de handicap :https://www.soprasteria.fr/carrieres/decouvrez-sopra-steria/nos-engagements-rse ",2022-02-26T13:07:31.000Z,2022-03-01T03:32:18.000Z,M1805,Études et développement informatique,Développeur / Développeuse Big Data,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée de 3 An(s),,,,,False,1,False,,,,,,,44 - Loire Atlantique,,,,,Forum Emploi-Formation-Alternance: Talents Handicap,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/9908610, ,"[{'nom': 'STUDYRAMA', 'url': 'https://www.studyrama-emploi.com/home_offre_detail.php?id_offre=1865568&amp;utm_source=Partenariat&amp;utm_medium=poleemploi&amp;utm_campaign=1865568', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/studyrama80.png'}]",,,,,,,,,,,,
+34,0040793,Business Analyst H/F,"En tant que Business Analyst, votre rôle sera d'être un véritable « pendant » du Product Owner sur la gestion de projet en mode Agile et de suivre les phases de développement d'un projet informatique. Pour le compte de nos clients, vos missions seront les suivantes :
+ Missions
+ * Recueil ,analyse et rédaction des besoins métier
+ * Alimentation et amélioration du Backlog
+ * Rédiger et prioriser les US
+ * Intégrer les contraintes techniques
+ * Effectuer les tests pour validation
+ * Communication avec les développeurs / product owner
+ * Obtenir des utilisateurs/clients la validation des développements réalisés
+ * Participation aux cérémonies
+ Profil Souhaité
+ Si vous disposez d'une expérience d'au moins 2 ans sur un poste similaire et avez déjà participé à des projets informatiques, ce poste est fait pour vous.
+ Vous devez disposer d'une forte capacité d'analyse, d'une bonne capacité d'écoute et de communication. Les différents métiers de l'entreprise ne sont plus un secret pour vous et vous possédez une bonne connaissance des méthodes agiles, plus particulièrement Scrum.
+ Type d'emploi : Temps plein, CDIStatut : Cadre
+ Salaire : 33 000,00€ à 54 000,00€ par an
+ Avantages :
+ * Participation au Transport
+ * Titre-restaurant
+ Horaires :
+ * Travail en journée
+ Rémunération supplémentaire :
+ * Primes
+ ",2022-03-02T05:52:17.000Z,2022-03-02T05:52:17.000Z,M1403,Études et prospectives socio-économiques,Data analyst,CDI,Contrat à durée indéterminée,Contrat travail,E,Expérience exigée,,,,,False,1,False,,,,,,,44 - NANTES,47.239367,-1.555335,,44109,,False,,,,,2,https://candidat.pole-emploi.fr/offres/recherche/detail/0040793, ,"[{'nom': 'INDEED', 'url': 'https://www.indeed.fr/emploi/business-analyst-hf-677f1af8bb434c9c?from=poleemploi', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/indeed80.png'}]",,,,,,,,,,,,
+35,128XNSQ,Ingénieur / Ingénieure de production informatique (H/F),"En renfort des équipes actuelles, vous assurez : 
+- l'installation et la configuration des serveurs et applications
+- la configuration de la supervision et l'ordonnancement
+- la mise en place de sauvegardes
+- l'installation de packages applications livrés par les TMA
+- l'automatisation des déploiements
+- la rédaction des documents (DAT/DEX/docs techniques, MODOP ...)
+- participation aux réunions projets
+
+Les technologies utilisées sont : CentOS, Windows server, Apache, Tomcat, VTOM, Centreon, Ansible, Java, CFT
+
+Les qualifications demandées sont : Data Warehousing, Emerging Technology Monitoring.",2022-03-01T11:12:22.000Z,2022-03-01T11:51:09.000Z,M1810,Production et exploitation de systèmes d'information,Ingénieur / Ingénieure de production informatique,CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,,"[{'code': '102176', 'libelle': 'Réaliser la maintenance de premier niveau de matériel informatique', 'exigence': 'S'}, {'code': '109969', 'libelle': ""Superviser et vérifier l'état des ressources informatiques, réaliser les sauvegardes et les archivages de données"", 'exigence': 'S'}, {'code': '109971', 'libelle': ""Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives"", 'exigence': 'S'}, {'code': '109973', 'libelle': ""Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logiques et physiques"", 'exigence': 'S'}, {'code': '121643', 'libelle': 'Effectuer une assistance technique', 'exigence': 'S'}, {'libelle': 'DATA WAREHOUSING', 'exigence': 'E'}, {'libelle': 'EMERGING TECHNOLOGY MONITORING', 'exigence': 'E'}]",35H Horaires normaux,Temps plein,False,1,False,9,Cadre,71,"Ingénierie, études techniques","[{'libelle': 'Force de proposition', 'description': 'Capacité à être proactif, à initier, à imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou pour améliorer une situation. Exemple : proposer des améliorations, être positif et constructif'}, {'libelle': 'Sens de la communication', 'description': ""Capacité à transmettre clairement des informations, à échanger, à écouter activement, à réceptionner des informations et messages et à faire preuve d'ouverture d'esprit. Exemple : être à l'écoute, être attentif aux autres""}, {'libelle': 'Travail en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise en confiance et en transparence pour réaliser les objectifs fixés. Exemple : aider ses collègues, savoir demander de l'aide""}]",False,49 - ANGERS,47.466735,-0.56191,49000,49007,R2E CONSEIL,False,Annuel de 45000 Euros à 58000 Euros sur 12 mois,R2E CONSEIL - Mme VERONIQUE LEBRET,"Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128XNSQ","Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/128XNSQ",1,https://candidat.pole-emploi.fr/offres/recherche/detail/128XNSQ,"De la définition d'un produit ou service jusqu'à son exploitation, de sa conception à sa fabrication, R2E CONSEIL intervient sur plusieurs métiers, et notamment l'Ingénierie des Systèmes d'Information, l'Ingénierie Informatique, l'Ingénierie Industrielle, l'Ingénierie Scientifique ....",,,,,,,,http://www.r2econseil.fr,,,,,
